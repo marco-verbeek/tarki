@@ -1,0 +1,31 @@
+{
+  "name": "tarki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run web && npm run api",
+    "web": "cd apps/web && npm run start",
+    "web:build": "cd apps/web && npm run build",
+    "api": "cd apps/api && npm run start:dev",
+    "api:build": "cd apps/api && npm run build",
+    "prepare": "husky install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "lint-staged": "^12.1.5",
+    "prettier": "2.5.1"
+  },
+  "lint-staged": {
+    "apps/**/*.{js,ts}": [
+      "eslint --fix --max-warnings=0"
+    ],
+    "*.json": [
+      "prettier --write"
+    ]
+  }
+}
