@@ -1,9 +1,9 @@
-import { ItemSearchResult } from 'api-definitions/itemSearchResult';
 import { Injectable, OnModuleInit } from '@nestjs/common';
 
+import { ItemSearchResult } from '../../../../packages/api-definitions/itemSearchResult';
+import { Quest } from '../../../../packages/api-definitions//quest';
 import { itemSearch } from '../graphql/requests';
 import { fetchAllQuests } from './../graphql/requests';
-import { Quest } from 'api-definitions/quest';
 
 @Injectable()
 export class ItemsService implements OnModuleInit {
