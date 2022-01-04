@@ -1,0 +1,49 @@
+<div class="container">
+  <div class="header">
+    <h1>Tarki Tools</h1>
+    <div class="separator"></div>
+  </div>
+
+  <div class="wrapper">
+    <div class="field">
+      <p class="label">Item Names (separated by &lt;ENTER&gt;)</p>
+      <textarea></textarea>
+    </div>
+
+    <table mat-table [dataSource]="items" class="mat-elevation-z8">
+      <ng-container matColumnDef="icon">
+        <th mat-header-cell *matHeaderCellDef> Icon </th>
+        <td mat-cell *matCellDef="let item"> <img [src]="item.icon" /> </td>
+      </ng-container>
+
+      <ng-container matColumnDef="name">
+        <th mat-header-cell *matHeaderCellDef> Name </th>
+        <td mat-cell *matCellDef="let item"> {{item.name}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="price">
+        <th mat-header-cell *matHeaderCellDef> Price </th>
+        <td mat-cell *matCellDef="let item"> {{item.price}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="quest">
+        <th mat-header-cell *matHeaderCellDef> Used In Quest </th>
+        <td mat-cell *matCellDef="let item"> {{item.quest}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="hideout">
+        <th mat-header-cell *matHeaderCellDef> Used In Hideout </th>
+        <td mat-cell *matCellDef="let item"> {{item.hideout}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="barter_crafting">
+        <th mat-header-cell *matHeaderCellDef> Used In Barter / Crafting </th>
+        <td mat-cell *matCellDef="let item"> {{item.barter_crafting}} </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="headers"></tr>
+      <tr mat-row *matRowDef="let row; columns: headers;"></tr>
+
+    </table>
+  </div>
+</div>
