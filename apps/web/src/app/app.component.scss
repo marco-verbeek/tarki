@@ -1,0 +1,16 @@
+.app-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.page-container {
+  position: relative;
+  flex: 1;
+  display: flex;
+  overflow: auto;
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins';
+  color: #e5e5e5;
+}
