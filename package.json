@@ -4,14 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run web && npm run api",
-    "test": "npm run web:test && npm run api:test",
     "web": "cd apps/web && npm run start",
     "web:build": "cd apps/web && npm run build",
     "web:test": "cd apps/web && npm run test",
     "api": "cd apps/api && npm run start:dev",
     "api:build": "cd apps/api && npm run build",
     "api:test": "cd apps/api && npm run test",
+    "test": "npm run web:test && npm run api:test",
     "prepare": "husky install",
     "install": "cd apps/web && npm run i && cd apps/api && npm run i"
   },
