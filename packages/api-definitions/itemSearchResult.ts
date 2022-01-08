@@ -10,6 +10,18 @@ export class ItemSearchResult {
   itemId: string;
   itemName: string;
 
+  /**
+   * Format: {price} {currency} @ FleaMarket
+   * 22143 RUB @ FleaMarket
+   */
+  marketPrice: string;
+
+  /**
+   * Format: {price} {currency} @ {traderName}
+   * 22143 RUB @ Therapist
+   */
+  traderPrice: string;
+
   wikiLink: string;
   imageLink: string;
 

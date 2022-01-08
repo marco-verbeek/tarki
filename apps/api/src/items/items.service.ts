@@ -1,7 +1,8 @@
 import { Injectable, OnModuleInit } from '@nestjs/common';
 
-import { ItemSearchResult } from '../../../../packages/api-definitions/itemSearchResult';
-import { Quest } from '../../../../packages/api-definitions//quest';
+import { ItemSearchResult } from 'api-definitions/itemSearchResult';
+import { Quest } from 'api-definitions/quest';
+
 import { itemSearch } from '../graphql/requests';
 import { fetchAllQuests } from './../graphql/requests';
 
@@ -14,24 +15,20 @@ export class ItemsService implements OnModuleInit {
   }
 
   getQuestsRelatedToItem(id: string): Quest[] {
-    return (
-      this.quests ||
-      []
-        .filter(quest =>
-          quest.objectives.some(
-            objective =>
-              objective.type === 'find' && objective.target.includes(id),
-          ),
-        )
-        .map(quest => ({
-          title: quest.title,
-          itemId: id,
-          itemQty: quest.objectives.filter(o => o.target.includes(id))[0]
-            .number,
-          wikiLink: quest.wikiLink,
-          giver: quest.giver.name,
-        }))
-    );
+    return (this.quests || [])
+      .filter(quest =>
+        quest.objectives.some(
+          objective =>
+            objective.type === 'find' && objective.target.includes(id),
+        ),
+      )
+      .map(quest => ({
+        title: quest.title,
+        itemId: id,
+        itemQty: quest.objectives.filter(o => o.target.includes(id))[0].number,
+        wikiLink: quest.wikiLink,
+        giver: quest.giver.name,
+      }));
   }
 
   async search(query: string): Promise<ItemSearchResult[]> {
