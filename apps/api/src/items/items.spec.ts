@@ -1,6 +1,5 @@
 import { BadRequestException } from '@nestjs/common';
 import { Test, TestingModule } from '@nestjs/testing';
-import { ItemSearchResult } from 'api-definitions/itemSearchResult';
 import { ItemsController } from './items.controller';
 import { ItemsService } from './items.service';
 
@@ -14,6 +13,9 @@ describe('ItemsController', () => {
     }).compile();
 
     controller = module.get<ItemsController>(ItemsController);
+
+    // Note: this makes sure OnModuleInit gets called.
+    await module.init();
   });
 
   it('should be defined', () => {
@@ -21,8 +23,8 @@ describe('ItemsController', () => {
   });
 
   describe('GET items', () => {
-    it('should throw when searching for less than 3 chars', async () => {
-      await expect(() => controller.searchItems('a')).toThrowError(
+    it('should throw when searching for less than 3 chars', () => {
+      expect(() => controller.searchItems('a')).toThrowError(
         BadRequestException,
       );
     });
@@ -33,7 +35,7 @@ describe('ItemsController', () => {
       expect(data).toBeInstanceOf(Array);
       expect(data.length).toEqual(1);
 
-      expect(data[0]).toBeInstanceOf(ItemSearchResult);
+      expect(data[0].itemName).toBe('Salewa first aid kit');
       expect(data[0].itemId).toBe('544fb45d4bdc2dee738b4568');
 
       expect(data[0].quests).toBeDefined();
