@@ -1,4 +1,8 @@
-import { Injectable, OnModuleInit } from '@nestjs/common';
+import {
+  Injectable,
+  InternalServerErrorException,
+  OnModuleInit,
+} from '@nestjs/common';
 
 import { ItemSearchResult } from 'api-definitions/itemSearchResult';
 import { Quest } from 'api-definitions/quest';
@@ -15,7 +19,12 @@ export class ItemsService implements OnModuleInit {
   }
 
   getQuestsRelatedToItem(id: string): Quest[] {
-    return (this.quests || [])
+    if (!this.quests)
+      throw new InternalServerErrorException(
+        "Could not fetch quests from Tarkov-Tools' API",
+      );
+
+    return this.quests
       .filter(quest =>
         quest.objectives.some(
           objective =>
