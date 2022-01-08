@@ -31,18 +31,35 @@ export class ItemsService implements OnModuleInit {
       }));
   }
 
+  getHighestBuyingTraderPrice(
+    traderPrices: {
+      price: number;
+      trader: { name: string };
+    }[],
+  ): string {
+    const highestBuying = traderPrices.reduce((prev, current) =>
+      prev.price > current.price ? prev : current,
+    );
+
+    return `${highestBuying.price} @ ${highestBuying.trader.name}`;
+  }
+
   async search(query: string): Promise<ItemSearchResult[]> {
     const items = await itemSearch(query);
 
-    return items.map(item => ({
-      itemId: item.id,
-      itemName: item.name,
-      wikiLink: item.wikiLink,
-      imageLink: item.imageLink,
-      quests: this.getQuestsRelatedToItem(item.id),
-      barters: [],
-      hideoutCrafts: [],
-      hideoutUpgrades: [],
-    }));
+    return items.map(
+      (item): ItemSearchResult => ({
+        itemId: item.id,
+        itemName: item.name,
+        wikiLink: item.wikiLink,
+        imageLink: item.imageLink,
+        quests: this.getQuestsRelatedToItem(item.id),
+        barters: [],
+        hideoutCrafts: [],
+        hideoutUpgrades: [],
+        marketPrice: `${item.avg24hPrice} @ FleaMarket`,
+        traderPrice: this.getHighestBuyingTraderPrice(item.traderPrices),
+      }),
+    );
   }
 }

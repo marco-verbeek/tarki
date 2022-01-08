@@ -1,5 +1,6 @@
 import { BadRequestException } from '@nestjs/common';
 import { Test, TestingModule } from '@nestjs/testing';
+import { ItemSearchResult } from 'api-definitions/itemSearchResult';
 import { ItemsController } from './items.controller';
 import { ItemsService } from './items.service';
 
@@ -32,6 +33,7 @@ describe('ItemsController', () => {
       expect(data).toBeInstanceOf(Array);
       expect(data.length).toEqual(1);
 
+      expect(data[0]).toBeInstanceOf(ItemSearchResult);
       expect(data[0].itemId).toBe('544fb45d4bdc2dee738b4568');
 
       expect(data[0].quests).toBeDefined();
