@@ -31,13 +31,16 @@ export class ItemsService implements OnModuleInit {
             objective.type === 'find' && objective.target.includes(id),
         ),
       )
-      .map(quest => ({
-        title: quest.title,
-        itemId: id,
-        itemQty: quest.objectives.filter(o => o.target.includes(id))[0].number,
-        wikiLink: quest.wikiLink,
-        giver: quest.giver.name,
-      }));
+      .map(
+        (quest): Quest => ({
+          title: quest.title,
+          itemId: id,
+          itemQty: quest.objectives.filter(o => o.target.includes(id))[0]
+            .number,
+          wikiLink: quest.wikiLink,
+          giver: quest.giver.name,
+        }),
+      );
   }
 
   getHighestBuyingTraderPrice(
