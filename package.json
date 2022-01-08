@@ -11,8 +11,7 @@
     "api:build": "cd apps/api && npm run build",
     "api:test": "cd apps/api && npm run test:watch",
     "test": "npm run web:test && npm run api:test",
-    "prepare": "husky install",
-    "install": "cd apps/web && npm run i && cd apps/api && npm run i"
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
