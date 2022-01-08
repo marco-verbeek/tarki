@@ -7,6 +7,7 @@ export const getItemsByName = gql`
       name
       wikiLink
       imageLink
+      avg24hPrice
       traderPrices {
         price
         trader {
