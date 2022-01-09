@@ -8,6 +8,7 @@
     "web:build": "cd apps/web && npm run build",
     "web:test": "cd apps/web && npm run test",
     "api": "cd apps/api && npm run start:dev",
+    "api:prod": "cd apps/api && npm run start:prod",
     "api:build": "cd apps/api && npm run build",
     "api:test": "cd apps/api && npm run test:watch",
     "test": "npm run web:test && npm run api:test",
