@@ -17,4 +17,5 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_email: ${{secrets.HEROKU_EMAIL}}'
           heroku_app_name: 'tarki'
-          procfile: 'web: npm run web'
+          appdir: 'apps/web'
+          procfile: 'web: node server.js'
