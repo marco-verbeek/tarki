@@ -7,7 +7,8 @@
   <div class="wrapper">
     <div class="field">
       <p class="label">Item Names (separated by &lt;ENTER&gt;)</p>
-      <textarea></textarea>
+      <textarea class="form-control" [(ngModel)]="newItems" name="itemNames" #itemNames="ngModel"></textarea>
+      <button mat-button (click)="searchItems()">Search</button>
     </div>
 
     <table mat-table [dataSource]="items" class="mat-elevation-z8">
@@ -23,7 +24,7 @@
 
       <ng-container matColumnDef="price">
         <th mat-header-cell *matHeaderCellDef> Price </th>
-        <td mat-cell *matCellDef="let item"> {{item.price}} </td>
+        <td mat-cell *matCellDef="let item"> {{item.vendor_price}} <br> {{item.market_price}}</td>
       </ng-container>
 
       <ng-container matColumnDef="quest">

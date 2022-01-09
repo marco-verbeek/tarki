@@ -46,25 +46,15 @@
       }
     }
 
-    .table {
-      display: flex;
-      flex-direction: column;
+    table {
+      background-color: transparent;
 
-      .headers {
-        display: flex;
-        justify-content: space-between;
-        padding: 12px;
+      th {
         background-color: #383e43;
-
-        .column_header {
-        }
+        color: white;
       }
-
-      .row {
-        display: flex;
-        justify-content: space-between;
-        white-space: pre-line;
-        padding: 12px;
+      .mat-cell {
+        color: white;
       }
     }
   }
