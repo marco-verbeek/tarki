@@ -17,4 +17,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_email: ${{secrets.HEROKU_EMAIL}}'
           heroku_app_name: 'tarki-api'
-          procfile: 'web: cd apps/api && npm run build && npm run start:prod'
+          procfile: 'web: cd apps/api && npm run heroku-postbuild && npm run start:prod'
