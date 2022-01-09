@@ -21,7 +21,6 @@
     "@angular/platform-browser": "~13.1.0",
     "@angular/platform-browser-dynamic": "~13.1.0",
     "@angular/router": "~13.1.0",
-    "api-definitions": "file:../../packages/api-definitions",
     "express": "^4.17.2",
     "path": "^0.12.7",
     "rxjs": "~7.4.0",
