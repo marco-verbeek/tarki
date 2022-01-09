@@ -1,0 +1,49 @@
+<div class="modal">
+  <div class="header">
+    <h1 div="title" mat-dialog-title>Select the specific item per request</h1>
+    <div class="action" mat-dialog-actions>
+      <button class="close" mat-button mat-dialog-close>X</button>
+    </div>
+  </div>
+
+  <div mat-dialog-content>
+    <mat-label class="item-row-label">Items foung for 'mk'</mat-label>
+    <div class="items">
+      <div class="item" (click)='selectItem()'>
+        <img src="../../assets/img/salewa.jpg">
+      </div>
+
+      <div class="item" (click)='selectItem()'>
+        <img src="../../assets/img/salewa.jpg">
+      </div>
+
+      <div class="item" (click)='selectItem()'>
+        <img src="../../assets/img/salewa.jpg">
+      </div>
+
+      <div class="item" (click)='selectItem()'>
+        <img src="../../assets/img/salewa.jpg">
+      </div>
+
+      <div class="item" (click)='selectItem()'>
+        <img src="../../assets/img/salewa.jpg">
+      </div>
+
+      <div class="item" (click)='selectItem()'>
+        <img src="../../assets/img/salewa.jpg">
+      </div>
+      <div class="item" (click)='selectItem()'>
+        <img src="../../assets/img/salewa.jpg">
+      </div>
+
+      <div class="item" (click)='selectItem()'>
+        <img src="../../assets/img/salewa.jpg">
+      </div>
+    </div>
+
+  </div>
+
+  <div class="action-add" mat-dialog-actions>
+    <button mat-button (click)="addSelectedItem()">Add</button>
+  </div>
+</div>

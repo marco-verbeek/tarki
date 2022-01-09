@@ -1,0 +1,78 @@
+::ng-deep .mat-dialog-container {
+  background-color: #33373a;
+}
+
+.modal {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  background-color: #33373a !important;
+
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .mat-dialog-title {
+      margin: 0px;
+      color: white;
+    }
+
+    .action {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0px;
+      padding: 0px;
+      min-height: min-content;
+
+      .close {
+        background-color: #cad1d6;
+        border-color: #cad1d6;
+        color: #5b5f61;
+        padding: 2px;
+        width: 24px;
+        height: 24px;
+      }
+    }
+  }
+
+  .item-row-label {
+    color: white;
+  }
+
+  .items {
+    display: flex;
+    grid: auto / repeat(auto-fit, 315px);
+    gap: 16px;
+    row-gap: 16px;
+
+    .item {
+      cursor: pointer;
+    }
+  }
+
+  .action-add {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+button {
+  font-family: 'Poppins';
+  align-items: center;
+  justify-content: center;
+  height: 32px;
+  padding: 0 16px;
+  font-size: 12px;
+  font-weight: 500;
+  color: white;
+  line-height: 0;
+  white-space: nowrap;
+  background-color: #5b6267;
+  border: 1px solid #5b6267;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: 0;
+  transition: 0.3s all ease;
+}
