@@ -1,5 +1,6 @@
-import { Component, ViewChild } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
+import { ItemSearchResult } from 'tarki-definitions';
 import { HomepageService } from './homepage.service';
 import { ModalComponent } from './modal/modal.component';
 
@@ -9,7 +10,7 @@ import { ModalComponent } from './modal/modal.component';
   templateUrl: './homepage.component.html',
   styleUrls: ['./homepage.component.scss']
 })
-export class HomepageComponent {
+export class HomepageComponent implements OnInit {
   @ViewChild(ModalComponent) modal: ModalComponent | undefined;
 
   newItems: string = "";
@@ -23,20 +24,18 @@ export class HomepageComponent {
     'barter_crafting'
   ]
 
-  items: { 'icon': string, 'name': string, 'vendor_price': string, 'market_price': string, 'quest': string, 'hideout': string, 'barter_crafting': string }[] = [{
-    'icon': '../../assets/img/salewa.jpg',
-    'name': 'Salewa first aid kit',
-    'vendor_price': '7,427 @ Therapist',
-    'market_price': '20,762 @ FleaMarket',
-    'quest': 'Therapist - Shortage 3x',
-    'hideout': 'no',
-    'barter_crafting': 'no'
-  }];
+  items: ItemSearchResult[] = [];
 
   constructor(
     private homepageService: HomepageService,
     public dialog: MatDialog
   ) { }
+
+  async ngOnInit(): Promise<void> {
+    this.items = await this.homepageService.getItemsSearched('salewa');
+    console.log('items: ', this.items);
+
+  }
 
   searchItems(): void {
     this.dialog.open(ModalComponent, {
