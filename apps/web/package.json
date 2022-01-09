@@ -23,6 +23,7 @@
     "@angular/router": "~13.1.0",
     "api-definitions": "file:../../packages/api-definitions",
     "rxjs": "~7.4.0",
+    "tarki-definitions": "^2.2.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
