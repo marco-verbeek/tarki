@@ -4,8 +4,8 @@ import {
   OnModuleInit,
 } from '@nestjs/common';
 
-import { ItemSearchResult } from 'api-definitions/itemSearchResult';
-import { Quest } from 'api-definitions/quest';
+import { Quest } from 'tarki-definitions';
+import { ItemSearchResult } from 'tarki-definitions';
 
 import { itemSearch } from '../graphql/requests';
 import { fetchAllQuests } from './../graphql/requests';
