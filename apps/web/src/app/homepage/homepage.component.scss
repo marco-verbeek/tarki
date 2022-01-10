@@ -24,10 +24,11 @@
   .wrapper {
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 24px;
     width: 100%;
 
-    .field {
+    .search-div {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -38,23 +39,60 @@
       }
 
       textarea {
-        width: 250px;
         border-radius: 5px;
         border: 1px solid #e4e1e1;
         background-color: #23272a;
         color: white;
+        width: 100%;
+        resize: none;
+      }
+
+      button {
+        font-family: 'Poppins';
+        align-items: center;
+        justify-content: center;
+        height: 32px;
+        padding: 0 16px;
+        font-size: 12px;
+        font-weight: 500;
+        color: white;
+        line-height: 0;
+        white-space: nowrap;
+        background-color: #5b6267;
+        border: 1px solid #5b6267;
+        border-radius: 5px;
+        cursor: pointer;
+        outline: 0;
+        transition: 0.3s all ease;
       }
     }
 
     table {
       background-color: transparent;
+      width: 90%;
 
       th {
         background-color: #383e43;
         color: white;
+        font-size: medium;
       }
+
       .mat-cell {
         color: white;
+
+        .item-icon {
+          width: 64px;
+          height: 64px;
+        }
+
+        .table-item-link {
+          text-decoration: none;
+          color: rgb(114, 114, 250);
+        }
+
+        .quest {
+          display: flex;
+        }
       }
     }
   }
