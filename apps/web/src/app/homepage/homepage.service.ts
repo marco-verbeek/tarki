@@ -9,7 +9,7 @@ import { ItemSearchResult } from 'tarki-definitions';
 export class HomepageService {
   constructor(private http: HttpClient) { }
 
-  getItemsSearched(itemsToSearch: string): Promise<ItemSearchResult[]> {
-    return lastValueFrom(this.http.get<ItemSearchResult[]>('/api/items/' + itemsToSearch))
+  searchItem(itemName: string): Promise<ItemSearchResult[]> {
+    return lastValueFrom(this.http.get<ItemSearchResult[]>('/api/items/' + itemName))
   }
 }
