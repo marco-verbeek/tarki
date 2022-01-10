@@ -1,4 +1,6 @@
-import { Component, EventEmitter, OnInit, Output } from '@angular/core';
+import { Component, EventEmitter, Inject, OnInit, Output } from '@angular/core';
+import { MAT_DIALOG_DATA } from '@angular/material/dialog';
+import { ItemSearchResult } from 'tarki-definitions';
 
 @Component({
   selector: 'app-modal',
@@ -8,7 +10,7 @@ import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 export class ModalComponent implements OnInit {
   @Output() addedItem = new EventEmitter<any>();
 
-  constructor() { }
+  constructor(@Inject(MAT_DIALOG_DATA) public data: ItemSearchResult) { }
 
   ngOnInit(): void {
   }
