@@ -6,44 +6,19 @@
     </div>
   </div>
 
-  <div mat-dialog-content>
-    <mat-label class="item-row-label">Items foung for 'mk'</mat-label>
-    <div class="items">
-      <div class="item" (click)='selectItem()'>
-        <img src="../../assets/img/salewa.jpg">
-      </div>
-
-      <div class="item" (click)='selectItem()'>
-        <img src="../../assets/img/salewa.jpg">
-      </div>
-
-      <div class="item" (click)='selectItem()'>
-        <img src="../../assets/img/salewa.jpg">
-      </div>
-
-      <div class="item" (click)='selectItem()'>
-        <img src="../../assets/img/salewa.jpg">
-      </div>
-
-      <div class="item" (click)='selectItem()'>
-        <img src="../../assets/img/salewa.jpg">
-      </div>
-
-      <div class="item" (click)='selectItem()'>
-        <img src="../../assets/img/salewa.jpg">
-      </div>
-      <div class="item" (click)='selectItem()'>
-        <img src="../../assets/img/salewa.jpg">
-      </div>
-
-      <div class="item" (click)='selectItem()'>
-        <img src="../../assets/img/salewa.jpg">
-      </div>
+  <div class="dialog-content" mat-dialog-content>
+    <div class="search-results" *ngFor="let searchResult of data">
+      <mat-label class="item-row-label">Items found for {{searchResult.searchQuery}}</mat-label>
+      <mat-grid-list class="items-list" cols="8">
+        <mat-grid-tile (click)='selectItem(item)' *ngFor="let item of searchResult.items">
+          <img class="icon" [class.selected]="selectedItems.includes(item)" [src]="item.imageLink" [title]="item.itemName">
+        </mat-grid-tile>
+      </mat-grid-list>
     </div>
 
   </div>
 
   <div class="action-add" mat-dialog-actions>
-    <button mat-button (click)="addSelectedItem()">Add</button>
+    <button mat-button (click)="addSelectedItems()">Add</button>
   </div>
 </div>

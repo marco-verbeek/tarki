@@ -41,14 +41,21 @@
     color: white;
   }
 
-  .items {
-    display: flex;
-    grid: auto / repeat(auto-fit, 315px);
-    gap: 16px;
-    row-gap: 16px;
+  .icon {
+    width: auto;
+    min-width: 64px;
+    height: auto;
+    min-height: 64px;
+    cursor: pointer;
+    user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
 
-    .item {
-      cursor: pointer;
+    &.selected {
+      border: 1px solid white;
     }
   }
 

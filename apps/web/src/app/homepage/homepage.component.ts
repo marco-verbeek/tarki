@@ -34,30 +34,37 @@ export class HomepageComponent {
   ) { }
 
   async searchItems(): Promise<void> {
-    const modalItems: ItemSearchResult[][] = [];
-    const itemsToSearch: string[] = this.newItems.split('\n');
+    let modalItems: { searchQuery: string; items: ItemSearchResult[]; }[] = [];
+    const itemsToSearch: string[] = this.newItems.split('\n').filter(Boolean);
 
-    itemsToSearch.forEach(async (item: string) => {
+    for (const item of itemsToSearch) {
       const result: ItemSearchResult[] = await this.homepageService.searchItem(item);
-      console.log(result[0]);
 
       if (result.length === 1) {
         this.tableItems.push(result[0]);
         this.table.renderRows();
+      } else {
+        modalItems.push({
+          'searchQuery': item,
+          'items': result.filter((item: ItemSearchResult) => item.imageLink !== null)
+        });
       }
-
-      else
-        modalItems.push(result);
-    });
-
-    if (modalItems.length > 0) {
-      this.dialog.open(ModalComponent, {
-        data: modalItems,
-        panelClass: "select-items-dialog-container"
-      });
     }
 
-    this.newItems = "";
+    if (modalItems.length > 0) {
+      const openedDialog = this.dialog.open(ModalComponent, {
+        data: modalItems,
+        panelClass: "select-items-dialog-container",
+        width: "50%",
+        minWidth: "600px"
+      });
 
+      openedDialog.afterClosed().subscribe(res => {
+        this.tableItems = this.tableItems.concat(res.data);
+        this.table.renderRows();
+      });
+
+    }
+    this.newItems = "";
   }
 }
