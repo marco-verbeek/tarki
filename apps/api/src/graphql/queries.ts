@@ -6,7 +6,7 @@ export const getItemsByName = gql`
       id
       name
       wikiLink
-      imageLink
+      gridImageLink
       avg24hPrice
       traderPrices {
         price
