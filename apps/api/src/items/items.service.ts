@@ -49,11 +49,19 @@ export class ItemsService implements OnModuleInit {
       trader: { name: string };
     }[],
   ): string {
+    if (!traderPrices || traderPrices.length === 0) {
+      return 'Cannot sell this item';
+    }
+
     const highestBuying = traderPrices.reduce((prev, current) =>
       prev.price > current.price ? prev : current,
     );
 
     return `${highestBuying.price} @ ${highestBuying.trader.name}`;
+  }
+
+  formatFleaMarketPrice(price): string {
+    return price > 0 ? `${price} @ FleaMarket` : 'Cannot sell this item';
   }
 
   async search(query: string): Promise<ItemSearchResult[]> {
@@ -69,7 +77,7 @@ export class ItemsService implements OnModuleInit {
         barters: [],
         hideoutCrafts: [],
         hideoutUpgrades: [],
-        marketPrice: `${item.avg24hPrice} @ FleaMarket`,
+        marketPrice: this.formatFleaMarketPrice(item.avg24hPrice),
         traderPrice: this.getHighestBuyingTraderPrice(item.traderPrices),
       }),
     );
