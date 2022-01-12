@@ -61,7 +61,7 @@ export class ItemsService implements OnModuleInit {
   }
 
   formatFleaMarketPrice(price): string {
-    return price ? `${price} @ FleaMarket` : 'Cannot sell this item';
+    return price > 0 ? `${price} @ FleaMarket` : 'Cannot sell this item';
   }
 
   async search(query: string): Promise<ItemSearchResult[]> {
