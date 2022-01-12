@@ -64,7 +64,7 @@ export class ItemsService implements OnModuleInit {
         itemId: item.id,
         itemName: item.name,
         wikiLink: item.wikiLink,
-        imageLink: item.imageLink,
+        imageLink: item.gridImageLink,
         quests: this.getQuestsRelatedToItem(item.id),
         barters: [],
         hideoutCrafts: [],
