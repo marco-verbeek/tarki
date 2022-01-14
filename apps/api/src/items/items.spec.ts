@@ -51,8 +51,14 @@ describe('ItemsController', () => {
           item.itemName.includes('Alpha'),
         );
 
-        expect(secureContainers[0].marketPrice).toBe('Cannot sell this item');
-        expect(secureContainers[0].traderPrice).toBe('Cannot sell this item');
+        expect(secureContainers.length).toBe(1);
+        expect(secureContainers[0].prices).toBeDefined();
+
+        expect(secureContainers[0].prices.trader).toBeDefined();
+        expect(secureContainers[0].prices.trader.name).toBe('');
+        expect(secureContainers[0].prices.trader.price).toBe(0);
+
+        expect(secureContainers[0].prices.market).toBe(0);
       });
     });
   });
