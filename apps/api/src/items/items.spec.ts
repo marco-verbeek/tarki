@@ -51,7 +51,7 @@ describe('ItemsController', () => {
           item.itemName.includes('Alpha'),
         );
 
-        expect(secureContainers.length).toBeGreaterThan(0);
+        expect(secureContainers.length).toBe(1);
         expect(secureContainers[0].prices).toBeDefined();
 
         expect(secureContainers[0].prices.trader).toBeDefined();
