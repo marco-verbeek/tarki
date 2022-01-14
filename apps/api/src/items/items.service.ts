@@ -4,8 +4,7 @@ import {
   OnModuleInit,
 } from '@nestjs/common';
 
-import { Quest } from 'tarki-definitions';
-import { ItemSearchResult } from 'tarki-definitions';
+import { Quest, ItemSearchResult } from 'tarki-definitions';
 
 import { itemSearch } from '../graphql/requests';
 import { fetchAllQuests } from './../graphql/requests';
@@ -48,20 +47,19 @@ export class ItemsService implements OnModuleInit {
       price: number;
       trader: { name: string };
     }[],
-  ): string {
+  ): { traderName: string; price: number } {
     if (!traderPrices || traderPrices.length === 0) {
-      return 'Cannot sell this item';
+      return { traderName: '', price: 0 };
     }
 
     const highestBuying = traderPrices.reduce((prev, current) =>
       prev.price > current.price ? prev : current,
     );
 
-    return `${highestBuying.price} @ ${highestBuying.trader.name}`;
-  }
-
-  formatFleaMarketPrice(price): string {
-    return price > 0 ? `${price} @ FleaMarket` : 'Cannot sell this item';
+    return {
+      traderName: highestBuying.trader.name,
+      price: highestBuying.price,
+    };
   }
 
   async search(query: string): Promise<ItemSearchResult[]> {
@@ -77,8 +75,15 @@ export class ItemsService implements OnModuleInit {
         barters: [],
         hideoutCrafts: [],
         hideoutUpgrades: [],
-        marketPrice: this.formatFleaMarketPrice(item.avg24hPrice),
-        traderPrice: this.getHighestBuyingTraderPrice(item.traderPrices),
+        prices: {
+          market: {
+            price: item.avg24hPrice,
+          },
+          trader: (() => {
+            const info = this.getHighestBuyingTraderPrice(item.traderPrices);
+            return { name: info.traderName, price: info.price };
+          })(),
+        },
       }),
     );
   }
