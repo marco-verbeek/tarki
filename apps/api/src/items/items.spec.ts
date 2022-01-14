@@ -41,5 +41,19 @@ describe('ItemsController', () => {
       expect(data[0].quests).toBeDefined();
       expect(data[0].quests.length).toEqual(1);
     });
+
+    describe('with empty trader prices (cannot be sold)', () => {
+      it('returns a sell price of 0', async () => {
+        const data = await controller.searchItems('secure');
+        expect(data).toBeInstanceOf(Array);
+
+        const secureContainers = data.filter(item =>
+          item.itemName.includes('Alpha'),
+        );
+
+        expect(secureContainers[0].marketPrice).toBe('Cannot sell this item');
+        expect(secureContainers[0].traderPrice).toBe('Cannot sell this item');
+      });
+    });
   });
 });
