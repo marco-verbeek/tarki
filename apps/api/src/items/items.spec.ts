@@ -24,13 +24,13 @@ describe('ItemsController', () => {
 
   describe('GET items', () => {
     it('should throw when searching for less than 3 chars', () => {
-      expect(() => controller.searchItems('a')).toThrowError(
+      expect(() => controller.searchItems({ query: 'a' })).toThrowError(
         BadRequestException,
       );
     });
 
     it('should return data in the correct format', async () => {
-      const data = await controller.searchItems('salewa');
+      const data = await controller.searchItems({ query: 'salewa' });
 
       expect(data).toBeInstanceOf(Array);
       expect(data.length).toEqual(1);
@@ -44,7 +44,7 @@ describe('ItemsController', () => {
 
     describe('with empty trader prices (cannot be sold)', () => {
       it('returns a sell price of 0', async () => {
-        const data = await controller.searchItems('secure');
+        const data = await controller.searchItems({ query: 'secure' });
         expect(data).toBeInstanceOf(Array);
 
         const secureContainers = data.filter(item =>
