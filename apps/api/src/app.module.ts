@@ -2,7 +2,7 @@ import { MiddlewareConsumer, Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { AppController } from './app.controller';
 import { ItemsModule } from './items/items.module';
-import { GraphqlModule } from './graphql/graphql.module';
+import { GraphQLModule } from './graphql/graphql.module';
 import LoggerMiddleware from './middlewares/logger.middleware';
 
 @Module({
@@ -11,7 +11,7 @@ import LoggerMiddleware from './middlewares/logger.middleware';
       isGlobal: true,
     }),
     ItemsModule,
-    GraphqlModule,
+    GraphQLModule,
   ],
   controllers: [AppController],
 })
