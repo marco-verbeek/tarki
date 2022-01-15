@@ -7,7 +7,7 @@ export class ItemsController {
   constructor(private readonly itemsService: ItemsService) {}
 
   @Get('/:query')
-  searchItems(@Param('query') searchParam: SearchParamDTO) {
-    return this.itemsService.search(searchParam.query);
+  searchItems(@Param() params: SearchParamDTO) {
+    return this.itemsService.search(params.query);
   }
 }
