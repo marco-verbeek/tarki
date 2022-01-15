@@ -62,29 +62,36 @@ export class ItemsService implements OnModuleInit {
     };
   }
 
+  formatItem(item): ItemSearchResult {
+    const quests = this.getQuestsRelatedToItem(item.id);
+    const highestBuying = this.getHighestBuyingTraderPrice(item.traderPrices);
+
+    const formattedItem: ItemSearchResult = {
+      itemId: item.id,
+      itemName: item.name,
+      wikiLink: item.wikiLink,
+      imageLink: item.gridImageLink,
+      quests,
+      barters: [],
+      hideoutCrafts: [],
+      hideoutUpgrades: [],
+      prices: {
+        market: {
+          price: item.avg24hPrice,
+        },
+        trader: {
+          name: highestBuying.traderName,
+          price: highestBuying.price,
+        },
+      },
+    };
+
+    return formattedItem;
+  }
+
   async search(query: string): Promise<ItemSearchResult[]> {
     const items = await itemSearch(query);
 
-    return items.map(
-      (item): ItemSearchResult => ({
-        itemId: item.id,
-        itemName: item.name,
-        wikiLink: item.wikiLink,
-        imageLink: item.gridImageLink,
-        quests: this.getQuestsRelatedToItem(item.id),
-        barters: [],
-        hideoutCrafts: [],
-        hideoutUpgrades: [],
-        prices: {
-          market: {
-            price: item.avg24hPrice,
-          },
-          trader: (() => {
-            const info = this.getHighestBuyingTraderPrice(item.traderPrices);
-            return { name: info.traderName, price: info.price };
-          })(),
-        },
-      }),
-    );
+    return items.map(item => this.formatItem(item));
   }
 }
