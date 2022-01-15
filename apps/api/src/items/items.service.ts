@@ -1,29 +1,14 @@
-import {
-  Injectable,
-  InternalServerErrorException,
-  OnModuleInit,
-} from '@nestjs/common';
+import { GraphQLService } from './../graphql/graphql.service';
+import { Injectable } from '@nestjs/common';
 
 import { Quest, ItemSearchResult } from 'tarki-definitions';
 
-import { itemSearch } from '../graphql/requests';
-import { fetchAllQuests } from './../graphql/requests';
-
 @Injectable()
-export class ItemsService implements OnModuleInit {
-  private quests: any[];
-
-  async onModuleInit() {
-    this.quests = await fetchAllQuests();
-  }
+export class ItemsService {
+  constructor(private readonly graphqlService: GraphQLService) {}
 
   getQuestsRelatedToItem(id: string): Quest[] {
-    if (!this.quests)
-      throw new InternalServerErrorException(
-        "Could not fetch quests from Tarkov-Tools' API",
-      );
-
-    return this.quests
+    return this.graphqlService.allQuests
       .filter(quest =>
         quest.objectives.some(
           objective =>
@@ -90,7 +75,7 @@ export class ItemsService implements OnModuleInit {
   }
 
   async search(query: string): Promise<ItemSearchResult[]> {
-    const items = await itemSearch(query);
+    const items = await this.graphqlService.itemSearch(query);
 
     return items.map(item => this.formatItem(item));
   }
