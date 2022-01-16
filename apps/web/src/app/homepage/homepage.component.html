@@ -27,7 +27,7 @@
 
       <ng-container matColumnDef="price">
         <th mat-header-cell *matHeaderCellDef> Price </th>
-        <td mat-cell *matCellDef="let item"> {{item.traderPrice}} <br> {{item.marketPrice}}</td>
+        <td mat-cell *matCellDef="let item"> {{item.prices.trader.price | number}} @ {{item.prices.trader.name}} <br> {{item.prices.market.price | number}} @ FleaMarket</td>
       </ng-container>
 
       <ng-container matColumnDef="quest">
