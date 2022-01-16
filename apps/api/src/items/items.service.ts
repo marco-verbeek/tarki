@@ -1,30 +1,14 @@
-import {
-  Injectable,
-  InternalServerErrorException,
-  OnModuleInit,
-} from '@nestjs/common';
+import { GraphQLService } from './../graphql/graphql.service';
+import { Injectable } from '@nestjs/common';
 
-import { ItemSearchResult } from 'api-definitions/itemSearchResult';
-import { Quest } from 'api-definitions/quest';
-
-import { itemSearch } from '../graphql/requests';
-import { fetchAllQuests } from './../graphql/requests';
+import { Quest, ItemSearchResult } from 'tarki-definitions';
 
 @Injectable()
-export class ItemsService implements OnModuleInit {
-  private quests: any[];
-
-  async onModuleInit() {
-    this.quests = await fetchAllQuests();
-  }
+export class ItemsService {
+  constructor(private readonly graphqlService: GraphQLService) {}
 
   getQuestsRelatedToItem(id: string): Quest[] {
-    if (!this.quests)
-      throw new InternalServerErrorException(
-        "Could not fetch quests from Tarkov-Tools' API",
-      );
-
-    return this.quests
+    return this.graphqlService.allQuests
       .filter(quest =>
         quest.objectives.some(
           objective =>
@@ -48,30 +32,51 @@ export class ItemsService implements OnModuleInit {
       price: number;
       trader: { name: string };
     }[],
-  ): string {
+  ): { traderName: string; price: number } {
+    if (!traderPrices || traderPrices.length === 0) {
+      return { traderName: '', price: 0 };
+    }
+
     const highestBuying = traderPrices.reduce((prev, current) =>
       prev.price > current.price ? prev : current,
     );
 
-    return `${highestBuying.price} @ ${highestBuying.trader.name}`;
+    return {
+      traderName: highestBuying.trader.name,
+      price: highestBuying.price,
+    };
+  }
+
+  formatItem(item): ItemSearchResult {
+    const quests = this.getQuestsRelatedToItem(item.id);
+    const highestBuying = this.getHighestBuyingTraderPrice(item.traderPrices);
+
+    const formattedItem: ItemSearchResult = {
+      itemId: item.id,
+      itemName: item.name,
+      wikiLink: item.wikiLink,
+      imageLink: item.gridImageLink,
+      quests,
+      barters: [],
+      hideoutCrafts: [],
+      hideoutUpgrades: [],
+      prices: {
+        market: {
+          price: item.avg24hPrice,
+        },
+        trader: {
+          name: highestBuying.traderName,
+          price: highestBuying.price,
+        },
+      },
+    };
+
+    return formattedItem;
   }
 
   async search(query: string): Promise<ItemSearchResult[]> {
-    const items = await itemSearch(query);
+    const items = await this.graphqlService.itemSearch(query);
 
-    return items.map(
-      (item): ItemSearchResult => ({
-        itemId: item.id,
-        itemName: item.name,
-        wikiLink: item.wikiLink,
-        imageLink: item.imageLink,
-        quests: this.getQuestsRelatedToItem(item.id),
-        barters: [],
-        hideoutCrafts: [],
-        hideoutUpgrades: [],
-        marketPrice: `${item.avg24hPrice} @ FleaMarket`,
-        traderPrice: this.getHighestBuyingTraderPrice(item.traderPrices),
-      }),
-    );
+    return items.map(item => this.formatItem(item));
   }
 }
