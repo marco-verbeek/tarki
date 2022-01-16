@@ -1,0 +1,24 @@
+<div class="modal">
+  <div class="header">
+    <h1 div="title" mat-dialog-title>Select the specific item per request</h1>
+    <div class="action" mat-dialog-actions>
+      <button class="close" mat-button mat-dialog-close>X</button>
+    </div>
+  </div>
+
+  <div class="dialog-content" mat-dialog-content>
+    <div class="search-results" *ngFor="let searchResult of data">
+      <mat-label class="item-row-label">Items found for {{searchResult.searchQuery}}</mat-label>
+      <mat-grid-list class="items-list" cols="8">
+        <mat-grid-tile (click)='selectItem(item)' *ngFor="let item of searchResult.items">
+          <img class="icon" [class.selected]="selectedItems.includes(item)" [src]="item.imageLink" [title]="item.itemName">
+        </mat-grid-tile>
+      </mat-grid-list>
+    </div>
+
+  </div>
+
+  <div class="action-add" mat-dialog-actions>
+    <button mat-button (click)="addSelectedItems()">Add</button>
+  </div>
+</div>
