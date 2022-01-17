@@ -2,6 +2,7 @@ import { GraphQLClient } from 'graphql-request';
 import { Injectable, OnModuleInit } from '@nestjs/common';
 
 import {
+  getAllBarters,
   getAllCrafts,
   getAllQuests,
   getAllUpgrades,
@@ -14,6 +15,7 @@ export class GraphQLService implements OnModuleInit {
   private _quests: any[];
   private _upgrades: any[];
   private _crafts: any[];
+  private _barters: any[];
 
   async onModuleInit(): Promise<void> {
     this.client = new GraphQLClient('https://tarkov-tools.com/graphql', {
@@ -26,6 +28,7 @@ export class GraphQLService implements OnModuleInit {
     this._quests = await this._fetchQuests();
     this._upgrades = await this._fetchUpgrades();
     this._crafts = await this._fetchCrafts();
+    this._barters = await this._fetchBarters();
   }
 
   async itemSearch(itemName: string) {
@@ -48,6 +51,11 @@ export class GraphQLService implements OnModuleInit {
     return request.crafts;
   }
 
+  async _fetchBarters() {
+    const request = await this.client.request(getAllBarters);
+    return request.barters;
+  }
+
   get quests() {
     return this._quests;
   }
@@ -58,5 +66,9 @@ export class GraphQLService implements OnModuleInit {
 
   get crafts() {
     return this._crafts;
+  }
+
+  get barters() {
+    return this._barters;
   }
 }

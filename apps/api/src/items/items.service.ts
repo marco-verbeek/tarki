@@ -6,6 +6,7 @@ import {
   ItemSearchResult,
   HideoutUpgrade,
   HideoutCraft,
+  Barter,
 } from 'tarki-definitions';
 
 @Injectable()
@@ -68,6 +69,22 @@ export class ItemsService {
       );
   }
 
+  getBartersRelatedToItem(id: string): Barter[] {
+    return this.graphqlService.barters
+      .filter(
+        barter =>
+          barter.requiredItems.some(reqItem => reqItem.item.id === id) ||
+          barter.rewardItems.some(rewItem => rewItem.item.id === id),
+      )
+      .map(
+        (barter): Barter => ({
+          source: barter.source,
+          requiredItems: barter.requiredItems,
+          rewardItems: barter.rewardItems,
+        }),
+      );
+  }
+
   getHighestBuyingTraderPrice(
     traderPrices: {
       price: number;
@@ -92,6 +109,7 @@ export class ItemsService {
     const quests = this.getQuestsRelatedToItem(item.id);
     const upgrades = this.getUpgradesRelatedToItem(item.id);
     const crafts = this.getCraftsRelatedToItem(item.id);
+    const barters = this.getBartersRelatedToItem(item.id);
 
     const highestBuying = this.getHighestBuyingTraderPrice(item.traderPrices);
 
@@ -101,7 +119,7 @@ export class ItemsService {
       wikiLink: item.wikiLink,
       imageLink: item.gridImageLink,
       quests,
-      barters: [],
+      barters,
       hideoutCrafts: crafts,
       hideoutUpgrades: upgrades,
       prices: {
