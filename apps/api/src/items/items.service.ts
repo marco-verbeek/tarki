@@ -8,81 +8,68 @@ import {
   HideoutCraft,
   Barter,
 } from 'tarki-definitions';
+import { AdapterService } from './adapter.service';
 
 @Injectable()
 export class ItemsService {
-  constructor(private readonly graphqlService: GraphQLService) {}
+  constructor(
+    private readonly graphqlService: GraphQLService,
+    private readonly adapterService: AdapterService,
+  ) {}
 
   getQuestsRelatedToItem(id: string): Quest[] {
-    return this.graphqlService.quests
+    const filtered = this.graphqlService.quests
       .filter(quest =>
         quest.objectives.some(
           objective =>
             objective.type === 'find' && objective.target.includes(id),
         ),
       )
-      .map(
-        (quest): Quest => ({
-          title: quest.title,
-          itemId: id,
-          itemQty: quest.objectives.filter(o => o.target.includes(id))[0]
-            .number,
-          wikiLink: quest.wikiLink,
-          giver: quest.giver.name,
-        }),
-      );
+      .map(quest => ({
+        ...quest,
+        itemId: id,
+        itemQty: quest.objectives.filter(o => o.target.includes(id))[0].number,
+      }));
+
+    return this.adapterService.toQuests(filtered);
   }
 
   getUpgradesRelatedToItem(id: string): HideoutUpgrade[] {
-    return this.graphqlService.upgrades
+    const filtered = this.graphqlService.upgrades
       .filter(upgrade =>
         upgrade.itemRequirements.some(req => req.item.id === id),
       )
-      .map(
-        (upgrade): HideoutUpgrade => ({
-          name: upgrade.name,
-          level: upgrade.level,
-          id: upgrade.id,
-          requiredItems: upgrade.itemRequirements
-            .filter(req => req.item.id === id)
-            .map(req => ({
-              id: req.item.id,
-              quantity: req.quantity,
-            })),
-        }),
-      );
+      .map(upgrade => ({
+        ...upgrade,
+        requiredItems: upgrade.itemRequirements
+          .filter(req => req.item.id === id)
+          .map(req => ({
+            id: req.item.id,
+            quantity: req.quantity,
+          })),
+      }));
+
+    return this.adapterService.toHideoutUpgrades(filtered);
   }
 
   getCraftsRelatedToItem(id: string): HideoutCraft[] {
-    return this.graphqlService.crafts
-      .filter(
-        craft =>
-          craft.requiredItems.some(reqItem => reqItem.item.id === id) ||
-          craft.rewardItems.some(rewItem => rewItem.item.id === id),
-      )
-      .map(
-        (craft): HideoutCraft => ({
-          source: craft.source,
-          requiredItems: craft.requiredItems,
-          rewardItems: craft.rewardItems,
-        }),
-      );
+    const filtered = this.graphqlService.crafts.filter(
+      craft =>
+        craft.requiredItems.some(reqItem => reqItem.item.id === id) ||
+        craft.rewardItems.some(rewItem => rewItem.item.id === id),
+    );
+
+    return this.adapterService.toHideoutCrafts(filtered);
   }
 
   getBartersRelatedToItem(id: string): Barter[] {
-    return this.graphqlService.barters
-      .filter(
-        barter =>
-          barter.requiredItems.some(reqItem => reqItem.item.id === id) ||
-          barter.rewardItems.some(rewItem => rewItem.item.id === id),
-      )
-      .map(
-        (barter): Barter => ({
-          source: barter.source,
-          requiredItems: barter.requiredItems,
-          rewardItems: barter.rewardItems,
-        }),
-      );
+    const filtered = this.graphqlService.barters.filter(
+      barter =>
+        barter.requiredItems.some(reqItem => reqItem.id === id) ||
+        barter.rewardItems.some(rewItem => rewItem.id === id),
+    );
+
+    return this.adapterService.toBarters(filtered);
   }
 
   getHighestBuyingTraderPrice(
@@ -106,6 +93,8 @@ export class ItemsService {
   }
 
   formatItem(item): ItemSearchResult {
+    // TODO: move this in adapter
+
     const quests = this.getQuestsRelatedToItem(item.id);
     const upgrades = this.getUpgradesRelatedToItem(item.id);
     const crafts = this.getCraftsRelatedToItem(item.id);
