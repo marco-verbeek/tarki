@@ -60,16 +60,22 @@ export const getAllBarters = gql`
       requiredItems {
         item {
           id
+          name
+          gridImageLink
+          avg24hPrice
+          wikiLink
         }
         count
-        quantity
       }
       rewardItems {
         item {
           id
+          name
+          gridImageLink
+          avg24hPrice
+          wikiLink
         }
         count
-        quantity
       }
     }
   }
