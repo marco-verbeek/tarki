@@ -79,7 +79,26 @@ export const getAllCrafts = gql`
   query GetAllCrafts {
     crafts {
       source
-      duration
+      requiredItems {
+        item {
+          id
+          name
+          gridImageLink
+          avg24hPrice
+          wikiLink
+        }
+        count
+      }
+      rewardItems {
+        item {
+          id
+          name
+          gridImageLink
+          avg24hPrice
+          wikiLink
+        }
+        count
+      }
     }
   }
 `;

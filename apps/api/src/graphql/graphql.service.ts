@@ -1,13 +1,19 @@
 import { GraphQLClient } from 'graphql-request';
 import { Injectable, OnModuleInit } from '@nestjs/common';
 
-import { getAllQuests, getAllUpgrades, getItemsByName } from './queries';
+import {
+  getAllCrafts,
+  getAllQuests,
+  getAllUpgrades,
+  getItemsByName,
+} from './queries';
 
 @Injectable()
 export class GraphQLService implements OnModuleInit {
   private client: GraphQLClient;
   private _quests: any[];
   private _upgrades: any[];
+  private _crafts: any[];
 
   async onModuleInit(): Promise<void> {
     this.client = new GraphQLClient('https://tarkov-tools.com/graphql', {
@@ -19,6 +25,7 @@ export class GraphQLService implements OnModuleInit {
 
     this._quests = await this._fetchQuests();
     this._upgrades = await this._fetchUpgrades();
+    this._crafts = await this._fetchCrafts();
   }
 
   async itemSearch(itemName: string) {
@@ -36,11 +43,20 @@ export class GraphQLService implements OnModuleInit {
     return request.hideoutModules;
   }
 
+  async _fetchCrafts() {
+    const request = await this.client.request(getAllCrafts);
+    return request.crafts;
+  }
+
   get quests() {
     return this._quests;
   }
 
   get upgrades() {
     return this._upgrades;
+  }
+
+  get crafts() {
+    return this._crafts;
   }
 }
