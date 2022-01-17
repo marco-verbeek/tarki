@@ -1,7 +1,12 @@
 import { GraphQLService } from './../graphql/graphql.service';
 import { Injectable } from '@nestjs/common';
 
-import { Quest, ItemSearchResult, HideoutUpgrade } from 'tarki-definitions';
+import {
+  Quest,
+  ItemSearchResult,
+  HideoutUpgrade,
+  HideoutCraft,
+} from 'tarki-definitions';
 
 @Injectable()
 export class ItemsService {
@@ -47,6 +52,22 @@ export class ItemsService {
       );
   }
 
+  getCraftsRelatedToItem(id: string): HideoutCraft[] {
+    return this.graphqlService.crafts
+      .filter(
+        craft =>
+          craft.requiredItems.some(reqItem => reqItem.item.id === id) ||
+          craft.rewardItems.some(rewItem => rewItem.item.id === id),
+      )
+      .map(
+        (craft): HideoutCraft => ({
+          source: craft.source,
+          requiredItems: craft.requiredItems,
+          rewardItems: craft.rewardItems,
+        }),
+      );
+  }
+
   getHighestBuyingTraderPrice(
     traderPrices: {
       price: number;
@@ -70,6 +91,7 @@ export class ItemsService {
   formatItem(item): ItemSearchResult {
     const quests = this.getQuestsRelatedToItem(item.id);
     const upgrades = this.getUpgradesRelatedToItem(item.id);
+    const crafts = this.getCraftsRelatedToItem(item.id);
 
     const highestBuying = this.getHighestBuyingTraderPrice(item.traderPrices);
 
@@ -80,7 +102,7 @@ export class ItemsService {
       imageLink: item.gridImageLink,
       quests,
       barters: [],
-      hideoutCrafts: [],
+      hideoutCrafts: crafts,
       hideoutUpgrades: upgrades,
       prices: {
         market: {
