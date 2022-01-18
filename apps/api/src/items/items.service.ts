@@ -1,5 +1,5 @@
 import { GraphQLService } from './../graphql/graphql.service';
-import { Injectable } from '@nestjs/common';
+import { forwardRef, Inject, Injectable } from '@nestjs/common';
 
 import {
   Quest,
@@ -14,6 +14,7 @@ import { AdapterService } from './adapter.service';
 export class ItemsService {
   constructor(
     private readonly graphqlService: GraphQLService,
+    @Inject(forwardRef(() => AdapterService))
     private readonly adapterService: AdapterService,
   ) {}
 
@@ -92,42 +93,9 @@ export class ItemsService {
     };
   }
 
-  formatItem(item): ItemSearchResult {
-    // TODO: move this in adapter
-
-    const quests = this.getQuestsRelatedToItem(item.id);
-    const upgrades = this.getUpgradesRelatedToItem(item.id);
-    const crafts = this.getCraftsRelatedToItem(item.id);
-    const barters = this.getBartersRelatedToItem(item.id);
-
-    const highestBuying = this.getHighestBuyingTraderPrice(item.traderPrices);
-
-    const formattedItem: ItemSearchResult = {
-      itemId: item.id,
-      itemName: item.name,
-      wikiLink: item.wikiLink,
-      imageLink: item.gridImageLink,
-      quests,
-      barters,
-      hideoutCrafts: crafts,
-      hideoutUpgrades: upgrades,
-      prices: {
-        market: {
-          price: item.avg24hPrice,
-        },
-        trader: {
-          name: highestBuying.traderName,
-          price: highestBuying.price,
-        },
-      },
-    };
-
-    return formattedItem;
-  }
-
   async search(query: string): Promise<ItemSearchResult[]> {
     const items = await this.graphqlService.itemSearch(query);
 
-    return items.map(item => this.formatItem(item));
+    return items.map(item => this.adapterService.toItem(item));
   }
 }

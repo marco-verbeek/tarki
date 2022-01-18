@@ -1,8 +1,20 @@
-import { Injectable } from '@nestjs/common';
-import { Barter, HideoutCraft, HideoutUpgrade, Quest } from 'tarki-definitions';
+import { forwardRef, Inject, Injectable } from '@nestjs/common';
+import {
+  Barter,
+  HideoutCraft,
+  HideoutUpgrade,
+  ItemSearchResult,
+  Quest,
+} from 'tarki-definitions';
+import { ItemsService } from './items.service';
 
 @Injectable()
 export class AdapterService {
+  constructor(
+    @Inject(forwardRef(() => ItemsService))
+    private readonly itemsService: ItemsService,
+  ) {}
+
   toQuests(data: any): Quest[] {
     return data.map(
       (quest): Quest => ({
@@ -44,5 +56,36 @@ export class AdapterService {
         rewardItems: barter.rewardItems,
       }),
     );
+  }
+
+  toItem(item: any): ItemSearchResult {
+    const quests = this.itemsService.getQuestsRelatedToItem(item.id);
+    const upgrades = this.itemsService.getUpgradesRelatedToItem(item.id);
+    const crafts = this.itemsService.getCraftsRelatedToItem(item.id);
+    const barters = this.itemsService.getBartersRelatedToItem(item.id);
+
+    const highestBuying = this.itemsService.getHighestBuyingTraderPrice(
+      item.traderPrices,
+    );
+
+    return {
+      itemId: item.id,
+      itemName: item.name,
+      wikiLink: item.wikiLink,
+      imageLink: item.gridImageLink,
+      quests,
+      barters,
+      hideoutCrafts: crafts,
+      hideoutUpgrades: upgrades,
+      prices: {
+        market: {
+          price: item.avg24hPrice,
+        },
+        trader: {
+          name: highestBuying.traderName,
+          price: highestBuying.price,
+        },
+      },
+    };
   }
 }
