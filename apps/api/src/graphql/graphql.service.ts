@@ -12,12 +12,12 @@ import {
 @Injectable()
 export class GraphQLService implements OnModuleInit {
   private client: GraphQLClient;
-  private _quests: any[];
-  private _upgrades: any[];
-  private _crafts: any[];
-  private _barters: any[];
+  private _quests;
+  private _upgrades;
+  private _crafts;
+  private _barters;
 
-  async onModuleInit(): Promise<void> {
+  async onModuleInit() {
     this.client = new GraphQLClient('https://tarkov-tools.com/graphql', {
       headers: {
         'Content-Type': 'application/json',
