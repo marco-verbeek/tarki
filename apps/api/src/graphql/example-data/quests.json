@@ -1,0 +1,2539 @@
+[
+  {
+    "title": "Debut",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Debut",
+    "exp": 1700,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "kill", "target": ["Scavs"], "number": 5 },
+      { "type": "collect", "target": ["54491c4f4bdc2db1078b4568"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Checking",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Checking",
+    "exp": 1800,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "key", "target": ["5937ee6486f77408994ba448"], "number": 1 },
+      { "type": "pickup", "target": ["bronze pocket watch"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Shootout picnic",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Shootout_picnic",
+    "exp": 2000,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 15 }]
+  },
+  {
+    "title": "Delivery from the past",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Delivery_from_the_past",
+    "exp": 4000,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "key", "target": ["5780d0532459777a5108b9a2"], "number": 1 },
+      {
+        "type": "pickup",
+        "target": ["Secure case for documents 0022"],
+        "number": 1
+      },
+      {
+        "type": "place",
+        "target": ["Secure case for documents 0022"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "BP depot",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/BP_depot",
+    "exp": 2800,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "mark", "target": ["Tanker 1"], "number": 1 },
+      { "type": "mark", "target": ["Tanker 2"], "number": 1 },
+      { "type": "mark", "target": ["Tanker 3"], "number": 1 },
+      { "type": "mark", "target": ["Tanker 4"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Bad rep evidence",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bad_rep_evidence",
+    "exp": 4100,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "key", "target": ["5938144586f77473c2087145"], "number": 1 },
+      {
+        "type": "pickup",
+        "target": ["Secure case for documents 0031"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Ice cream cones",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ice_cream_cones",
+    "exp": 5200,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "find", "target": ["55d482194bdc2d1d4e8b456b"], "number": 3 }
+    ]
+  },
+  {
+    "title": "Postman Pat",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_1",
+    "exp": 5900,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "pickup", "target": ["Sealed letter"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Shaking up teller",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Shaking_up_teller",
+    "exp": 5900,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "key", "target": ["5938504186f7740991483f30"], "number": 1 },
+      { "type": "pickup", "target": ["Bank case"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Perfect mediator",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Perfect_mediator",
+    "exp": 20900,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "reputation", "target": ["0"], "number": 4 },
+      { "type": "reputation", "target": ["1"], "number": 4 },
+      { "type": "reputation", "target": ["2"], "number": 4 },
+      { "type": "reputation", "target": ["3"], "number": 4 },
+      { "type": "reputation", "target": ["4"], "number": 4 },
+      { "type": "reputation", "target": ["5"], "number": 4 }
+    ]
+  },
+  {
+    "title": "Grenadier",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Grenadier",
+    "exp": 18000,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 12 }]
+  },
+  {
+    "title": "Insomnia",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Insomnia",
+    "exp": 18200,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 30 }]
+  },
+  {
+    "title": "Test drive. Pt. 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Test_drive_-_Part_1",
+    "exp": 18200,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 5 }]
+  },
+  {
+    "title": "The Punisher - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_1",
+    "exp": 10200,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 15 }]
+  },
+  {
+    "title": "The Punisher - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_2",
+    "exp": 13100,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "kill", "target": ["Scavs"], "number": 12 },
+      { "type": "find", "target": ["572b7fa524597762b747ce82"], "number": 7 }
+    ]
+  },
+  {
+    "title": "The Punisher - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_3",
+    "exp": 11700,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 25 }]
+  },
+  {
+    "title": "The Punisher - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_4",
+    "exp": 18000,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "kill", "target": ["Scavs"], "number": 10 },
+      { "type": "kill", "target": ["PMCs"], "number": 10 },
+      { "type": "find", "target": ["57e26fc7245977162a14b800"], "number": 5 }
+    ]
+  },
+  {
+    "title": "The Punisher - Part 5",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_5",
+    "exp": 18200,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "kill", "target": ["PMCs"], "number": 10 },
+      { "type": "find", "target": ["5644bd2b4bdc2d3b4c8b4572"], "number": 1 },
+      { "type": "find", "target": ["5447a9cd4bdc2dbd208b4567"], "number": 1 },
+      { "type": "find", "target": ["5448bd6b4bdc2dfc2f8b4569"], "number": 2 }
+    ]
+  },
+  {
+    "title": "The Punisher - Part 6",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_6",
+    "exp": 20600,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "kill", "target": ["PMCs"], "number": 15 },
+      {
+        "type": "collect",
+        "target": ["59f32c3b86f77472a31742f0"],
+        "number": 7
+      },
+      { "type": "collect", "target": ["59f32bb586f774757e1e8442"], "number": 7 }
+    ]
+  },
+  {
+    "title": "Shortage",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Shortage",
+    "exp": 2000,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "find", "target": ["544fb45d4bdc2dee738b4568"], "number": 3 }
+    ]
+  },
+  {
+    "title": "Sanitary Standards - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sanitary_Standards_-_Part_1",
+    "exp": 2200,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "find", "target": ["590a3efd86f77437d351a25b"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Sanitary Standards - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sanitary_Standards_-_Part_2",
+    "exp": 4500,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "find", "target": ["590a3efd86f77437d351a25b"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Painkiller",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Painkiller",
+    "exp": 4500,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "find", "target": ["544fb3f34bdc2d03748b456a"], "number": 4 }
+    ]
+  },
+  {
+    "title": "Pharmacist",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pharmacist",
+    "exp": 5700,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "key", "target": ["59387a4986f77401cc236e62"], "number": 1 },
+      { "type": "pickup", "target": ["Carbon case"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Supply plans",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Supply_plans",
+    "exp": 7700,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      {
+        "type": "pickup",
+        "target": ["Secure case for documents 0052"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Kind of sabotage",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Kind_of_sabotage",
+    "exp": 4500,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      {
+        "type": "pickup",
+        "target": ["Secure case for documents 0052"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "General wares",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/General_wares",
+    "exp": 4800,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "find", "target": ["57347d7224597744596b4e72"], "number": 15 }
+    ]
+  },
+  {
+    "title": "Car repair",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Car_repair",
+    "exp": 6900,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "find", "target": ["5733279d245977289b77ec24"], "number": 4 },
+      { "type": "find", "target": ["590a3c0a86f774385a33c450"], "number": 8 }
+    ]
+  },
+  {
+    "title": "Health Care Privacy - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_1",
+    "exp": 4800,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "mark", "target": ["Ambulance 1"], "number": 1 },
+      { "type": "mark", "target": ["Ambulance 2"], "number": 1 },
+      { "type": "mark", "target": ["Ambulance 3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Health Care Privacy - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_2",
+    "exp": 5900,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "key", "target": ["5a13f46386f7741dd7384b04"], "number": 1 },
+      {
+        "type": "pickup",
+        "target": ["Secure case for documents 0060"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Health Care Privacy - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_3",
+    "exp": 6000,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "pickup", "target": ["Blood sample"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Health Care Privacy - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_4",
+    "exp": 10200,
+    "giver": { "name": "Therapist" },
+    "objectives": [{ "type": "skill", "target": ["Health"], "number": 4 }]
+  },
+  {
+    "title": "Health Care Privacy - Part 5",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_5",
+    "exp": 7300,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "place", "target": ["590c5a7286f7747884343aea"], "number": 3 }
+    ]
+  },
+  {
+    "title": "Decontamination Service",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Decontamination_service",
+    "exp": 7400,
+    "giver": { "name": "Therapist" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 40 }]
+  },
+  {
+    "title": "Private clinic",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Private_clinic",
+    "exp": 30600,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "find", "target": ["5af0534a86f7743b6f354284"], "number": 1 },
+      { "type": "find", "target": ["5c0530ee86f774697952d952"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Athlete",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Athlete",
+    "exp": 19600,
+    "giver": { "name": "Therapist" },
+    "objectives": [{ "type": "skill", "target": ["Health"], "number": 10 }]
+  },
+  {
+    "title": "Supplier",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Supplier",
+    "exp": 3300,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "find", "target": ["59e7635f86f7742cbf2c1095"], "number": 1 },
+      { "type": "find", "target": ["5a38e6bac4a2826c6e06d79b"], "number": 1 }
+    ]
+  },
+  {
+    "title": "The Extortionist",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Extortionist",
+    "exp": 3200,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "key", "target": ["593962ca86f774068014d9af"], "number": 1 },
+      { "type": "pickup", "target": ["Docs 0048"], "number": 1 }
+    ]
+  },
+  {
+    "title": "What's on the flash drive?",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/What%27s_on_the_flash_drive%3F",
+    "exp": 4500,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "find", "target": ["590c621186f774138d11ea29"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Golden swag",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Golden_Swag",
+    "exp": 4500,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "key", "target": ["593aa4be86f77457f56379f8"], "number": 1 },
+      { "type": "key", "target": ["5913611c86f77479e0084092"], "number": 1 },
+      { "type": "pickup", "target": ["Gilded Zibbo lighter"], "number": 1 },
+      { "type": "place", "target": ["Gilded Zibbo lighter"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Chemical - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_1",
+    "exp": 4800,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "key", "target": ["5780cfa52459777dfb276eb1"], "number": 1 },
+      { "type": "pickup", "target": ["Docs 0013"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Chemical - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_2",
+    "exp": 4800,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "key", "target": ["5780cfa52459777dfb276eb1"], "number": 1 },
+      {
+        "type": "pickup",
+        "target": ["Sealed letter (TerraGroup)"],
+        "number": 1
+      },
+      {
+        "type": "pickup",
+        "target": ["Sliderkey Secure Flash drive"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Chemical - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_3",
+    "exp": 5400,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "pickup", "target": ["Syringe with a chemical"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Chemical - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_4",
+    "exp": 6500,
+    "giver": { "name": "Skier" },
+    "objectives": [{ "type": "mark", "target": ["Transport van"], "number": 1 }]
+  },
+  {
+    "title": "Vitamins - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Vitamins_-_Part_1",
+    "exp": 13000,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "key", "target": ["5a0dc95c86f77452440fc675"], "number": 1 },
+      { "type": "key", "target": ["5ad5db3786f7743568421cce"], "number": 1 },
+      { "type": "pickup", "target": ["Chemical container"], "number": 1 },
+      { "type": "pickup", "target": ["Chemical container"], "number": 1 },
+      { "type": "pickup", "target": ["Chemical container"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Vitamins - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Vitamins_-_Part_2",
+    "exp": 15800,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "find", "target": ["59e7715586f7742ee5789605"], "number": 4 },
+      { "type": "find", "target": ["5b4335ba86f7744d2837a264"], "number": 3 }
+    ]
+  },
+  {
+    "title": "Friend from the West - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Friend_from_the_West_-_Part_1",
+    "exp": 7400,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "kill", "target": ["PMCs"], "number": 7 },
+      { "type": "find", "target": ["59f32c3b86f77472a31742f0"], "number": 7 }
+    ]
+  },
+  {
+    "title": "Friend from the West - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Friend_from_the_West_-_Part_2",
+    "exp": 9200,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      {
+        "type": "collect",
+        "target": ["5696686a4bdc2da3298b456a"],
+        "number": 6000
+      }
+    ]
+  },
+  {
+    "title": "Lend lease - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Lend_lease_-_Part_1",
+    "exp": 17500,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "key", "target": ["5a0ee30786f774023b6ee08f"], "number": 1 },
+      {
+        "type": "key",
+        "target": ["5a145d4786f7744cbb6f4a12", "5a145d7b86f7744cbb6f4a13"],
+        "number": 1
+      },
+      { "type": "pickup", "target": ["Motor Controller"], "number": 1 },
+      { "type": "pickup", "target": ["Motor Controller"], "number": 1 },
+      { "type": "pickup", "target": ["Motor Controller"], "number": 1 },
+      {
+        "type": "pickup",
+        "target": ["Single-axis Fiber Optic Gyroscope"],
+        "number": 1
+      },
+      {
+        "type": "pickup",
+        "target": ["Single-axis Fiber Optic Gyroscope"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Lend lease - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Lend_lease_-_Part_2",
+    "exp": 21000,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "find", "target": ["5c05308086f7746b2101e90b"], "number": 2 },
+      { "type": "find", "target": ["5c052f6886f7746b1e3db148"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Peacekeeping mission",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Peacekeeping_mission",
+    "exp": 25500,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "kill", "target": ["Scavs"], "number": 12 },
+      { "type": "kill", "target": ["Scavs"], "number": 12 },
+      { "type": "kill", "target": ["Scavs"], "number": 12 },
+      { "type": "kill", "target": ["Scavs"], "number": 12 }
+    ]
+  },
+  {
+    "title": "Informed means armed",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Informed_means_armed",
+    "exp": 14000,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "mark", "target": ["Brutal"], "number": 1 },
+      { "type": "mark", "target": ["Pier"], "number": 1 },
+      { "type": "mark", "target": ["Roadblock"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Chumming",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chumming",
+    "exp": 19100,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "place", "target": ["5734758f24597738025ee253"], "number": 3 },
+      { "type": "place", "target": ["5734758f24597738025ee253"], "number": 3 },
+      { "type": "place", "target": ["5734758f24597738025ee253"], "number": 3 },
+      { "type": "kill", "target": ["PMCs"], "number": 5 }
+    ]
+  },
+  {
+    "title": "Silent caliber",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Silent_caliber",
+    "exp": 18000,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "kill", "target": ["Scavs"], "number": 20 },
+      { "type": "kill", "target": ["PMCs"], "number": 10 }
+    ]
+  },
+  {
+    "title": "Flint",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Flint",
+    "exp": 25100,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "skill", "target": ["Stress Resistance"], "number": 6 }
+    ]
+  },
+  {
+    "title": "Bullshit",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bullshit",
+    "exp": 29900,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      {
+        "type": "warning",
+        "target": ["Do not kill any scavs from quest accept to quest complete"],
+        "number": 1
+      },
+      { "type": "pickup", "target": ["False flash drive"], "number": 1 },
+      { "type": "place", "target": ["False flash drive"], "number": 1 },
+      { "type": "place", "target": ["59faf7ca86f7740dbe19f6c2"], "number": 1 },
+      { "type": "place", "target": ["55801eed4bdc2d89578b4588"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Setup",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Setup",
+    "exp": 21900,
+    "giver": { "name": "Skier" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 15 }]
+  },
+  {
+    "title": "Fishing Gear",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Fishing_Gear",
+    "exp": 4800,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "place", "target": ["55801eed4bdc2d89578b4588"], "number": 1 },
+      { "type": "place", "target": ["544fb5454bdc2df8738b456a"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Tigr Safari",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tigr_Safari",
+    "exp": 5900,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "mark", "target": ["Tigr vehicle 1"], "number": 1 },
+      { "type": "mark", "target": ["Tigr vehicle 2"], "number": 1 },
+      { "type": "mark", "target": ["Tigr vehicle 3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Scrap Metal",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Scrap_Metal",
+    "exp": 5900,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "mark", "target": ["T-90 tank 1"], "number": 1 },
+      { "type": "mark", "target": ["T-90 tank 2"], "number": 1 },
+      { "type": "mark", "target": ["T-90 tank 3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Eagle Eye",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Eagle_Eye",
+    "exp": 6600,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "pickup", "target": ["SAS disk 1"], "number": 1 },
+      { "type": "pickup", "target": ["SAS disk 2"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Humanitarian Supplies",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Humanitarian_Supplies",
+    "exp": 6700,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "mark", "target": ["Un cargo truck 1"], "number": 1 },
+      { "type": "mark", "target": ["Un cargo truck 2"], "number": 1 },
+      {
+        "type": "collect",
+        "target": ["590c5f0d86f77413997acfab"],
+        "number": 5
+      },
+      { "type": "kill", "target": ["Scavs"], "number": 10 }
+    ]
+  },
+  {
+    "title": "The Cult - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_1",
+    "exp": 6200,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "locate", "target": ["The missing informant"], "number": 1 }
+    ]
+  },
+  {
+    "title": "The Cult - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_2",
+    "exp": 7500,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "key", "target": ["5780cf7f2459777de4559322"], "number": 1 },
+      { "type": "mark", "target": ["Ritual spot"], "number": 1 },
+      { "type": "mark", "target": ["Ritual spot 1"], "number": 1 },
+      { "type": "mark", "target": ["Ritual spot 2"], "number": 1 },
+      { "type": "mark", "target": ["Ritual spot"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Spa Tour - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_1",
+    "exp": 7400,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 7 }]
+  },
+  {
+    "title": "Spa Tour - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_2",
+    "exp": 6300,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "mark", "target": ["Helicopter"], "number": 1 },
+      { "type": "mark", "target": ["Safe road"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Spa Tour - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_3",
+    "exp": 7600,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "find", "target": ["590c5bbd86f774785762df04"], "number": 1 },
+      { "type": "find", "target": ["59e358a886f7741776641ac3"], "number": 2 },
+      { "type": "find", "target": ["59e35cbb86f7741778269d83"], "number": 2 },
+      { "type": "find", "target": ["59e3556c86f7741776641ac2"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Spa Tour - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_4",
+    "exp": 7700,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      {
+        "type": "key",
+        "target": ["5a13ef0686f7746e5a411744", "5a0ee34586f774023b6ee092"],
+        "number": 1
+      },
+      { "type": "locate", "target": ["Generator 1"], "number": 1 },
+      { "type": "locate", "target": ["Generator 2"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Spa Tour - Part 5",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_5",
+    "exp": 6500,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      {
+        "type": "pickup",
+        "target": ["The key to the closed premises of the sanatorium"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Spa Tour - Part 6",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_6",
+    "exp": 9500,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      {
+        "type": "collect",
+        "target": ["5696686a4bdc2da3298b456a"],
+        "number": 8000
+      }
+    ]
+  },
+  {
+    "title": "Spa Tour - Part 7",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_7",
+    "exp": 9700,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "find", "target": ["544fb3f34bdc2d03748b456a"], "number": 4 },
+      { "type": "find", "target": ["59faf98186f774067b6be103"], "number": 2 },
+      { "type": "find", "target": ["59e35cbb86f7741778269d83"], "number": 2 },
+      { "type": "find", "target": ["59fafb5d86f774067a6f2084"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Cargo X - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_1",
+    "exp": 8200,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      {
+        "type": "key",
+        "target": ["5a145d4786f7744cbb6f4a12", "5a145d7b86f7744cbb6f4a13"],
+        "number": 1
+      },
+      {
+        "type": "pickup",
+        "target": ["Toughbook reinforced laptop"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Cargo X - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_2",
+    "exp": 8300,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [{ "type": "pickup", "target": ["Docs 0013"], "number": 1 }]
+  },
+  {
+    "title": "Cargo X - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_3",
+    "exp": 8400,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "locate", "target": ["Hidden Terragroup cargo"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Wet Job - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_1",
+    "exp": 11400,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 10 }]
+  },
+  {
+    "title": "Wet Job - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_2",
+    "exp": 9700,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "mark", "target": ["Fisher's dwelling"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Wet Job - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_3",
+    "exp": 8200,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "locate", "target": ["Artyom's car"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Wet Job - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_4",
+    "exp": 8300,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "pickup", "target": ["Sliderkey Flash drive"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Wet Job - Part 5",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_5",
+    "exp": 8400,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      {
+        "type": "key",
+        "target": ["5a0eee1486f77402aa773226", "5a0ea79b86f7741d4a35298e"],
+        "number": 1
+      },
+      { "type": "pickup", "target": ["Working hard drive"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Wet Job - Part 6",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_6",
+    "exp": 10400,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "skill", "target": ["Sniper Rifles"], "number": 7 }
+    ]
+  },
+  {
+    "title": "Psycho Sniper",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Psycho_Sniper",
+    "exp": 32400,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "skill", "target": ["Sniper Rifles"], "number": 9 }
+    ]
+  },
+  {
+    "title": "The guide",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_guide",
+    "exp": 35100,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": []
+  },
+  {
+    "title": "Gunsmith - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_1",
+    "exp": 5400,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["54491c4f4bdc2db1078b4568"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_2",
+    "exp": 6000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["57dc2fa62459775949412633"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_3",
+    "exp": 7900,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5926bb2186f7744b1c6c6e60"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_4",
+    "exp": 10000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5447a9cd4bdc2dbd208b4567"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 5",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_5",
+    "exp": 13700,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["588892092459774ac91d4b11"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 6",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_6",
+    "exp": 14700,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5a367e5dc4a282000e49738f"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 7",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_7",
+    "exp": 16000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5a7828548dc32e5a9c28b516"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 8",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_8",
+    "exp": 16000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["59d6088586f774275f37482f"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 9",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_9",
+    "exp": 17000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5ab8e9fcd8ce870019439434"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 10",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_10",
+    "exp": 17300,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5ac66d9b5acfc4001633997a"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 11",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_11",
+    "exp": 18400,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["57c44b372459772d2b39b8ce"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 12",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_12",
+    "exp": 14200,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5ac66d015acfc400180ae6e4"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 13",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_13",
+    "exp": 18700,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["58948c8e86f77409493f7266"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 14",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_14",
+    "exp": 20500,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5a0ec13bfcdbcb00165aa685"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 15",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_15",
+    "exp": 22300,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5aafa857e5b5b00018480968"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gunsmith - Part 16",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_16",
+    "exp": 32800,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "build", "target": ["5447a9cd4bdc2dbd208b4567"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Signal - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_1",
+    "exp": 6700,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "locate", "target": ["First signal source"], "number": 1 },
+      { "type": "locate", "target": ["Second signal source"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Signal - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_2",
+    "exp": 6700,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "find", "target": ["573477e124597737dd42e191"], "number": 3 },
+      { "type": "find", "target": ["590a358486f77429692b2790"], "number": 3 },
+      { "type": "find", "target": ["590a3b0486f7743954552bdb"], "number": 3 },
+      { "type": "find", "target": ["56742c324bdc2d150f8b456d"], "number": 3 }
+    ]
+  },
+  {
+    "title": "Signal - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_3",
+    "exp": 8500,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "mark", "target": ["Antenna 1"], "number": 1 },
+      { "type": "mark", "target": ["Antenna 2"], "number": 1 },
+      { "type": "mark", "target": ["Antenna 3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Signal - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_4",
+    "exp": 8600,
+    "giver": { "name": "Mechanic" },
+    "objectives": [{ "type": "skill", "target": ["Memory"], "number": 4 }]
+  },
+  {
+    "title": "Scout",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Scout",
+    "exp": 6800,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "locate", "target": ["Factory exit 1"], "number": 1 },
+      { "type": "locate", "target": ["Factory exit 2"], "number": 1 },
+      { "type": "locate", "target": ["Factory exit 3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Insider",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Insider",
+    "exp": 9300,
+    "giver": { "name": "Mechanic" },
+    "objectives": [{ "type": "reputation", "target": ["0"], "number": 3 }]
+  },
+  {
+    "title": "Farming - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_1",
+    "exp": 6600,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "place", "target": ["590c2e1186f77425357b6124"], "number": 1 },
+      { "type": "place", "target": ["590c2e1186f77425357b6124"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Farming - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_2",
+    "exp": 5500,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "find", "target": ["59e36c6f86f774176c10a2a7"], "number": 2 },
+      { "type": "find", "target": ["57347cd0245977445a2d6ff1"], "number": 4 },
+      { "type": "find", "target": ["590a3b0486f7743954552bdb"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Farming - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_3",
+    "exp": 6500,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "key", "target": ["5780d0532459777a5108b9a2"], "number": 1 },
+      {
+        "type": "pickup",
+        "target": ["Package with graphics cards"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Farming - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_4",
+    "exp": 8000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "find", "target": ["57347ca924597744596b4e71"], "number": 3 },
+      { "type": "find", "target": ["5734779624597737e04bf329"], "number": 8 }
+    ]
+  },
+  {
+    "title": "Import",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Import",
+    "exp": 29000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "find", "target": ["5c052fb986f7746b2101e909"], "number": 1 },
+      { "type": "find", "target": ["5c05300686f7746dce784e5d"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Fertilizers",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Fertilizers",
+    "exp": 17200,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "find", "target": ["5c06779c86f77426e00dd782"], "number": 5 },
+      { "type": "find", "target": ["5c06782b86f77426df5407d2"], "number": 5 }
+    ]
+  },
+  {
+    "title": "A Shooter Born in Heaven",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/A_Shooter_Born_in_Heaven",
+    "exp": 11600,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "kill", "target": ["PMCs"], "number": 3 },
+      { "type": "kill", "target": ["PMCs"], "number": 3 },
+      { "type": "kill", "target": ["PMCs"], "number": 3 },
+      { "type": "kill", "target": ["PMCs"], "number": 3 }
+    ]
+  },
+  {
+    "title": "Only business",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Only_business",
+    "exp": 6700,
+    "giver": { "name": "Ragman" },
+    "objectives": [{ "type": "reputation", "target": ["5"], "number": 2 }]
+  },
+  {
+    "title": "Big sale",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Big_sale",
+    "exp": 8200,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "locate", "target": ["AVOKADO"], "number": 1 },
+      { "type": "locate", "target": ["KOSTIN"], "number": 1 },
+      { "type": "locate", "target": ["tRend"], "number": 1 },
+      { "type": "locate", "target": ["DINO CLOTHES"], "number": 1 },
+      { "type": "locate", "target": ["TOP BRAND"], "number": 1 }
+    ]
+  },
+  {
+    "title": "The Blood of War - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_1",
+    "exp": 7500,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "mark", "target": ["Tanker 1"], "number": 1 },
+      { "type": "mark", "target": ["Tanker 2"], "number": 1 },
+      { "type": "mark", "target": ["Tanker 3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Dressed to kill",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Dressed_to_kill",
+    "exp": 8400,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "find", "target": ["59e7708286f7742cbd762753"], "number": 2 },
+      { "type": "find", "target": ["5aa2b9ede5b5b000137b758b"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Database - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Database_-_Part_1",
+    "exp": 8400,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "pickup", "target": ["Goshan cargo manifest"], "number": 1 },
+      { "type": "pickup", "target": ["OLI cargo manifest"], "number": 1 },
+      { "type": "pickup", "target": ["IDEA cargo manifest"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Database - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Database_-_Part_2",
+    "exp": 8500,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "key", "target": ["5ad5cfbd86f7742c825d6104"], "number": 1 },
+      { "type": "pickup", "target": ["OLI cargo route documents"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Gratitude",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gratitude",
+    "exp": 14400,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "place", "target": ["5ab8f4ff86f77431c60d91ba"], "number": 1 },
+      { "type": "place", "target": ["5ab8f85d86f7745cd93a1cf5"], "number": 1 },
+      { "type": "place", "target": ["5aa2b9aee5b5b00015693121"], "number": 1 },
+      { "type": "place", "target": ["5aa2b923e5b5b000137b7589"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Sales Night",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sales_Night",
+    "exp": 17500,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      {
+        "type": "warning",
+        "target": [
+          "\"Survive\" Interchange 7 times (they do not have to be consecutive)"
+        ],
+        "number": 7
+      }
+    ]
+  },
+  {
+    "title": "Supervisor",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Supervisor",
+    "exp": 24100,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "collect", "target": ["5ad7247386f7747487619dc3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Hot Delivery",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hot_delivery",
+    "exp": 20300,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "place", "target": ["5645bcc04bdc2d363b8b4572"], "number": 2 },
+      { "type": "place", "target": ["5a7c4850e899ef00150be885"], "number": 2 },
+      { "type": "place", "target": ["5ab8e79e86f7742d8b372e78"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Scavenger",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Scavenger",
+    "exp": 17700,
+    "giver": { "name": "Ragman" },
+    "objectives": [{ "type": "skill", "target": ["Search"], "number": 9 }]
+  },
+  {
+    "title": "Make ULTRA Great Again",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Make_ULTRA_Great_Again",
+    "exp": 9800,
+    "giver": { "name": "Ragman" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 25 }]
+  },
+  {
+    "title": "Minibus",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Minibus",
+    "exp": 13800,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "mark", "target": ["Minibus 1"], "number": 1 },
+      { "type": "mark", "target": ["Minibus 2"], "number": 1 },
+      { "type": "mark", "target": ["Minibus 3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Sew it good - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_1",
+    "exp": 12300,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "find", "target": ["5ab8f20c86f7745cdb629fb2"], "number": 1 },
+      { "type": "find", "target": ["59e763f286f7742ee57895da"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Sew it good - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_2",
+    "exp": 17500,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      {
+        "type": "collect",
+        "target": ["5ab8e79e86f7742d8b372e78"],
+        "number": 1
+      },
+      { "type": "collect", "target": ["5ab8e79e86f7742d8b372e78"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Sew it good - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_3",
+    "exp": 18200,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      {
+        "type": "collect",
+        "target": ["545cdb794bdc2d3a198b456a"],
+        "number": 1
+      },
+      { "type": "collect", "target": ["545cdb794bdc2d3a198b456a"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Sew it good - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sew_it_good_-_Part_4",
+    "exp": 18500,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "find", "target": ["59e7643b86f7742cbf2c109a"], "number": 2 },
+      { "type": "find", "target": ["5648a69d4bdc2ded0b8b457b"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Charisma brings success",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Charisma_brings_success",
+    "exp": 15600,
+    "giver": { "name": "Ragman" },
+    "objectives": [{ "type": "skill", "target": ["Charisma"], "number": 10 }]
+  },
+  {
+    "title": "No fuss needed",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/No_fuss_needed",
+    "exp": 15800,
+    "giver": { "name": "Ragman" },
+    "objectives": [{ "type": "reputation", "target": ["1"], "number": 3 }]
+  },
+  {
+    "title": "The Blood of War - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_2",
+    "exp": 14600,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "find", "target": ["5b43575a86f77424f443fe62"], "number": 4 }
+    ]
+  },
+  {
+    "title": "The Blood of War - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_3",
+    "exp": 21300,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "mark", "target": ["Fuel stash 1"], "number": 1 },
+      { "type": "mark", "target": ["Fuel stash 2"], "number": 1 },
+      { "type": "mark", "target": ["Fuel stash 3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Living high is not a crime - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Living_High_is_Not_a_Crime_-_Part_1",
+    "exp": 19900,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "find", "target": ["59e3639286f7741777737013"], "number": 2 },
+      { "type": "find", "target": ["573478bc24597738002c6175"], "number": 2 },
+      { "type": "find", "target": ["59e3658a86f7741776641ac4"], "number": 1 },
+      { "type": "find", "target": ["59faf7ca86f7740dbe19f6c2"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Living high is not a crime - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Living_High_is_Not_a_Crime_-_Part_2",
+    "exp": 25900,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "find", "target": ["590de71386f774347051a052"], "number": 3 },
+      { "type": "find", "target": ["590de7e986f7741b096e5f32"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Introduction",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Introduction",
+    "exp": 4500,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "pickup", "target": ["Jaeger's message"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Acquaintance",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Acquaintance",
+    "exp": 3900,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "find", "target": ["590c5d4b86f774784e1b9c45"], "number": 3 },
+      { "type": "find", "target": ["5751487e245977207e26a315"], "number": 2 },
+      { "type": "find", "target": ["57347da92459774491567cf5"], "number": 2 }
+    ]
+  },
+  {
+    "title": "The survivalist path - Unprotected, but dangerous",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Unprotected,_but_dangerous",
+    "exp": 5600,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 5 }]
+  },
+  {
+    "title": "The survivalist path - Thrifty",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Thrifty",
+    "exp": 4700,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "place", "target": ["590c5d4b86f774784e1b9c45"], "number": 1 },
+      { "type": "place", "target": ["5448fee04bdc2dbc018b4567"], "number": 1 },
+      { "type": "place", "target": ["590c5d4b86f774784e1b9c45"], "number": 1 },
+      { "type": "place", "target": ["5448fee04bdc2dbc018b4567"], "number": 1 }
+    ]
+  },
+  {
+    "title": "The survivalist path - Zhivchik",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Zhivchik",
+    "exp": 5700,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      {
+        "type": "warning",
+        "target": ["Gain the dehydrated status for 5 minutes"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "The survivalist path - Wounded beast",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Wounded_beast",
+    "exp": 5800,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 3 }]
+  },
+  {
+    "title": "The survivalist path - Tough guy",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Tough_guy",
+    "exp": 7000,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 3 }]
+  },
+  {
+    "title": "Courtesy visit",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Courtesy_visit",
+    "exp": 11800,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "locate", "target": ["Priest house"], "number": 1 },
+      { "type": "locate", "target": ["Fisherman house"], "number": 1 },
+      { "type": "locate", "target": ["Chairman house"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Nostalgia",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Nostalgia",
+    "exp": 16800,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "pickup", "target": ["Jaeger's photo album"], "number": 1 }
+    ]
+  },
+  {
+    "title": "The Tarkov shooter - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_1",
+    "exp": 12300,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 5 }]
+  },
+  {
+    "title": "The Tarkov shooter - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_2",
+    "exp": 12400,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "kill", "target": ["Any"], "number": 3 },
+      { "type": "kill", "target": ["Any"], "number": 2 }
+    ]
+  },
+  {
+    "title": "The Tarkov shooter - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_3",
+    "exp": 10500,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 3 }]
+  },
+  {
+    "title": "The Tarkov shooter - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_4",
+    "exp": 11800,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "skill", "target": ["Sniper Rifles"], "number": 3 }
+    ]
+  },
+  {
+    "title": "The Tarkov shooter - Part 5",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_5",
+    "exp": 13000,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 8 }]
+  },
+  {
+    "title": "The Tarkov shooter - Part 6",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_6",
+    "exp": 13100,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 5 }]
+  },
+  {
+    "title": "The Tarkov shooter - Part 7",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_7",
+    "exp": 13300,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 5 }]
+  },
+  {
+    "title": "The Tarkov shooter - Part 8",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_shooter_-_Part_8",
+    "exp": 25200,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 3 }]
+  },
+  {
+    "title": "The survivalist path - Cold blooded",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Cold_blooded",
+    "exp": 5900,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 2 }]
+  },
+  {
+    "title": "Colleagues - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_2",
+    "exp": 12300,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "key", "target": ["5a0eb6ac86f7743124037a28"], "number": 1 },
+      { "type": "pickup", "target": ["Sanitar's surgery kit"], "number": 1 },
+      { "type": "pickup", "target": ["Sanitar's ophthalmoscope"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Colleagues - Part 3",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_3",
+    "exp": 15800,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "warning", "target": ["Do not kill Sanitar"], "number": 1 },
+      { "type": "find", "target": ["5ed515f6915ec335206e4152"], "number": 1 },
+      { "type": "find", "target": ["5ed515c8d380ab312177c0fa"], "number": 1 },
+      {
+        "type": "collect",
+        "target": ["5c1d0c5f86f7744bb2683cf0"],
+        "number": 1
+      },
+      { "type": "collect", "target": ["5c1d0dc586f7744baf2e7b79"], "number": 1 }
+    ]
+  },
+  {
+    "title": "The survivalist path - Combat medic",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Combat_medic",
+    "exp": 5900,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "skill", "target": ["Vitality"], "number": 5 }]
+  },
+  {
+    "title": "Ambulance",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ambulance",
+    "exp": 14800,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "find", "target": ["5d02778e86f774203e7dedbe"], "number": 2 },
+      { "type": "find", "target": ["5c052e6986f7746b207bc3c9"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Huntsman path - Secured perimeter",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Secured_Perimeter",
+    "exp": 5900,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 6 }]
+  },
+  {
+    "title": "Reserve",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Reserve_(quest)",
+    "exp": 11800,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "locate", "target": ["Food storage"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Huntsman path - Woods cleaning",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Woods_cleaning",
+    "exp": 5900,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 30 }]
+  },
+  {
+    "title": "Huntsman path - Controller",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Controller",
+    "exp": 7200,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 2 }]
+  },
+  {
+    "title": "Huntsman path - Evil watchman",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Evil_watchman",
+    "exp": 6000,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 5 }]
+  },
+  {
+    "title": "Fishing place",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Fishing_place",
+    "exp": 18000,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "find", "target": ["5c94bbff86f7747ee735c08f"], "number": 2 }
+    ]
+  },
+  {
+    "title": "Huntsman path - The trophy",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_The_trophy",
+    "exp": 7100,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "kill", "target": ["Reshala"], "number": 1 },
+      { "type": "find", "target": ["5b3b713c5acfc4330140bd8d"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Huntsman path - Justice",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Justice",
+    "exp": 7200,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 3 }]
+  },
+  {
+    "title": "Huntsman path - Sellout",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Sellout",
+    "exp": 7200,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "kill", "target": ["Killa"], "number": 1 },
+      { "type": "find", "target": ["5c0e874186f7745dc7616606"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Huntsman path - Woods keeper",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Woods_keeper",
+    "exp": 7300,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "kill", "target": ["Shturman"], "number": 1 },
+      { "type": "find", "target": ["5d08d21286f774736e7c94c3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Huntsman path - Eraser - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Eraser_-_Part_1",
+    "exp": 8900,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Glukhar"], "number": 1 }]
+  },
+  {
+    "title": "Huntsman path - Eraser - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Eraser_-_Part_2",
+    "exp": 17000,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Raiders"], "number": 6 }]
+  },
+  {
+    "title": "Hunting trip",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hunting_trip",
+    "exp": 22200,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Shturman"], "number": 1 }]
+  },
+  {
+    "title": "Operation Aquarius - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius_-_Part_1",
+    "exp": 3300,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "key", "target": ["5938603e86f77435642354f4"], "number": 1 },
+      {
+        "type": "locate",
+        "target": ["The hidden water in 2-story dorms, room 206"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Operation Aquarius - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius_-_Part_2",
+    "exp": 3400,
+    "giver": { "name": "Therapist" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 15 }]
+  },
+  {
+    "title": "Polikhim hobo",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Polikhim_hobo",
+    "exp": 5900,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 25 }]
+  },
+  {
+    "title": "Regulated materials",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Regulated_materials",
+    "exp": 14800,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "find", "target": ["5d03794386f77420415576f5"], "number": 1 },
+      { "type": "find", "target": ["5d0379a886f77420407aa271"], "number": 5 }
+    ]
+  },
+  {
+    "title": "Stirrup",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Stirrup",
+    "exp": 5300,
+    "giver": { "name": "Skier" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 3 }]
+  },
+  {
+    "title": "Mentor",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Mentor",
+    "exp": 4700,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      {
+        "type": "collect",
+        "target": ["569668774bdc2da2298b4568"],
+        "number": 50000
+      }
+    ]
+  },
+  {
+    "title": "Bad habit",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bad_habit",
+    "exp": 6700,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "find", "target": ["573476d324597737da2adc13"], "number": 5 },
+      { "type": "find", "target": ["5734770f24597738025ee254"], "number": 5 },
+      { "type": "find", "target": ["573476f124597737e04bf328"], "number": 5 }
+    ]
+  },
+  {
+    "title": "The key to success",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_key_to_success",
+    "exp": 15600,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      {
+        "type": "pickup",
+        "target": ["Clothes design handbook Part 1"],
+        "number": 1
+      },
+      {
+        "type": "pickup",
+        "target": ["Clothes design handbook Part 2"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Shady Business",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Shady_business",
+    "exp": 11400,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "find", "target": ["590c621186f774138d11ea29"], "number": 3 }
+    ]
+  },
+  {
+    "title": "Postman Pat - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_2",
+    "exp": 3500,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "pickup", "target": ["Sealed letter"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Out of curiosity",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Out_of_curiosity",
+    "exp": 7700,
+    "giver": { "name": "Therapist" },
+    "objectives": [{ "type": "mark", "target": ["Transport van"], "number": 1 }]
+  },
+  {
+    "title": "Big customer",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Big_customer",
+    "exp": 8100,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "mark", "target": ["Transport van"], "number": 1 }]
+  },
+  {
+    "title": "The survivalist path - Junkie",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Junkie",
+    "exp": 5900,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 15 }]
+  },
+  {
+    "title": "Textile - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_1",
+    "exp": 0,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "find", "target": ["5e2af4d286f7746d4159f07a"], "number": 5 },
+      { "type": "find", "target": ["5e2af4a786f7746d3f3c3400"], "number": 10 },
+      { "type": "find", "target": ["5c12688486f77426843c7d32"], "number": 3 }
+    ]
+  },
+  {
+    "title": "Textile - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_2",
+    "exp": 0,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "find", "target": ["5e2af47786f7746d404f3aaa"], "number": 10 },
+      { "type": "find", "target": ["5e2af41e86f774755a234b67"], "number": 10 },
+      { "type": "find", "target": ["5e2af29386f7746d4159f077"], "number": 5 }
+    ]
+  },
+  {
+    "title": "Anesthesia",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Anesthesia",
+    "exp": 18100,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "mark", "target": ["Trading post 1"], "number": 1 },
+      { "type": "mark", "target": ["Trading post 2"], "number": 1 },
+      { "type": "mark", "target": ["Trading post 3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Colleagues - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_1",
+    "exp": 12300,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "locate", "target": ["Health resort group"], "number": 1 },
+      { "type": "locate", "target": ["Pier group"], "number": 1 },
+      { "type": "locate", "target": ["Cottage group"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Rigged game",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rigged_game",
+    "exp": 12900,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      {
+        "type": "mark",
+        "target": ["Health resort Medical container"],
+        "number": 1
+      },
+      { "type": "mark", "target": ["Cottages Medical container"], "number": 1 },
+      { "type": "mark", "target": ["Pier Medical container"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Chemistry closet",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Chemistry_closet",
+    "exp": 13400,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "key", "target": ["5eff09cd30a7dc22fd1ddfed"], "number": 1 },
+      { "type": "locate", "target": ["Sanitar's office"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Samples",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Samples",
+    "exp": 15300,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "find", "target": ["5ed51652f6c34d2cc26336a1"], "number": 1 },
+      { "type": "find", "target": ["5ed5166ad380ab312177c100"], "number": 1 },
+      { "type": "find", "target": ["5ed5160a87bb8443d10680b5"], "number": 1 },
+      { "type": "find", "target": ["5ed515f6915ec335206e4152"], "number": 1 },
+      { "type": "find", "target": ["5ed515ece452db0eb56fc028"], "number": 1 },
+      { "type": "find", "target": ["5ed515e03a40a50460332579"], "number": 1 },
+      { "type": "find", "target": ["5ed515c8d380ab312177c0fa"], "number": 1 }
+    ]
+  },
+  {
+    "title": "TerraGroup employee",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_employee",
+    "exp": 17000,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "key", "target": ["5efde6b4f5448336730dbd61"], "number": 1 },
+      { "type": "locate", "target": ["Sanitar's workplace"], "number": 1 },
+      {
+        "type": "pickup",
+        "target": ["Marked with tape flash drive"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Huntsman path - Sadist",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_path_-_Sadist",
+    "exp": 16300,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Sanitar"], "number": 1 }]
+  },
+  {
+    "title": "The bunker - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_bunker_-_Part_1",
+    "exp": 5700,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "locate", "target": ["Underground bunker"], "number": 1 },
+      { "type": "locate", "target": ["Bunker control room"], "number": 1 }
+    ]
+  },
+  {
+    "title": "The bunker - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_bunker_-_Part_2",
+    "exp": 9200,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      {
+        "type": "locate",
+        "target": ["White Bishop hermetic door"],
+        "number": 1
+      },
+      {
+        "type": "locate",
+        "target": ["Black Bishop hermetic door"],
+        "number": 1
+      },
+      { "type": "locate", "target": ["Black Pawn hermetic door"], "number": 1 },
+      { "type": "locate", "target": ["White Pawn hermetic door"], "number": 1 },
+      { "type": "locate", "target": ["White King hermetic door"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Search mission",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Search_mission",
+    "exp": 2800,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "locate", "target": ["Missing convoy"], "number": 1 },
+      { "type": "locate", "target": ["Temporary USEC camp"], "number": 1 }
+    ]
+  },
+  {
+    "title": "The stylish one",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_stylish_one",
+    "exp": 0,
+    "giver": { "name": "Ragman" },
+    "objectives": [{ "type": "kill", "target": ["Killa"], "number": 100 }]
+  },
+  {
+    "title": "The survivalist path - Eagle-owl",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_survivalist_path_-_Eagle-owl",
+    "exp": 5900,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 6 }]
+  },
+  {
+    "title": "Collector",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Collector",
+    "exp": 0,
+    "giver": { "name": "Fence" },
+    "objectives": [
+      { "type": "find", "target": ["5bc9c377d4351e3bac12251b"], "number": 1 },
+      { "type": "find", "target": ["5bc9c1e2d4351e00367fbcf0"], "number": 1 },
+      { "type": "find", "target": ["5bc9c049d4351e44f824d360"], "number": 1 },
+      { "type": "find", "target": ["5bc9b355d4351e6d1509862a"], "number": 1 },
+      { "type": "find", "target": ["5bc9bc53d4351e00367fbcee"], "number": 1 },
+      { "type": "find", "target": ["5bc9bdb8d4351e003562b8a1"], "number": 1 },
+      { "type": "find", "target": ["5bc9b9ecd4351e3bac122519"], "number": 1 },
+      { "type": "find", "target": ["5bc9b720d4351e450201234b"], "number": 1 },
+      { "type": "find", "target": ["5bc9b156d4351e00367fbce9"], "number": 1 },
+      { "type": "find", "target": ["5bc9c29cd4351e003562b8a3"], "number": 1 },
+      { "type": "find", "target": ["5bd073a586f7747e6f135799"], "number": 1 },
+      { "type": "find", "target": ["5bd073c986f7747f627e796c"], "number": 1 },
+      { "type": "find", "target": ["5e54f6af86f7742199090bf3"], "number": 1 },
+      { "type": "find", "target": ["5e54f79686f7744022011103"], "number": 1 },
+      { "type": "find", "target": ["5e54f62086f774219b0f1937"], "number": 1 },
+      { "type": "find", "target": ["5e54f76986f7740366043752"], "number": 1 },
+      { "type": "find", "target": ["5f745ee30acaeb0d490d8c5b"], "number": 1 },
+      { "type": "find", "target": ["5bc9be8fd4351e00334cae6e"], "number": 1 },
+      { "type": "find", "target": ["60b0f988c4449e4cb624c1da"], "number": 1 },
+      { "type": "find", "target": ["60b0f93284c20f0feb453da7"], "number": 1 },
+      { "type": "find", "target": ["60b0f7057897d47c5b04ab94"], "number": 1 },
+      { "type": "find", "target": ["60b0f6c058e0b0481a09ad11"], "number": 1 },
+      { "type": "find", "target": ["60b0f561c4449e4cb624c1d7"], "number": 1 }
+    ]
+  },
+  {
+    "title": "An apple a day - keeps the doctor away",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/An_Apple_a_Day_Keeps_the_Doctor_Away",
+    "exp": 0,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      {
+        "type": "collect",
+        "target": ["5449016a4bdc2d6f028b456f"],
+        "number": 400000
+      }
+    ]
+  },
+  {
+    "title": "Hunter",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hunter",
+    "exp": 0,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Shturman"], "number": 25 }]
+  },
+  {
+    "title": "No offence",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/No_offence",
+    "exp": 0,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      {
+        "type": "collect",
+        "target": ["58d3db5386f77426186285a0"],
+        "number": 10
+      }
+    ]
+  },
+  {
+    "title": "Trust regain",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Trust_regain",
+    "exp": 0,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      {
+        "type": "collect",
+        "target": ["593aa4be86f77457f56379f8"],
+        "number": 1
+      },
+      {
+        "type": "collect",
+        "target": ["591afe0186f77431bd616a11"],
+        "number": 1
+      },
+      {
+        "type": "collect",
+        "target": ["5913915886f774123603c392"],
+        "number": 1
+      },
+      { "type": "collect", "target": ["5913877a86f774432f15d444"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Loyalty buyout",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Loyalty_buyout",
+    "exp": 0,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      {
+        "type": "collect",
+        "target": ["5449016a4bdc2d6f028b456f"],
+        "number": 1000000
+      }
+    ]
+  },
+  {
+    "title": "Hippocratic Oath",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hippocratic_Oath",
+    "exp": 0,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      {
+        "type": "warning",
+        "target": [
+          "This quest is only available if you have less than 0.6 repuation with Therapist"
+        ],
+        "number": 1
+      },
+      {
+        "type": "collect",
+        "target": ["5696686a4bdc2da3298b456a"],
+        "number": 500
+      }
+    ]
+  },
+  {
+    "title": "Disease history",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Disease_history",
+    "exp": 7200,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "key", "target": ["5d947d4e86f774447b415895"], "number": 1 },
+      { "type": "key", "target": ["5d947d3886f774447b415893"], "number": 1 },
+      { "type": "pickup", "target": ["Medical Journal No.1"], "number": 1 },
+      { "type": "pickup", "target": ["Medical Journal No.2"], "number": 1 }
+    ]
+  },
+  {
+    "title": "A fuel matter",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/A_Fuel_Matter",
+    "exp": 8200,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "mark", "target": ["Fuel Tanks 1"], "number": 1 },
+      { "type": "mark", "target": ["Fuel Tanks 2"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Surplus Goods",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Surplus_goods",
+    "exp": 7500,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "key", "target": ["5d9f1fa686f774726974a992"], "number": 1 },
+      { "type": "pickup", "target": ["MBT navigation complex"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Back door",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Back_door",
+    "exp": 8200,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "locate", "target": ["Unpowered secret exit"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Revision - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Revision",
+    "exp": 7300,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "key", "target": ["5d9f1fa686f774726974a992"], "number": 1 },
+      { "type": "mark", "target": ["BMP-2 1"], "number": 1 },
+      { "type": "mark", "target": ["BMP-2 2"], "number": 1 },
+      { "type": "mark", "target": ["BMP-2 3"], "number": 1 },
+      { "type": "mark", "target": ["BMP-2 4"], "number": 1 },
+      { "type": "mark", "target": ["IFV LAV III 1"], "number": 1 },
+      { "type": "locate", "target": ["IFV LAV III 2"], "number": 1 },
+      { "type": "locate", "target": ["T-90"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Classified technologies",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Classified_technologies",
+    "exp": 7200,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      {
+        "type": "pickup",
+        "target": ["T-90M Commander control panel"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Inventory check",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Inventory_check",
+    "exp": 10000,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "key", "target": ["5d80ccac86f77470841ff452"], "number": 1 },
+      { "type": "key", "target": ["5d80ccdd86f77474f7575e02"], "number": 1 },
+      { "type": "key", "target": ["5d80cd1a86f77402aa362f42"], "number": 1 },
+      {
+        "type": "locate",
+        "target": ["Western Barracks arsenal 1"],
+        "number": 1
+      },
+      {
+        "type": "locate",
+        "target": ["Western Barracks arsenal 2"],
+        "number": 1
+      },
+      {
+        "type": "locate",
+        "target": ["Western Barracks duty room"],
+        "number": 1
+      },
+      {
+        "type": "locate",
+        "target": ["Northern Barracks arsenal 1"],
+        "number": 1
+      },
+      {
+        "type": "locate",
+        "target": ["Northern Barracks arsenal 1"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "No place for renegades",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/No_place_for_renegades",
+    "exp": 8500,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["Raiders"], "number": 5 }]
+  },
+  {
+    "title": "Documents",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Documents",
+    "exp": 7800,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "pickup", "target": ["Military documents No.1"], "number": 1 },
+      { "type": "pickup", "target": ["Military documents No.2"], "number": 1 },
+      { "type": "pickup", "target": ["Military documents No.3"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Safe corridor",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Safe_corridor",
+    "exp": 9000,
+    "giver": { "name": "Skier" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 10 }]
+  },
+  {
+    "title": "Huntsman Path - Factory Chief",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_Path_-_Factory_Chief",
+    "exp": 8500,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      { "type": "kill", "target": ["Tagilla"], "number": 1 },
+      { "type": "find", "target": ["60a7acf20c5cb24b01346648"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Pest control",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pest_control",
+    "exp": 7400,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 10 }]
+  },
+  {
+    "title": "Capturing Outposts",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Capturing_Outposts",
+    "exp": 84000,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "kill", "target": ["PMCs"], "number": 15 },
+      { "type": "kill", "target": ["PMCs"], "number": 15 },
+      { "type": "kill", "target": ["PMCs"], "number": 15 }
+    ]
+  },
+  {
+    "title": "Intimidator",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Intimidator",
+    "exp": 84000,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 40 }]
+  },
+  {
+    "title": "Calibration",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Calibration",
+    "exp": 93000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 20 }]
+  },
+  {
+    "title": "Night Sweep",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Night_Sweep",
+    "exp": 107000,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "find", "target": ["5fc64ea372b0dd78d51159dc"], "number": 12 }
+    ]
+  },
+  {
+    "title": "Swift One",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Swift_One",
+    "exp": 107000,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 20 }]
+  },
+  {
+    "title": "Crisis",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crisis",
+    "exp": 137000,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "find", "target": ["5c052e6986f7746b207bc3c9"], "number": 5 },
+      { "type": "find", "target": ["5af0534a86f7743b6f354284"], "number": 5 },
+      { "type": "find", "target": ["5c0530ee86f774697952d952"], "number": 5 },
+      { "type": "find", "target": ["5d1b3a5d86f774252167ba22"], "number": 20 }
+    ]
+  },
+  {
+    "title": "Escort",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Escort",
+    "exp": 760000,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      {
+        "type": "warning",
+        "target": [
+          "You must achieve a 'Survived' or 'Run Through' status on every raid while on this quest"
+        ],
+        "number": 1
+      },
+      { "type": "kill", "target": ["PMCs"], "number": 4 },
+      { "type": "kill", "target": ["PMCs"], "number": 4 },
+      { "type": "kill", "target": ["PMCs"], "number": 4 },
+      { "type": "kill", "target": ["PMCs"], "number": 4 },
+      { "type": "kill", "target": ["PMCs"], "number": 4 },
+      { "type": "kill", "target": ["PMCs"], "number": 4 },
+      { "type": "kill", "target": ["PMCs"], "number": 4 }
+    ]
+  },
+  {
+    "title": "The Choice",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Choice",
+    "exp": 777777,
+    "giver": { "name": "Fence" },
+    "objectives": [
+      { "type": "collect", "target": ["59db794186f77448bc595262"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Cleaner",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cleaner",
+    "exp": 84000,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [{ "type": "kill", "target": ["Raiders"], "number": 50 }]
+  },
+  {
+    "title": "Long Line",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Long_Line",
+    "exp": 84000,
+    "giver": { "name": "Ragman" },
+    "objectives": [{ "type": "kill", "target": ["PMCs"], "number": 30 }]
+  },
+  {
+    "title": "Huntsman Path - Relentless",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Huntsman_Path_-_Relentless",
+    "exp": 0,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      {
+        "type": "warning",
+        "target": [
+          "You must achieve a 'Survived' status on every raid while on this quest"
+        ],
+        "number": 1
+      },
+      { "type": "kill", "target": ["Reshala"], "number": 1 },
+      { "type": "kill", "target": ["Shturman"], "number": 1 },
+      { "type": "kill", "target": ["Sanitar"], "number": 1 },
+      { "type": "kill", "target": ["Killa"], "number": 1 },
+      { "type": "kill", "target": ["Glukhar"], "number": 1 },
+      { "type": "kill", "target": ["Tagilla"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Booze",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Booze",
+    "exp": 107000,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      { "type": "find", "target": ["5d40407c86f774318526545a"], "number": 10 },
+      { "type": "find", "target": ["5d403f9186f7743cac3f229b"], "number": 10 },
+      { "type": "find", "target": ["5d1b33a686f7742523398398"], "number": 3 }
+    ]
+  },
+  {
+    "title": "The Courier",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Courier",
+    "exp": 137000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      { "type": "place", "target": ["5a1eaa87fcdbcb001865f75e"], "number": 1 },
+      { "type": "place", "target": ["5a1eaa87fcdbcb001865f75e"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Special Equipment",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Special_Equipment",
+    "exp": 177000,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "find", "target": ["5c05300686f7746dce784e5d"], "number": 5 },
+      { "type": "find", "target": ["5c052fb986f7746b2101e909"], "number": 5 },
+      { "type": "find", "target": ["5c05308086f7746b2101e90b"], "number": 5 },
+      { "type": "find", "target": ["5c052f6886f7746b1e3db148"], "number": 5 }
+    ]
+  },
+  {
+    "title": "Long Road",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Long_Road",
+    "exp": 8300,
+    "giver": { "name": "Skier" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 15 }]
+  },
+  {
+    "title": "Corporate Secrets",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Corporate_Secrets",
+    "exp": 8000,
+    "giver": { "name": "Mechanic" },
+    "objectives": [
+      {
+        "type": "pickup",
+        "target": ["Water pump operation data"],
+        "number": 1
+      },
+      {
+        "type": "pickup",
+        "target": ["Pumping station operation report"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Seaside Vacation",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Seaside_Vacation",
+    "exp": 8000,
+    "giver": { "name": "Therapist" },
+    "objectives": [
+      { "type": "pickup", "target": ["Informant's briefcase"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Easy Job - Part 1",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_1",
+    "exp": 1500,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "mark", "target": ["Helicopter"], "number": 1 }]
+  },
+  {
+    "title": "Easy Job - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_2",
+    "exp": 1800,
+    "giver": { "name": "Prapor" },
+    "objectives": [{ "type": "kill", "target": ["Scavs"], "number": 20 }]
+  },
+  {
+    "title": "Cargo X - Part 4",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_4",
+    "exp": 8600,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "mark", "target": ["TerraGroup cargo"], "number": 1 }
+    ]
+  },
+  {
+    "title": "The Hermit",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Hermit",
+    "exp": 12000,
+    "giver": { "name": "Jaeger" },
+    "objectives": [
+      {
+        "type": "locate",
+        "target": ["The hideout of Jaeger's friend"],
+        "number": 1
+      },
+      { "type": "pickup", "target": ["Message for Jaeger"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Communication Difficulties",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Communication_Difficulties",
+    "exp": 9000,
+    "giver": { "name": "Ragman" },
+    "objectives": [
+      {
+        "type": "locate",
+        "target": ["The area around the lighthouse"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Missing Cargo",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Missing_Cargo",
+    "exp": 14000,
+    "giver": { "name": "Skier" },
+    "objectives": [
+      { "type": "locate", "target": ["The crashed helicopter"], "number": 1 },
+      {
+        "type": "pickup",
+        "target": ["The informant's intelligence folder"],
+        "number": 1
+      }
+    ]
+  },
+  {
+    "title": "Huntsman path - Outcasts",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Outcasts",
+    "exp": 9000,
+    "giver": { "name": "Jaeger" },
+    "objectives": [{ "type": "kill", "target": ["Rogues"], "number": 10 }]
+  },
+  {
+    "title": "Revision - Part 2",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Part_2",
+    "exp": 7800,
+    "giver": { "name": "Peacekeeper" },
+    "objectives": [
+      { "type": "mark", "target": ["BRDM 1"], "number": 1 },
+      { "type": "mark", "target": ["BRDM 2"], "number": 1 },
+      { "type": "mark", "target": ["Stryker 1"], "number": 1 },
+      { "type": "mark", "target": ["Stryker 2"], "number": 1 }
+    ]
+  },
+  {
+    "title": "Our Own Land",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Our_Own_Land",
+    "exp": 22000,
+    "giver": { "name": "Prapor" },
+    "objectives": [
+      { "type": "kill", "target": ["PMCs"], "number": 20 },
+      {
+        "type": "collect",
+        "target": ["59f32c3b86f77472a31742f0"],
+        "number": 20
+      }
+    ]
+  }
+]
