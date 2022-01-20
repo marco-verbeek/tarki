@@ -1,0 +1,21 @@
+name: Lint and Test Backend
+
+on:
+  [push, pull_request]:
+    branches:
+      - main
+    paths:
+      - 'apps/api/**'
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
+
+    steps:
+      - name: Lint code
+        uses: wearerequired/lint-action@v1.11.1
+      - name: Run tests
+        run: npm run test:api
