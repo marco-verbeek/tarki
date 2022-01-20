@@ -26,11 +26,9 @@ jobs:
         with:
           node-version: 12
 
-      - name: Install Node.js dependencies
-        run: cd apps/api && npm ci
-
-      - name: Run linters 
-        run: cd apps/api && npm run eslint
-
-      - name: Run tests
-        run: cd apps/api && npm run test
+      - name: Install deps, run linters and tests
+        working-directory: ./apps/api
+        run: |
+          npm ci
+          npm run eslint
+          npm run test
