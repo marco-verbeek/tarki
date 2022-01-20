@@ -1,0 +1,15 @@
+[
+  {
+    "id": "544fb45d4bdc2dee738b4568",
+    "name": "Salewa first aid kit",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Salewa_first_aid_kit",
+    "gridImageLink": "https://assets.tarkov-tools.com/544fb45d4bdc2dee738b4568-grid-image.jpg",
+    "avg24hPrice": 20058,
+    "traderPrices": [
+      { "price": 5894, "trader": { "name": "Prapor" } },
+      { "price": 7427, "trader": { "name": "Therapist" } },
+      { "price": 4715, "trader": { "name": "Fence" } },
+      { "price": 7073, "trader": { "name": "Jaeger" } }
+    ]
+  }
+]

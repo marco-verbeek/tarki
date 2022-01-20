@@ -1,0 +1,64 @@
+[
+  {
+    "id": "544a11ac4bdc2d470e8b456a",
+    "name": "Secure container Alpha",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_container_Alpha",
+    "gridImageLink": "https://assets.tarkov-tools.com/544a11ac4bdc2d470e8b456a-grid-image.jpg",
+    "avg24hPrice": 0,
+    "traderPrices": []
+  },
+  {
+    "id": "5857a8b324597729ab0a0e7d",
+    "name": "Secure container Beta",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_container_Beta",
+    "gridImageLink": "https://assets.tarkov-tools.com/5857a8b324597729ab0a0e7d-grid-image.jpg",
+    "avg24hPrice": 0,
+    "traderPrices": []
+  },
+  {
+    "id": "5857a8bc2459772bad15db29",
+    "name": "Secure container Gamma",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_container_Gamma",
+    "gridImageLink": "https://assets.tarkov-tools.com/5857a8bc2459772bad15db29-grid-image.jpg",
+    "avg24hPrice": 0,
+    "traderPrices": []
+  },
+  {
+    "id": "590c621186f774138d11ea29",
+    "name": "Secure Flash drive",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive",
+    "gridImageLink": "https://assets.tarkov-tools.com/590c621186f774138d11ea29-grid-image.jpg",
+    "avg24hPrice": 67561,
+    "traderPrices": [
+      { "price": 16060, "trader": { "name": "Fence" } },
+      { "price": 20076, "trader": { "name": "Peacekeeper" } }
+    ]
+  },
+  {
+    "id": "59db794186f77448bc595262",
+    "name": "Secure container Epsilon",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_container_Epsilon",
+    "gridImageLink": "https://assets.tarkov-tools.com/59db794186f77448bc595262-grid-image.jpg",
+    "avg24hPrice": 0,
+    "traderPrices": []
+  },
+  {
+    "id": "5c093ca986f7740a1867ab12",
+    "name": "Secure container Kappa",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_container_Kappa",
+    "gridImageLink": "https://assets.tarkov-tools.com/5c093ca986f7740a1867ab12-grid-image.jpg",
+    "avg24hPrice": 0,
+    "traderPrices": []
+  },
+  {
+    "id": "61bf7c024770ee6f9c6b8b53",
+    "name": "Secured magnetic tape cassette",
+    "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secured_magnetic_tape_cassette",
+    "gridImageLink": "https://assets.tarkov-tools.com/61bf7c024770ee6f9c6b8b53-grid-image.jpg",
+    "avg24hPrice": 64914,
+    "traderPrices": [
+      { "price": 58000, "trader": { "name": "Fence" } },
+      { "price": 72500, "trader": { "name": "Peacekeeper" } }
+    ]
+  }
+]

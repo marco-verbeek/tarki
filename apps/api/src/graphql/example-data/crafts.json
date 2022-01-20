@@ -1,0 +1,5753 @@
+[
+  {
+    "source": "Booze generator level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e3577886f774176a362503",
+          "name": "Pack of sugar",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e3577886f774176a362503-grid-image.jpg",
+          "avg24hPrice": 33937,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_sugar"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d1b33a686f7742523398398",
+          "name": "Purified water canister",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b33a686f7742523398398-grid-image.jpg",
+          "avg24hPrice": 187358,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Purified_water"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b376e86f774252519444e",
+          "name": "\"Fierce Hatchling\" moonshine",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b376e86f774252519444e-grid-image.jpg",
+          "avg24hPrice": 280191,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/%22Fierce_Hatchling%22_moonshine"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Intelligence Center level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "56742c324bdc2d150f8b456d",
+          "name": "Broken GPhone smartphone",
+          "gridImageLink": "https://assets.tarkov-tools.com/56742c324bdc2d150f8b456d-grid-image.jpg",
+          "avg24hPrice": 16414,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5c1265fc86f7743f896a21c2",
+          "name": "Broken GPhone X smartphone",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c1265fc86f7743f896a21c2-grid-image.jpg",
+          "avg24hPrice": 91570,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone_X"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c392f86f77444754deb29",
+          "name": "SSD drive",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c392f86f77444754deb29-grid-image.jpg",
+          "avg24hPrice": 38341,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SSD_drive"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590c621186f774138d11ea29",
+          "name": "Secure Flash drive",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c621186f774138d11ea29-grid-image.jpg",
+          "avg24hPrice": 69942,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive"
+        },
+        "count": 3
+      }
+    ]
+  },
+  {
+    "source": "Intelligence Center level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d0376a486f7747d8050965c",
+          "name": "Military circuit board",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d0376a486f7747d8050965c-grid-image.jpg",
+          "avg24hPrice": 166966,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_circuit_board"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "573477e124597737dd42e191",
+          "name": "PC CPU",
+          "gridImageLink": "https://assets.tarkov-tools.com/573477e124597737dd42e191-grid-image.jpg",
+          "avg24hPrice": 9921,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PC_CPU"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5c06782b86f77426df5407d2",
+          "name": "Capacitors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06782b86f77426df5407d2-grid-image.jpg",
+          "avg24hPrice": 14731,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Capacitors"
+        },
+        "count": 5
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c05308086f7746b2101e90b",
+          "name": "Virtex programmable processor",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c05308086f7746b2101e90b-grid-image.jpg",
+          "avg24hPrice": 89046,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Virtex_programmable_processor"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Intelligence Center level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c1265fc86f7743f896a21c2",
+          "name": "Broken GPhone X smartphone",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c1265fc86f7743f896a21c2-grid-image.jpg",
+          "avg24hPrice": 91570,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone_X"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5af0561e86f7745f5f3ad6ac",
+          "name": "Portable Powerbank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0561e86f7745f5f3ad6ac-grid-image.jpg",
+          "avg24hPrice": 47048,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Powerbank"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d0376a486f7747d8050965c",
+          "name": "Military circuit board",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d0376a486f7747d8050965c-grid-image.jpg",
+          "avg24hPrice": 166966,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_circuit_board"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c052f6886f7746b1e3db148",
+          "name": "Military COFDM wireless Signal Transmitter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c052f6886f7746b1e3db148-grid-image.jpg",
+          "avg24hPrice": 147312,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_COFDM_wireless_Signal_Transmitter"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Intelligence Center level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c94bbff86f7747ee735c08f",
+          "name": "TerraGroup Labs access keycard",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c94bbff86f7747ee735c08f-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_access_keycard"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5ac78a9b86f7741cca0bbd8d",
+          "name": "Signal Jammer",
+          "gridImageLink": "https://assets.tarkov-tools.com/5ac78a9b86f7741cca0bbd8d-grid-image.jpg",
+          "avg24hPrice": 26363,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Signal_Jammer"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c052fb986f7746b2101e909",
+          "name": "UHF RFID Reader",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c052fb986f7746b2101e909-grid-image.jpg",
+          "avg24hPrice": 121851,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UHF_RFID_Reader"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Intelligence Center level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347baf24597738002c6178",
+          "name": "RAM",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347baf24597738002c6178-grid-image.jpg",
+          "avg24hPrice": 9601,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RAM"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "590c392f86f77444754deb29",
+          "name": "SSD drive",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c392f86f77444754deb29-grid-image.jpg",
+          "avg24hPrice": 38341,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SSD_drive"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "56742c324bdc2d150f8b456d",
+          "name": "Broken GPhone smartphone",
+          "gridImageLink": "https://assets.tarkov-tools.com/56742c324bdc2d150f8b456d-grid-image.jpg",
+          "avg24hPrice": 16414,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c05300686f7746dce784e5d",
+          "name": "VPX Flash Storage Module",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c05300686f7746dce784e5d-grid-image.jpg",
+          "avg24hPrice": 117403,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPX_Flash_Storage_Module"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Intelligence Center level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c052fb986f7746b2101e909",
+          "name": "UHF RFID Reader",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c052fb986f7746b2101e909-grid-image.jpg",
+          "avg24hPrice": 121851,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UHF_RFID_Reader"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c621186f774138d11ea29",
+          "name": "Secure Flash drive",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c621186f774138d11ea29-grid-image.jpg",
+          "avg24hPrice": 69942,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5c05300686f7746dce784e5d",
+          "name": "VPX Flash Storage Module",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c05300686f7746dce784e5d-grid-image.jpg",
+          "avg24hPrice": 117403,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPX_Flash_Storage_Module"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e42c83786f7742a021fdf3c",
+          "name": "Object #21WS keycard",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e42c83786f7742a021fdf3c-grid-image.jpg",
+          "avg24hPrice": 688597,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Object_21WS_keycard"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e42c81886f7742a01529f57",
+          "name": "Object #11SR keycard",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e42c81886f7742a01529f57-grid-image.jpg",
+          "avg24hPrice": 1244077,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Object_11SR_keycard"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Intelligence Center level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c621186f774138d11ea29",
+          "name": "Secure Flash drive",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c621186f774138d11ea29-grid-image.jpg",
+          "avg24hPrice": 69942,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "577e1c9d2459773cd707c525",
+          "name": "Printer paper",
+          "gridImageLink": "https://assets.tarkov-tools.com/577e1c9d2459773cd707c525-grid-image.jpg",
+          "avg24hPrice": 24660,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Printer_paper"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c12613b86f7743bbe2c3f76",
+          "name": "Intelligence folder",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c12613b86f7743bbe2c3f76-grid-image.jpg",
+          "avg24hPrice": 397564,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Intelligence Center level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590a3b0486f7743954552bdb",
+          "name": "Printed circuit board",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a3b0486f7743954552bdb-grid-image.jpg",
+          "avg24hPrice": 15359,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Printed_circuit_board"
+        },
+        "count": 8
+      },
+      {
+        "item": {
+          "id": "573477e124597737dd42e191",
+          "name": "PC CPU",
+          "gridImageLink": "https://assets.tarkov-tools.com/573477e124597737dd42e191-grid-image.jpg",
+          "avg24hPrice": 9921,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PC_CPU"
+        },
+        "count": 8
+      },
+      {
+        "item": {
+          "id": "5734779624597737e04bf329",
+          "name": "CPU Fan",
+          "gridImageLink": "https://assets.tarkov-tools.com/5734779624597737e04bf329-grid-image.jpg",
+          "avg24hPrice": 16025,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CPU_Fan"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5c05300686f7746dce784e5d",
+          "name": "VPX Flash Storage Module",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c05300686f7746dce784e5d-grid-image.jpg",
+          "avg24hPrice": 117403,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VPX_Flash_Storage_Module"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "60391afc25aff57af81f7085",
+          "name": "Ratchet wrench",
+          "gridImageLink": "https://assets.tarkov-tools.com/60391afc25aff57af81f7085-grid-image.jpg",
+          "avg24hPrice": 78904,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ratchet_wrench"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "57347ca924597744596b4e71",
+          "name": "Graphics card",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347ca924597744596b4e71-grid-image.jpg",
+          "avg24hPrice": 603812,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Graphics_card"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Intelligence Center level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c052fb986f7746b2101e909",
+          "name": "UHF RFID Reader",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c052fb986f7746b2101e909-grid-image.jpg",
+          "avg24hPrice": 121851,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UHF_RFID_Reader"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5c94bbff86f7747ee735c08f",
+          "name": "TerraGroup Labs access keycard",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c94bbff86f7747ee735c08f-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_access_keycard"
+        },
+        "count": 12
+      },
+      {
+        "item": {
+          "id": "5c1d0d6d86f7744bb2683e1f",
+          "name": "TerraGroup Labs keycard (Yellow)",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c1d0d6d86f7744bb2683e1f-grid-image.jpg",
+          "avg24hPrice": 540099,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_keycard_(Yellow)"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5c12613b86f7743bbe2c3f76",
+          "name": "Intelligence folder",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c12613b86f7743bbe2c3f76-grid-image.jpg",
+          "avg24hPrice": 397564,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "61bf7c024770ee6f9c6b8b53",
+          "name": "Secured magnetic tape cassette",
+          "gridImageLink": "https://assets.tarkov-tools.com/61bf7c024770ee6f9c6b8b53-grid-image.jpg",
+          "avg24hPrice": 64876,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Secured_magnetic_tape_cassette"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c1e495a86f7743109743dfb",
+          "name": "TerraGroup Labs keycard (Violet)",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c1e495a86f7743109743dfb-grid-image.jpg",
+          "avg24hPrice": 5014814,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_keycard_(Violet)"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "60363c0c92ec1c31037959f5",
+          "name": "GP-7 gas mask",
+          "gridImageLink": "https://assets.tarkov-tools.com/60363c0c92ec1c31037959f5-grid-image.jpg",
+          "avg24hPrice": 24624,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/GP-7_gas_mask"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590c595c86f7747884343ad7",
+          "name": "Gas mask air filter",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c595c86f7747884343ad7-grid-image.jpg",
+          "avg24hPrice": 18224,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gas_mask_air_filter"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "544fb25a4bdc2dfb738b4567",
+          "name": "Aseptic bandage",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb25a4bdc2dfb738b4567-grid-image.jpg",
+          "avg24hPrice": 1982,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aseptic_bandage"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "5d40407c86f774318526545a",
+          "name": "Bottle of Tarkovskaya vodka",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40407c86f774318526545a-grid-image.jpg",
+          "avg24hPrice": 23352,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Tarkovskaya_vodka"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5751a25924597722c463c472",
+          "name": "Army bandage",
+          "gridImageLink": "https://assets.tarkov-tools.com/5751a25924597722c463c472-grid-image.jpg",
+          "avg24hPrice": 2496,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Army_bandage"
+        },
+        "count": 10
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "577e1c9d2459773cd707c525",
+          "name": "Printer paper",
+          "gridImageLink": "https://assets.tarkov-tools.com/577e1c9d2459773cd707c525-grid-image.jpg",
+          "avg24hPrice": 24660,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Printer_paper"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c13cef886f774072e618e82",
+          "name": "Toilet paper",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c13cef886f774072e618e82-grid-image.jpg",
+          "avg24hPrice": 6286,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Toilet_paper"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af47786f7746d404f3aaa",
+          "name": "Fleece fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af47786f7746d404f3aaa-grid-image.jpg",
+          "avg24hPrice": 12134,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Fleece_fabric"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "544fb25a4bdc2dfb738b4567",
+          "name": "Aseptic bandage",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb25a4bdc2dfb738b4567-grid-image.jpg",
+          "avg24hPrice": 1982,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aseptic_bandage"
+        },
+        "count": 6
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5648a7494bdc2d9d488b4583",
+          "name": "PACA Soft Armor",
+          "gridImageLink": "https://assets.tarkov-tools.com/5648a7494bdc2d9d488b4583-grid-image.jpg",
+          "avg24hPrice": 33890,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PACA_soft_armor"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e2af4d286f7746d4159f07a",
+          "name": "Aramid fiber fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4d286f7746d4159f07a-grid-image.jpg",
+          "avg24hPrice": 19387,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aramid_fiber_fabric"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5fd4c5477a8d854fa0105061",
+          "name": "Security vest",
+          "gridImageLink": "https://assets.tarkov-tools.com/5fd4c5477a8d854fa0105061-grid-image.jpg",
+          "avg24hPrice": 22056,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Security_vest"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e2af41e86f774755a234b67",
+          "name": "Cordura polyamide fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af41e86f774755a234b67-grid-image.jpg",
+          "avg24hPrice": 17886,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cordura_polyamide_fabric"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "572b7adb24597762ae139821",
+          "name": "Scav Vest",
+          "gridImageLink": "https://assets.tarkov-tools.com/572b7adb24597762ae139821-grid-image.jpg",
+          "avg24hPrice": 20301,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Scav_Vest"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e2af4a786f7746d3f3c3400",
+          "name": "Ripstop fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4a786f7746d3f3c3400-grid-image.jpg",
+          "avg24hPrice": 22182,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ripstop_fabric"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5ab8f04f86f774585f4237d8",
+          "name": "Tactical sling bag",
+          "gridImageLink": "https://assets.tarkov-tools.com/5ab8f04f86f774585f4237d8-grid-image.jpg",
+          "avg24hPrice": 7861,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tactical_sling_bag"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e2af41e86f774755a234b67",
+          "name": "Cordura polyamide fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af41e86f774755a234b67-grid-image.jpg",
+          "avg24hPrice": 17886,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cordura_polyamide_fabric"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5ab8e4ed86f7742d8e50c7fa",
+          "name": "MF-UNTAR body armor",
+          "gridImageLink": "https://assets.tarkov-tools.com/5ab8e4ed86f7742d8e50c7fa-grid-image.jpg",
+          "avg24hPrice": 45968,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/MF-UNTAR_body_armor"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d40419286f774318526545f",
+          "name": "Metal cutting scissors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40419286f774318526545f-grid-image.jpg",
+          "avg24hPrice": 18509,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_cutting_scissors"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5af0454c86f7746bf20992e8",
+          "name": "Aluminum splint",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0454c86f7746bf20992e8-grid-image.jpg",
+          "avg24hPrice": 17779,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aluminum_splint"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af47786f7746d404f3aaa",
+          "name": "Fleece fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af47786f7746d404f3aaa-grid-image.jpg",
+          "avg24hPrice": 12134,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Fleece_fabric"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5448fee04bdc2dbc018b4567",
+          "name": "0.6 liter water bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448fee04bdc2dbc018b4567-grid-image.jpg",
+          "avg24hPrice": 15588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/0.6_liter_water_bottle"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "544a5cde4bdc2d39388b456b",
+          "name": "Flyye MBSS backpack",
+          "gridImageLink": "https://assets.tarkov-tools.com/544a5cde4bdc2d39388b456b-grid-image.jpg",
+          "avg24hPrice": 13945,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Flyye_MBSS_backpack"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "56e335e4d2720b6c058b456d",
+          "name": "Scav backpack",
+          "gridImageLink": "https://assets.tarkov-tools.com/56e335e4d2720b6c058b456d-grid-image.jpg",
+          "avg24hPrice": 20244,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Scav_backpack"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af4d286f7746d4159f07a",
+          "name": "Aramid fiber fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4d286f7746d4159f07a-grid-image.jpg",
+          "avg24hPrice": 19387,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aramid_fiber_fabric"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5e2af4a786f7746d3f3c3400",
+          "name": "Ripstop fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4a786f7746d3f3c3400-grid-image.jpg",
+          "avg24hPrice": 22182,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ripstop_fabric"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5648a7494bdc2d9d488b4583",
+          "name": "PACA Soft Armor",
+          "gridImageLink": "https://assets.tarkov-tools.com/5648a7494bdc2d9d488b4583-grid-image.jpg",
+          "avg24hPrice": 33890,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PACA_soft_armor"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5ea05cf85ad9772e6624305d",
+          "name": "Tac-Kek FAST MT helmet (replica)",
+          "gridImageLink": "https://assets.tarkov-tools.com/5ea05cf85ad9772e6624305d-grid-image.jpg",
+          "avg24hPrice": 16768,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tac-Kek_FAST_MT_Helmet"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347c1124597737fb1379e3",
+          "name": "Duct tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c1124597737fb1379e3-grid-image.jpg",
+          "avg24hPrice": 14769,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Duct_tape"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e2af4d286f7746d4159f07a",
+          "name": "Aramid fiber fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4d286f7746d4159f07a-grid-image.jpg",
+          "avg24hPrice": 19387,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aramid_fiber_fabric"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5b432d215acfc4771e1c6624",
+          "name": "LShZ light helmet",
+          "gridImageLink": "https://assets.tarkov-tools.com/5b432d215acfc4771e1c6624-grid-image.jpg",
+          "avg24hPrice": 38386,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/LZSh_light_helmet"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c13cd2486f774072c757944",
+          "name": "Soap",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c13cd2486f774072c757944-grid-image.jpg",
+          "avg24hPrice": 13770,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Soap"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5448fee04bdc2dbc018b4567",
+          "name": "0.6 liter water bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448fee04bdc2dbc018b4567-grid-image.jpg",
+          "avg24hPrice": 15588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/0.6_liter_water_bottle"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d40412b86f7743cb332ac3a",
+          "name": "Schaman shampoo",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40412b86f7743cb332ac3a-grid-image.jpg",
+          "avg24hPrice": 18018,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Schaman_shampoo"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c13cd2486f774072c757944",
+          "name": "Soap",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c13cd2486f774072c757944-grid-image.jpg",
+          "avg24hPrice": 13770,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Soap"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "59faf98186f774067b6be103",
+          "name": "Alkaline cleaner for heat exchangers",
+          "gridImageLink": "https://assets.tarkov-tools.com/59faf98186f774067b6be103-grid-image.jpg",
+          "avg24hPrice": 13987,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Alkaline_cleaner_for_heat_exchangers"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "59e35abd86f7741778269d82",
+          "name": "Pack of sodium bicarbonate",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e35abd86f7741778269d82-grid-image.jpg",
+          "avg24hPrice": 17896,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sodium_bicarbonate"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e3556c86f7741776641ac2",
+          "name": "Ox bleach",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e3556c86f7741776641ac2-grid-image.jpg",
+          "avg24hPrice": 11528,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ox_bleach"
+        },
+        "count": 5
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d40407c86f774318526545a",
+          "name": "Bottle of Tarkovskaya vodka",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40407c86f774318526545a-grid-image.jpg",
+          "avg24hPrice": 23352,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Tarkovskaya_vodka"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d40412b86f7743cb332ac3a",
+          "name": "Schaman shampoo",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40412b86f7743cb332ac3a-grid-image.jpg",
+          "avg24hPrice": 18018,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Schaman_shampoo"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e358a886f7741776641ac3",
+          "name": "Clin window cleaner",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e358a886f7741776641ac3-grid-image.jpg",
+          "avg24hPrice": 9486,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Clin_window_cleaner"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5aa2ba46e5b5b000137b758d",
+          "name": "UX PRO beanie",
+          "gridImageLink": "https://assets.tarkov-tools.com/5aa2ba46e5b5b000137b758d-grid-image.jpg",
+          "avg24hPrice": 17340,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UX_PRO_beanie_hat"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e2af47786f7746d404f3aaa",
+          "name": "Fleece fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af47786f7746d404f3aaa-grid-image.jpg",
+          "avg24hPrice": 12134,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Fleece_fabric"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af41e86f774755a234b67",
+          "name": "Cordura polyamide fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af41e86f774755a234b67-grid-image.jpg",
+          "avg24hPrice": 17886,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cordura_polyamide_fabric"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e2af4a786f7746d3f3c3400",
+          "name": "Ripstop fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4a786f7746d3f3c3400-grid-image.jpg",
+          "avg24hPrice": 22182,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ripstop_fabric"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e4abfed86f77406a2713cf7",
+          "name": "Splav \"Tarzan M22\" chest rig",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e4abfed86f77406a2713cf7-grid-image.jpg",
+          "avg24hPrice": 17889,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Splav_Tarzan_M22_chest_rig"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af4d286f7746d4159f07a",
+          "name": "Aramid fiber fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4d286f7746d4159f07a-grid-image.jpg",
+          "avg24hPrice": 19387,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aramid_fiber_fabric"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5e2af4a786f7746d3f3c3400",
+          "name": "Ripstop fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4a786f7746d3f3c3400-grid-image.jpg",
+          "avg24hPrice": 22182,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ripstop_fabric"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e7635f86f7742cbf2c1095",
+          "name": "BNTI Module-3M body armor",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e7635f86f7742cbf2c1095-grid-image.jpg",
+          "avg24hPrice": 25812,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/BNTI_Module-3M_body_armor"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e4abfed86f77406a2713cf7",
+          "name": "Splav \"Tarzan M22\" chest rig",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e4abfed86f77406a2713cf7-grid-image.jpg",
+          "avg24hPrice": 17889,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Splav_Tarzan_M22_chest_rig"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e2af4a786f7746d3f3c3400",
+          "name": "Ripstop fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4a786f7746d3f3c3400-grid-image.jpg",
+          "avg24hPrice": 22182,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ripstop_fabric"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e2af41e86f774755a234b67",
+          "name": "Cordura polyamide fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af41e86f774755a234b67-grid-image.jpg",
+          "avg24hPrice": 17886,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cordura_polyamide_fabric"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5648a69d4bdc2ded0b8b457b",
+          "name": "BlackRock chest rig",
+          "gridImageLink": "https://assets.tarkov-tools.com/5648a69d4bdc2ded0b8b457b-grid-image.jpg",
+          "avg24hPrice": 41105,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/BlackRock_chest_rig"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "56742c2e4bdc2d95058b456d",
+          "name": "Zibbo lighter",
+          "gridImageLink": "https://assets.tarkov-tools.com/56742c2e4bdc2d95058b456d-grid-image.jpg",
+          "avg24hPrice": 8893,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Zibbo_lighter"
+        },
+        "count": 10
+      },
+      {
+        "item": {
+          "id": "56742c284bdc2d98058b456d",
+          "name": "Crickent lighter",
+          "gridImageLink": "https://assets.tarkov-tools.com/56742c284bdc2d98058b456d-grid-image.jpg",
+          "avg24hPrice": 16645,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crickent_lighter"
+        },
+        "count": 10
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b371186f774253763a656",
+          "name": "Expeditionary fuel tank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b371186f774253763a656-grid-image.jpg",
+          "avg24hPrice": 123387,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Expeditionary_fuel_tank"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347c1124597737fb1379e3",
+          "name": "Duct tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c1124597737fb1379e3-grid-image.jpg",
+          "avg24hPrice": 14769,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Duct_tape"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5734795124597738002c6176",
+          "name": "Insulating tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/5734795124597738002c6176-grid-image.jpg",
+          "avg24hPrice": 10767,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Insulating_tape"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "59e358a886f7741776641ac3",
+          "name": "Clin window cleaner",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e358a886f7741776641ac3-grid-image.jpg",
+          "avg24hPrice": 9486,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Clin_window_cleaner"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e2af29386f7746d4159f077",
+          "name": "KEKTAPE duct tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af29386f7746d4159f077-grid-image.jpg",
+          "avg24hPrice": 24975,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KEKTAPE_duct_tape"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "55d480c04bdc2d1d4e8b456a",
+          "name": "AK-74 5.45x39 6L23 30-round magazine",
+          "gridImageLink": "https://assets.tarkov-tools.com/55d480c04bdc2d1d4e8b456a-grid-image.jpg",
+          "avg24hPrice": 6520,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_5.45x39_6L23_30-round_magazine"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5e2af29386f7746d4159f077",
+          "name": "KEKTAPE duct tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af29386f7746d4159f077-grid-image.jpg",
+          "avg24hPrice": 24975,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KEKTAPE_duct_tape"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "55d482194bdc2d1d4e8b456b",
+          "name": "AK-74 5.45x39 6L31 60-round magazine",
+          "gridImageLink": "https://assets.tarkov-tools.com/55d482194bdc2d1d4e8b456b-grid-image.jpg",
+          "avg24hPrice": 29337,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_5.45x39_6L31_60-round_magazine"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c5c9f86f77477c91c36e7",
+          "name": "WD-40 (400ml)",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5c9f86f77477c91c36e7-grid-image.jpg",
+          "avg24hPrice": 17255,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/WD-40_(400ml)"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d40419286f774318526545f",
+          "name": "Metal cutting scissors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40419286f774318526545f-grid-image.jpg",
+          "avg24hPrice": 18509,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_cutting_scissors"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590c5bbd86f774785762df04",
+          "name": "WD-40 (100ml)",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5bbd86f774785762df04-grid-image.jpg",
+          "avg24hPrice": 6321,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/WD-40_(100ml)"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af41e86f774755a234b67",
+          "name": "Cordura polyamide fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af41e86f774755a234b67-grid-image.jpg",
+          "avg24hPrice": 17886,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Cordura_polyamide_fabric"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c2c9c86f774245b1f03f2",
+          "name": "Construction measuring tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c2c9c86f774245b1f03f2-grid-image.jpg",
+          "avg24hPrice": 9527,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Construction_measuring_tape"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5f5e45cc5021ce62144be7aa",
+          "name": "LolKek 3F Transfer tourist backpack",
+          "gridImageLink": "https://assets.tarkov-tools.com/5f5e45cc5021ce62144be7aa-grid-image.jpg",
+          "avg24hPrice": 8976,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/LK_3F_Transfer_tourist_backpack"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "61bf83814088ec1a363d7097",
+          "name": "Sewing kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/61bf83814088ec1a363d7097-grid-image.jpg",
+          "avg24hPrice": 30818,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sewing_kit"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e763f286f7742ee57895da",
+          "name": "Pilgrim tourist backpack",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e763f286f7742ee57895da-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pilgrim_tourist_backpack"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b39a386f774252339976f",
+          "name": "Silicone tube",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b39a386f774252339976f-grid-image.jpg",
+          "avg24hPrice": 12979,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Silicone_tube"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5c06779c86f77426e00dd782",
+          "name": "Bundle of wires",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06779c86f77426e00dd782-grid-image.jpg",
+          "avg24hPrice": 11578,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bundle_of_wires"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5734795124597738002c6176",
+          "name": "Insulating tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/5734795124597738002c6176-grid-image.jpg",
+          "avg24hPrice": 10767,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Insulating_tape"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e35cbb86f7741778269d83",
+          "name": "Corrugated hose",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e35cbb86f7741778269d83-grid-image.jpg",
+          "avg24hPrice": 30250,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Corrugated_hose"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "56e33634d2720bd8058b456b",
+          "name": "Duffle bag",
+          "gridImageLink": "https://assets.tarkov-tools.com/56e33634d2720bd8058b456b-grid-image.jpg",
+          "avg24hPrice": 9369,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Duffle_bag"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "56742c284bdc2d98058b456d",
+          "name": "Crickent lighter",
+          "gridImageLink": "https://assets.tarkov-tools.com/56742c284bdc2d98058b456d-grid-image.jpg",
+          "avg24hPrice": 16645,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Crickent_lighter"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57e26fc7245977162a14b800",
+          "name": "Bars A-2607 95x18 knife",
+          "gridImageLink": "https://assets.tarkov-tools.com/57e26fc7245977162a14b800-grid-image.jpg",
+          "avg24hPrice": 4852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bars_A-2607_-_95x18_knife"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5c06779c86f77426e00dd782",
+          "name": "Bundle of wires",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06779c86f77426e00dd782-grid-image.jpg",
+          "avg24hPrice": 11578,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bundle_of_wires"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c12688486f77426843c7d32",
+          "name": "Paracord",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c12688486f77426843c7d32-grid-image.jpg",
+          "avg24hPrice": 39618,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Paracord"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b371186f774253763a656",
+          "name": "Expeditionary fuel tank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b371186f774253763a656-grid-image.jpg",
+          "avg24hPrice": 123387,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Expeditionary_fuel_tank"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d40419286f774318526545f",
+          "name": "Metal cutting scissors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40419286f774318526545f-grid-image.jpg",
+          "avg24hPrice": 18509,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_cutting_scissors"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347c5b245977448d35f6e1",
+          "name": "Bolts",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c5b245977448d35f6e1-grid-image.jpg",
+          "avg24hPrice": 38178,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bolts"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "57347c77245977448d35f6e2",
+          "name": "Screw nuts",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c77245977448d35f6e2-grid-image.jpg",
+          "avg24hPrice": 20511,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Screw_nuts"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c127c4486f7745625356c13",
+          "name": "Magazine case",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c127c4486f7745625356c13-grid-image.jpg",
+          "avg24hPrice": 300165,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magazine_case"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c127c4486f7745625356c13",
+          "name": "Magazine case",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c127c4486f7745625356c13-grid-image.jpg",
+          "avg24hPrice": 300165,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magazine_case"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d40419286f774318526545f",
+          "name": "Metal cutting scissors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40419286f774318526545f-grid-image.jpg",
+          "avg24hPrice": 18509,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_cutting_scissors"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347c5b245977448d35f6e1",
+          "name": "Bolts",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c5b245977448d35f6e1-grid-image.jpg",
+          "avg24hPrice": 38178,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bolts"
+        },
+        "count": 6
+      },
+      {
+        "item": {
+          "id": "5e2af29386f7746d4159f077",
+          "name": "KEKTAPE duct tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af29386f7746d4159f077-grid-image.jpg",
+          "avg24hPrice": 24975,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KEKTAPE_duct_tape"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "61bf7b6302b3924be92fa8c3",
+          "name": "Metal spare parts",
+          "gridImageLink": "https://assets.tarkov-tools.com/61bf7b6302b3924be92fa8c3-grid-image.jpg",
+          "avg24hPrice": 13911,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_spare_parts"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5b7c710788a4506dec015957",
+          "name": "Lucky Scav Junk box",
+          "gridImageLink": "https://assets.tarkov-tools.com/5b7c710788a4506dec015957-grid-image.jpg",
+          "avg24hPrice": 1108565,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Lucky_Scav_Junk_box"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c595c86f7747884343ad7",
+          "name": "Gas mask air filter",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c595c86f7747884343ad7-grid-image.jpg",
+          "avg24hPrice": 18224,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gas_mask_air_filter"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5d40419286f774318526545f",
+          "name": "Metal cutting scissors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40419286f774318526545f-grid-image.jpg",
+          "avg24hPrice": 18509,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_cutting_scissors"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "577e1c9d2459773cd707c525",
+          "name": "Printer paper",
+          "gridImageLink": "https://assets.tarkov-tools.com/577e1c9d2459773cd707c525-grid-image.jpg",
+          "avg24hPrice": 24660,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Printer_paper"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b385e86f774252167b98a",
+          "name": "Water filter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b385e86f774252167b98a-grid-image.jpg",
+          "avg24hPrice": 26170,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Water_filter"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b36a186f7742523398433",
+          "name": "Metal fuel tank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b36a186f7742523398433-grid-image.jpg",
+          "avg24hPrice": 166540,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_fuel_tank"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d40419286f774318526545f",
+          "name": "Metal cutting scissors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40419286f774318526545f-grid-image.jpg",
+          "avg24hPrice": 18509,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_cutting_scissors"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347c77245977448d35f6e2",
+          "name": "Screw nuts",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c77245977448d35f6e2-grid-image.jpg",
+          "avg24hPrice": 20511,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Screw_nuts"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "57347c5b245977448d35f6e1",
+          "name": "Bolts",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c5b245977448d35f6e1-grid-image.jpg",
+          "avg24hPrice": 38178,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bolts"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "61bf7b6302b3924be92fa8c3",
+          "name": "Metal spare parts",
+          "gridImageLink": "https://assets.tarkov-tools.com/61bf7b6302b3924be92fa8c3-grid-image.jpg",
+          "avg24hPrice": 13911,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_spare_parts"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e2af55f86f7746d4159f07c",
+          "name": "Grenade case",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af55f86f7746d4159f07c-grid-image.jpg",
+          "avg24hPrice": 321940,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Grenade_case"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5ca20abf86f77418567a43f2",
+          "name": "Dynaforce Triton M43-A chest harness",
+          "gridImageLink": "https://assets.tarkov-tools.com/5ca20abf86f77418567a43f2-grid-image.jpg",
+          "avg24hPrice": 21340,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Dynaforce_Triton_M43-A_chest_harness"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5e2af29386f7746d4159f077",
+          "name": "KEKTAPE duct tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af29386f7746d4159f077-grid-image.jpg",
+          "avg24hPrice": 24975,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/KEKTAPE_duct_tape"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "61bf83814088ec1a363d7097",
+          "name": "Sewing kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/61bf83814088ec1a363d7097-grid-image.jpg",
+          "avg24hPrice": 30818,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sewing_kit"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5df8a42886f77412640e2e75",
+          "name": "Velocity Systems MPPV Multi-Purpose Patrol Vest",
+          "gridImageLink": "https://assets.tarkov-tools.com/5df8a42886f77412640e2e75-grid-image.jpg",
+          "avg24hPrice": 40348,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Velocity_Systems_Multi-Purpose_Patrol_Vest"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c595c86f7747884343ad7",
+          "name": "Gas mask air filter",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c595c86f7747884343ad7-grid-image.jpg",
+          "avg24hPrice": 18224,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gas_mask_air_filter"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d1b385e86f774252167b98a",
+          "name": "Water filter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b385e86f774252167b98a-grid-image.jpg",
+          "avg24hPrice": 26170,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Water_filter"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "590c2e1186f77425357b6124",
+          "name": "Toolset",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c2e1186f77425357b6124-grid-image.jpg",
+          "avg24hPrice": 27207,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Toolset"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "61bf7b6302b3924be92fa8c3",
+          "name": "Metal spare parts",
+          "gridImageLink": "https://assets.tarkov-tools.com/61bf7b6302b3924be92fa8c3-grid-image.jpg",
+          "avg24hPrice": 13911,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_spare_parts"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b2f3f86f774252167a52c",
+          "name": "FP-100 filter absorber",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b2f3f86f774252167a52c-grid-image.jpg",
+          "avg24hPrice": 108307,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FP-100_filter_absorber"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Lavatory level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5ab8ee7786f7742d8f33f0b9",
+          "name": "VKBO army bag",
+          "gridImageLink": "https://assets.tarkov-tools.com/5ab8ee7786f7742d8f33f0b9-grid-image.jpg",
+          "avg24hPrice": 14105,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VKBO_army_bag"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5c12688486f77426843c7d32",
+          "name": "Paracord",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c12688486f77426843c7d32-grid-image.jpg",
+          "avg24hPrice": 39618,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Paracord"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e2af4a786f7746d3f3c3400",
+          "name": "Ripstop fabric",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af4a786f7746d3f3c3400-grid-image.jpg",
+          "avg24hPrice": 22182,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ripstop_fabric"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "61bf83814088ec1a363d7097",
+          "name": "Sewing kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/61bf83814088ec1a363d7097-grid-image.jpg",
+          "avg24hPrice": 30818,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Sewing_kit"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5df8a4d786f77412672a1e3b",
+          "name": "6Sh118 raid backpack",
+          "gridImageLink": "https://assets.tarkov-tools.com/5df8a4d786f77412672a1e3b-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/6Sh118_raid_backpack"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5755356824597772cb798962",
+          "name": "AI-2 medkit",
+          "gridImageLink": "https://assets.tarkov-tools.com/5755356824597772cb798962-grid-image.jpg",
+          "avg24hPrice": 4058,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AI-2_medkit"
+        },
+        "count": 3
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e361e886f774176c10a2a5",
+          "name": "Bottle of hydrogen peroxide",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e361e886f774176c10a2a5-grid-image.jpg",
+          "avg24hPrice": 12251,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hydrogen_peroxide"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e8488fa988a8701445df1e4",
+          "name": "CALOK-B hemostatic applicator",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e8488fa988a8701445df1e4-grid-image.jpg",
+          "avg24hPrice": 11392,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CALOK-B_hemostatic_applicator"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "544fb37f4bdc2dee738b4567",
+          "name": "Analgin painkillers",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb37f4bdc2dee738b4567-grid-image.jpg",
+          "avg24hPrice": 8332,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Analgin_painkillers"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "544fb25a4bdc2dfb738b4567",
+          "name": "Aseptic bandage",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb25a4bdc2dfb738b4567-grid-image.jpg",
+          "avg24hPrice": 1982,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aseptic_bandage"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5e8488fa988a8701445df1e4",
+          "name": "CALOK-B hemostatic applicator",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e8488fa988a8701445df1e4-grid-image.jpg",
+          "avg24hPrice": 11392,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CALOK-B_hemostatic_applicator"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e831507ea0a7c419c2f9bd9",
+          "name": "Esmarch tourniquet",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e831507ea0a7c419c2f9bd9-grid-image.jpg",
+          "avg24hPrice": 3951,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Esmarch_tourniquet"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "544fb45d4bdc2dee738b4568",
+          "name": "Salewa first aid kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb45d4bdc2dee738b4568-grid-image.jpg",
+          "avg24hPrice": 19502,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Salewa_first_aid_kit"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "619cc01e0a7c3a1a2731940c",
+          "name": "Medical tools",
+          "gridImageLink": "https://assets.tarkov-tools.com/619cc01e0a7c3a1a2731940c-grid-image.jpg",
+          "avg24hPrice": 10529,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Medical_tools"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c661e86f7741e566b646a",
+          "name": "Car first aid kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c661e86f7741e566b646a-grid-image.jpg",
+          "avg24hPrice": 8154,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Car_first_aid_kit"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d02778e86f774203e7dedbe",
+          "name": "CMS surgical kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d02778e86f774203e7dedbe-grid-image.jpg",
+          "avg24hPrice": 20110,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CMS_kit"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b39a386f774252339976f",
+          "name": "Silicone tube",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b39a386f774252339976f-grid-image.jpg",
+          "avg24hPrice": 12979,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Silicone_tube"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b3f2d86f774253763b735",
+          "name": "Disposable syringe",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3f2d86f774253763b735-grid-image.jpg",
+          "avg24hPrice": 28968,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Disposable_syringe"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5b4335ba86f7744d2837a264",
+          "name": "Medical bloodset",
+          "gridImageLink": "https://assets.tarkov-tools.com/5b4335ba86f7744d2837a264-grid-image.jpg",
+          "avg24hPrice": 10534,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Medical_bloodset"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5755356824597772cb798962",
+          "name": "AI-2 medkit",
+          "gridImageLink": "https://assets.tarkov-tools.com/5755356824597772cb798962-grid-image.jpg",
+          "avg24hPrice": 4058,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AI-2_medkit"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "544fb25a4bdc2dfb738b4567",
+          "name": "Aseptic bandage",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb25a4bdc2dfb738b4567-grid-image.jpg",
+          "avg24hPrice": 1982,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aseptic_bandage"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c695186f7741e566b64a2",
+          "name": "Augmentin antibiotic pills",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c695186f7741e566b64a2-grid-image.jpg",
+          "avg24hPrice": 15361,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Augmentin_antibiotic_pills"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 3
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5751a25924597722c463c472",
+          "name": "Army bandage",
+          "gridImageLink": "https://assets.tarkov-tools.com/5751a25924597722c463c472-grid-image.jpg",
+          "avg24hPrice": 2496,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Army_bandage"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5e831507ea0a7c419c2f9bd9",
+          "name": "Esmarch tourniquet",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e831507ea0a7c419c2f9bd9-grid-image.jpg",
+          "avg24hPrice": 3951,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Esmarch_tourniquet"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590c678286f77426c9660122",
+          "name": "IFAK individual first aid kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c678286f77426c9660122-grid-image.jpg",
+          "avg24hPrice": 15110,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/IFAK_individual_first_aid_kit"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c10c8fd86f7743d7d706df3",
+          "name": "Adrenaline injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c10c8fd86f7743d7d706df3-grid-image.jpg",
+          "avg24hPrice": 15772,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Adrenaline_injector"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5755356824597772cb798962",
+          "name": "AI-2 medkit",
+          "gridImageLink": "https://assets.tarkov-tools.com/5755356824597772cb798962-grid-image.jpg",
+          "avg24hPrice": 4058,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AI-2_medkit"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5fca138c2a7b221b2852a5c6",
+          "name": "xTG-12 antidote injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/5fca138c2a7b221b2852a5c6-grid-image.jpg",
+          "avg24hPrice": 39501,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/XTG-12_antidote_injector"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "544fb37f4bdc2dee738b4567",
+          "name": "Analgin painkillers",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb37f4bdc2dee738b4567-grid-image.jpg",
+          "avg24hPrice": 8332,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Analgin_painkillers"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b3f2d86f774253763b735",
+          "name": "Disposable syringe",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3f2d86f774253763b735-grid-image.jpg",
+          "avg24hPrice": 28968,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Disposable_syringe"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "544fb3f34bdc2d03748b456a",
+          "name": "Morphine injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb3f34bdc2d03748b456a-grid-image.jpg",
+          "avg24hPrice": 13065,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Morphine_injector"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 7
+      },
+      {
+        "item": {
+          "id": "59e3606886f77417674759a5",
+          "name": "Bottle of saline solution",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e3606886f77417674759a5-grid-image.jpg",
+          "avg24hPrice": 24971,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Saline_solution"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5c0e530286f7747fa1419862",
+          "name": "Propital regenerative stimulant injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0e530286f7747fa1419862-grid-image.jpg",
+          "avg24hPrice": 17422,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Propital_regenerative_stimulant_injector"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "544fb3f34bdc2d03748b456a",
+          "name": "Morphine injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb3f34bdc2d03748b456a-grid-image.jpg",
+          "avg24hPrice": 13065,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Morphine_injector"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0e531286f7747fa54205c2",
+          "name": "SJ1 TGLabs combat stimulant injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0e531286f7747fa54205c2-grid-image.jpg",
+          "avg24hPrice": 36271,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SJ1_TGLabs_combat_stimulant_injector"
+        },
+        "count": 5
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c0e533786f7747fa23f4d47",
+          "name": "Zagustin hemostatic drug injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0e533786f7747fa23f4d47-grid-image.jpg",
+          "avg24hPrice": 40057,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Zagustin_hemostatic_drug_injector"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "544fb3f34bdc2d03748b456a",
+          "name": "Morphine injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb3f34bdc2d03748b456a-grid-image.jpg",
+          "avg24hPrice": 13065,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Morphine_injector"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5751435d24597720a27126d1",
+          "name": "Can of Max Energy energy drink",
+          "gridImageLink": "https://assets.tarkov-tools.com/5751435d24597720a27126d1-grid-image.jpg",
+          "avg24hPrice": 14326,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Max_Energy_energy_drink"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ed51652f6c34d2cc26336a1",
+          "name": "M.U.L.E. stimulant injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/5ed51652f6c34d2cc26336a1-grid-image.jpg",
+          "avg24hPrice": 93230,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M.U.L.E._stimulant_injector"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590a391c86f774385a33c404",
+          "name": "Magnet",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a391c86f774385a33c404-grid-image.jpg",
+          "avg24hPrice": 18254,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magnet"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5c06779c86f77426e00dd782",
+          "name": "Bundle of wires",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06779c86f77426e00dd782-grid-image.jpg",
+          "avg24hPrice": 11578,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bundle_of_wires"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5c06782b86f77426df5407d2",
+          "name": "Capacitors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06782b86f77426df5407d2-grid-image.jpg",
+          "avg24hPrice": 14731,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Capacitors"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5af0561e86f7745f5f3ad6ac",
+          "name": "Portable Powerbank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0561e86f7745f5f3ad6ac-grid-image.jpg",
+          "avg24hPrice": 47048,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Powerbank"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c052e6986f7746b207bc3c9",
+          "name": "Portable defibrillator",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c052e6986f7746b207bc3c9-grid-image.jpg",
+          "avg24hPrice": 157432,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Portable_defibrillator"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c13cd2486f774072c757944",
+          "name": "Soap",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c13cd2486f774072c757944-grid-image.jpg",
+          "avg24hPrice": 13770,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Soap"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5d40412b86f7743cb332ac3a",
+          "name": "Schaman shampoo",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40412b86f7743cb332ac3a-grid-image.jpg",
+          "avg24hPrice": 18018,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Schaman_shampoo"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5755383e24597772cb798966",
+          "name": "Vaseline balm",
+          "gridImageLink": "https://assets.tarkov-tools.com/5755383e24597772cb798966-grid-image.jpg",
+          "avg24hPrice": 27312,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Vaseline_balm"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c678286f77426c9660122",
+          "name": "IFAK individual first aid kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c678286f77426c9660122-grid-image.jpg",
+          "avg24hPrice": 15110,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/IFAK_individual_first_aid_kit"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5751a25924597722c463c472",
+          "name": "Army bandage",
+          "gridImageLink": "https://assets.tarkov-tools.com/5751a25924597722c463c472-grid-image.jpg",
+          "avg24hPrice": 2496,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Army_bandage"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "60098af40accd37ef2175f27",
+          "name": "CAT hemostatic tourniquet",
+          "gridImageLink": "https://assets.tarkov-tools.com/60098af40accd37ef2175f27-grid-image.jpg",
+          "avg24hPrice": 5892,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CAT_hemostatic_tourniquet"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "60098ad7c2240c0fe85c570a",
+          "name": "AFAK tactical individual first aid kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/60098ad7c2240c0fe85c570a-grid-image.jpg",
+          "avg24hPrice": 30337,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AFAK_personal_tactical_first_aid_kit"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "60098af40accd37ef2175f27",
+          "name": "CAT hemostatic tourniquet",
+          "gridImageLink": "https://assets.tarkov-tools.com/60098af40accd37ef2175f27-grid-image.jpg",
+          "avg24hPrice": 5892,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/CAT_hemostatic_tourniquet"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5af0454c86f7746bf20992e8",
+          "name": "Aluminum splint",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0454c86f7746bf20992e8-grid-image.jpg",
+          "avg24hPrice": 17779,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aluminum_splint"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590c657e86f77412b013051d",
+          "name": "Grizzly medical kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c657e86f77412b013051d-grid-image.jpg",
+          "avg24hPrice": 34218,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Grizzly_medical_kit"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 6
+      },
+      {
+        "item": {
+          "id": "619cc01e0a7c3a1a2731940c",
+          "name": "Medical tools",
+          "gridImageLink": "https://assets.tarkov-tools.com/619cc01e0a7c3a1a2731940c-grid-image.jpg",
+          "avg24hPrice": 10529,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Medical_tools"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5e831507ea0a7c419c2f9bd9",
+          "name": "Esmarch tourniquet",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e831507ea0a7c419c2f9bd9-grid-image.jpg",
+          "avg24hPrice": 3951,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Esmarch_tourniquet"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d02797c86f774203f38e30a",
+          "name": "Surv12 field surgical kit",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d02797c86f774203f38e30a-grid-image.jpg",
+          "avg24hPrice": 33329,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Surv12_field_surgical_kit"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c0e531286f7747fa54205c2",
+          "name": "SJ1 TGLabs combat stimulant injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0e531286f7747fa54205c2-grid-image.jpg",
+          "avg24hPrice": 36271,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SJ1_TGLabs_combat_stimulant_injector"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "59e3606886f77417674759a5",
+          "name": "Bottle of saline solution",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e3606886f77417674759a5-grid-image.jpg",
+          "avg24hPrice": 24971,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Saline_solution"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0e531d86f7747fa23f4d42",
+          "name": "SJ6 TGLabs combat stimulant injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0e531d86f7747fa23f4d42-grid-image.jpg",
+          "avg24hPrice": 47665,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SJ6_TGLabs_combat_stimulant_injector"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5af0548586f7743a532b7e99",
+          "name": "Ibuprofen painkillers",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0548586f7743a532b7e99-grid-image.jpg",
+          "avg24hPrice": 38644,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ibuprofen_painkillers"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5751a89d24597722aa0e8db0",
+          "name": "Golden Star balm",
+          "gridImageLink": "https://assets.tarkov-tools.com/5751a89d24597722aa0e8db0-grid-image.jpg",
+          "avg24hPrice": 60530,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Golden_Star_balm"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b3a5d86f774252167ba22",
+          "name": "Pile of meds",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b3a5d86f774252167ba22-grid-image.jpg",
+          "avg24hPrice": 11302,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pile_of_meds"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0e530286f7747fa1419862",
+          "name": "Propital regenerative stimulant injector",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0e530286f7747fa1419862-grid-image.jpg",
+          "avg24hPrice": 17422,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Propital_regenerative_stimulant_injector"
+        },
+        "count": 7
+      }
+    ]
+  },
+  {
+    "source": "Medstation level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5af0534a86f7743b6f354284",
+          "name": "Ophthalmoscope",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0534a86f7743b6f354284-grid-image.jpg",
+          "avg24hPrice": 185737,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Ophthalmoscope"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "590a391c86f774385a33c404",
+          "name": "Magnet",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a391c86f774385a33c404-grid-image.jpg",
+          "avg24hPrice": 18254,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magnet"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5c052fb986f7746b2101e909",
+          "name": "UHF RFID Reader",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c052fb986f7746b2101e909-grid-image.jpg",
+          "avg24hPrice": 121851,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UHF_RFID_Reader"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5af0561e86f7745f5f3ad6ac",
+          "name": "Portable Powerbank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0561e86f7745f5f3ad6ac-grid-image.jpg",
+          "avg24hPrice": 47048,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Powerbank"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5c052e6986f7746b207bc3c9",
+          "name": "Portable defibrillator",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c052e6986f7746b207bc3c9-grid-image.jpg",
+          "avg24hPrice": 157432,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Portable_defibrillator"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0530ee86f774697952d952",
+          "name": "LEDX Skin Transilluminator",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0530ee86f774697952d952-grid-image.jpg",
+          "avg24hPrice": 1036223,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5448ff904bdc2d6f028b456e",
+          "name": "Army crackers",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448ff904bdc2d6f028b456e-grid-image.jpg",
+          "avg24hPrice": 15366,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Army_crackers"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "57347d7224597744596b4e72",
+          "name": "Can of beef stew (Small)",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347d7224597744596b4e72-grid-image.jpg",
+          "avg24hPrice": 11616,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Small_can_of_beef_stew"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347d8724597744596b4e76",
+          "name": "Can of squash spread",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347d8724597744596b4e76-grid-image.jpg",
+          "avg24hPrice": 14230,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_squash_spread"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590c5d4b86f774784e1b9c45",
+          "name": "Iskra ration pack",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5d4b86f774784e1b9c45-grid-image.jpg",
+          "avg24hPrice": 19459,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Iskra_ration_pack"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5448fee04bdc2dbc018b4567",
+          "name": "0.6 liter water bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448fee04bdc2dbc018b4567-grid-image.jpg",
+          "avg24hPrice": 15588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/0.6_liter_water_bottle"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5751487e245977207e26a315",
+          "name": "Emelya rye croutons",
+          "gridImageLink": "https://assets.tarkov-tools.com/5751487e245977207e26a315-grid-image.jpg",
+          "avg24hPrice": 7464,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Emelya_rye_croutons"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e8f3423fd7471236e6e3b64",
+          "name": "Premium Kvass \"Norvinskiy Yadreniy\" 0.6L bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e8f3423fd7471236e6e3b64-grid-image.jpg",
+          "avg24hPrice": 12588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Premium_Kvass_%22Norvinskiy_Yadreniy%22_0.6L_bottle"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5448fee04bdc2dbc018b4567",
+          "name": "0.6 liter water bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448fee04bdc2dbc018b4567-grid-image.jpg",
+          "avg24hPrice": 15588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/0.6_liter_water_bottle"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b39a386f774252339976f",
+          "name": "Silicone tube",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b39a386f774252339976f-grid-image.jpg",
+          "avg24hPrice": 12979,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Silicone_tube"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "60098b1705871270cd5352a1",
+          "name": "Emergency Water Ration",
+          "gridImageLink": "https://assets.tarkov-tools.com/60098b1705871270cd5352a1-grid-image.jpg",
+          "avg24hPrice": 14033,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Emergency_Water_Ration"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347da92459774491567cf5",
+          "name": "Can of beef stew (Large)",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347da92459774491567cf5-grid-image.jpg",
+          "avg24hPrice": 11253,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Large_can_of_beef_stew"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347d8724597744596b4e76",
+          "name": "Can of squash spread",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347d8724597744596b4e76-grid-image.jpg",
+          "avg24hPrice": 14230,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_squash_spread"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347d3d245977448f7b7f61",
+          "name": "Rye croutons",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347d3d245977448f7b7f61-grid-image.jpg",
+          "avg24hPrice": 15480,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rye_croutons"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "57347d7224597744596b4e72",
+          "name": "Can of beef stew (Small)",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347d7224597744596b4e72-grid-image.jpg",
+          "avg24hPrice": 11616,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Small_can_of_beef_stew"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57514643245977207f2c2d09",
+          "name": "Can of TarCola soda",
+          "gridImageLink": "https://assets.tarkov-tools.com/57514643245977207f2c2d09-grid-image.jpg",
+          "avg24hPrice": 17787,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TarCola_can"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5af0484c86f7740f02001f7f",
+          "name": "Can of Majaica coffee beans",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0484c86f7740f02001f7f-grid-image.jpg",
+          "avg24hPrice": 28161,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Majaica_coffee"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5448fee04bdc2dbc018b4567",
+          "name": "0.6 liter water bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448fee04bdc2dbc018b4567-grid-image.jpg",
+          "avg24hPrice": 15588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/0.6_liter_water_bottle"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5751435d24597720a27126d1",
+          "name": "Can of Max Energy energy drink",
+          "gridImageLink": "https://assets.tarkov-tools.com/5751435d24597720a27126d1-grid-image.jpg",
+          "avg24hPrice": 14326,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Max_Energy_energy_drink"
+        },
+        "count": 4
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57505f6224597709a92585a9",
+          "name": "Alyonka chocolate bar",
+          "gridImageLink": "https://assets.tarkov-tools.com/57505f6224597709a92585a9-grid-image.jpg",
+          "avg24hPrice": 24372,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Alyonka_chocolate_bar"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347d90245977448f7b7f65",
+          "name": "Pack of oat flakes",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347d90245977448f7b7f65-grid-image.jpg",
+          "avg24hPrice": 19786,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_oat_flakes"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5448ff904bdc2d6f028b456e",
+          "name": "Army crackers",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448ff904bdc2d6f028b456e-grid-image.jpg",
+          "avg24hPrice": 15366,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Army_crackers"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "544fb6cc4bdc2d34748b456e",
+          "name": "Slickers chocolate bar",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb6cc4bdc2d34748b456e-grid-image.jpg",
+          "avg24hPrice": 9269,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Slickers_chocolate_bar"
+        },
+        "count": 7
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e3577886f774176a362503",
+          "name": "Pack of sugar",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e3577886f774176a362503-grid-image.jpg",
+          "avg24hPrice": 33937,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_sugar"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "575146b724597720a27126d5",
+          "name": "Pack of milk",
+          "gridImageLink": "https://assets.tarkov-tools.com/575146b724597720a27126d5-grid-image.jpg",
+          "avg24hPrice": 13300,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_milk"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5734773724597737fd047c14",
+          "name": "Can of condensed milk",
+          "gridImageLink": "https://assets.tarkov-tools.com/5734773724597737fd047c14-grid-image.jpg",
+          "avg24hPrice": 15912,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Condensed_milk"
+        },
+        "count": 3
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57505f6224597709a92585a9",
+          "name": "Alyonka chocolate bar",
+          "gridImageLink": "https://assets.tarkov-tools.com/57505f6224597709a92585a9-grid-image.jpg",
+          "avg24hPrice": 24372,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Alyonka_chocolate_bar"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e3577886f774176a362503",
+          "name": "Pack of sugar",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e3577886f774176a362503-grid-image.jpg",
+          "avg24hPrice": 33937,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_sugar"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "573475fb24597737fb1379e1",
+          "name": "Apollo Soyuz cigarettes",
+          "gridImageLink": "https://assets.tarkov-tools.com/573475fb24597737fb1379e1-grid-image.jpg",
+          "avg24hPrice": 9557,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Apollon_Soyuz_cigarettes"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5bc9be8fd4351e00334cae6e",
+          "name": "42nd Signature Blend English Tea",
+          "gridImageLink": "https://assets.tarkov-tools.com/5bc9be8fd4351e00334cae6e-grid-image.jpg",
+          "avg24hPrice": 20067,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/42nd_Signature_Blend_English_Tea"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "573476f124597737e04bf328",
+          "name": "Wilston cigarettes",
+          "gridImageLink": "https://assets.tarkov-tools.com/573476f124597737e04bf328-grid-image.jpg",
+          "avg24hPrice": 7777,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Wilston_cigarettes"
+        },
+        "count": 5
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5448fee04bdc2dbc018b4567",
+          "name": "0.6 liter water bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448fee04bdc2dbc018b4567-grid-image.jpg",
+          "avg24hPrice": 15588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/0.6_liter_water_bottle"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "590c595c86f7747884343ad7",
+          "name": "Gas mask air filter",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c595c86f7747884343ad7-grid-image.jpg",
+          "avg24hPrice": 18224,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gas_mask_air_filter"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0fa877d174af02a012e1cf",
+          "name": "Aquamari water bottle with filter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0fa877d174af02a012e1cf-grid-image.jpg",
+          "avg24hPrice": 24878,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Aquamari_water_bottle_with_filter"
+        },
+        "count": 4
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b376e86f774252519444e",
+          "name": "\"Fierce Hatchling\" moonshine",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b376e86f774252519444e-grid-image.jpg",
+          "avg24hPrice": 280191,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/%22Fierce_Hatchling%22_moonshine"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5448fee04bdc2dbc018b4567",
+          "name": "0.6 liter water bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448fee04bdc2dbc018b4567-grid-image.jpg",
+          "avg24hPrice": 15588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/0.6_liter_water_bottle"
+        },
+        "count": 5
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d40407c86f774318526545a",
+          "name": "Bottle of Tarkovskaya vodka",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40407c86f774318526545a-grid-image.jpg",
+          "avg24hPrice": 23352,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Tarkovskaya_vodka"
+        },
+        "count": 10
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5448fee04bdc2dbc018b4567",
+          "name": "0.6 liter water bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448fee04bdc2dbc018b4567-grid-image.jpg",
+          "avg24hPrice": 15588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/0.6_liter_water_bottle"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d40407c86f774318526545a",
+          "name": "Bottle of Tarkovskaya vodka",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40407c86f774318526545a-grid-image.jpg",
+          "avg24hPrice": 23352,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Tarkovskaya_vodka"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "57505f6224597709a92585a9",
+          "name": "Alyonka chocolate bar",
+          "gridImageLink": "https://assets.tarkov-tools.com/57505f6224597709a92585a9-grid-image.jpg",
+          "avg24hPrice": 24372,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Alyonka_chocolate_bar"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5bc9be8fd4351e00334cae6e",
+          "name": "42nd Signature Blend English Tea",
+          "gridImageLink": "https://assets.tarkov-tools.com/5bc9be8fd4351e00334cae6e-grid-image.jpg",
+          "avg24hPrice": 20067,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/42nd_Signature_Blend_English_Tea"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d403f9186f7743cac3f229b",
+          "name": "Bottle of Dan Jackiel whiskey",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d403f9186f7743cac3f229b-grid-image.jpg",
+          "avg24hPrice": 38798,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bottle_of_Dan_Jackiel_whiskey"
+        },
+        "count": 3
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b33a686f7742523398398",
+          "name": "Purified water canister",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b33a686f7742523398398-grid-image.jpg",
+          "avg24hPrice": 187358,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Purified_water"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b39a386f774252339976f",
+          "name": "Silicone tube",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b39a386f774252339976f-grid-image.jpg",
+          "avg24hPrice": 12979,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Silicone_tube"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5448fee04bdc2dbc018b4567",
+          "name": "0.6 liter water bottle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448fee04bdc2dbc018b4567-grid-image.jpg",
+          "avg24hPrice": 15588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/0.6_liter_water_bottle"
+        },
+        "count": 8
+      }
+    ]
+  },
+  {
+    "source": "Nutrition unit level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b33a686f7742523398398",
+          "name": "Purified water canister",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b33a686f7742523398398-grid-image.jpg",
+          "avg24hPrice": 187358,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Purified_water"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "59e3577886f774176a362503",
+          "name": "Pack of sugar",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e3577886f774176a362503-grid-image.jpg",
+          "avg24hPrice": 33937,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_sugar"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5af0484c86f7740f02001f7f",
+          "name": "Can of Majaica coffee beans",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0484c86f7740f02001f7f-grid-image.jpg",
+          "avg24hPrice": 28161,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Majaica_coffee"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5bc9be8fd4351e00334cae6e",
+          "name": "42nd Signature Blend English Tea",
+          "gridImageLink": "https://assets.tarkov-tools.com/5bc9be8fd4351e00334cae6e-grid-image.jpg",
+          "avg24hPrice": 20067,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/42nd_Signature_Blend_English_Tea"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5751496424597720a27126da",
+          "name": "Can of Hot Rod energy drink",
+          "gridImageLink": "https://assets.tarkov-tools.com/5751496424597720a27126da-grid-image.jpg",
+          "avg24hPrice": 13098,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Hot_Rod_energy_drink"
+        },
+        "count": 20
+      }
+    ]
+  },
+  {
+    "source": "Water collector level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b385e86f774252167b98a",
+          "name": "Water filter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b385e86f774252167b98a-grid-image.jpg",
+          "avg24hPrice": 26170,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Water_filter"
+        },
+        "count": 0.66
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b33a686f7742523398398",
+          "name": "Purified water canister",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b33a686f7742523398398-grid-image.jpg",
+          "avg24hPrice": 187358,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Purified_water"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b304286f774253763a528",
+          "name": "Working LCD",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b304286f774253763a528-grid-image.jpg",
+          "avg24hPrice": 46885,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Working_LCD"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "590c2d8786f774245b1f03f3",
+          "name": "Screwdriver",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c2d8786f774245b1f03f3-grid-image.jpg",
+          "avg24hPrice": 16929,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Screwdriver"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b309586f77425227d1676",
+          "name": "Broken LCD",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b309586f77425227d1676-grid-image.jpg",
+          "avg24hPrice": 18948,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_LCD"
+        },
+        "count": 4
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d63d33b86f7746ea9275524",
+          "name": "Flat screwdriver",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d63d33b86f7746ea9275524-grid-image.jpg",
+          "avg24hPrice": 11618,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Flat_screwdriver"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5734781f24597737e04bf32a",
+          "name": "DVD drive",
+          "gridImageLink": "https://assets.tarkov-tools.com/5734781f24597737e04bf32a-grid-image.jpg",
+          "avg24hPrice": 9777,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/DVD_drive"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590a3b0486f7743954552bdb",
+          "name": "Printed circuit board",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a3b0486f7743954552bdb-grid-image.jpg",
+          "avg24hPrice": 15359,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Printed_circuit_board"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347cd0245977445a2d6ff1",
+          "name": "T-Shaped plug",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347cd0245977445a2d6ff1-grid-image.jpg",
+          "avg24hPrice": 10134,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/T-Shaped_plug"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5c06779c86f77426e00dd782",
+          "name": "Bundle of wires",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06779c86f77426e00dd782-grid-image.jpg",
+          "avg24hPrice": 11578,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bundle_of_wires"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5734795124597738002c6176",
+          "name": "Insulating tape",
+          "gridImageLink": "https://assets.tarkov-tools.com/5734795124597738002c6176-grid-image.jpg",
+          "avg24hPrice": 10767,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Insulating_tape"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e36c6f86f774176c10a2a7",
+          "name": "Power cord",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e36c6f86f774176c10a2a7-grid-image.jpg",
+          "avg24hPrice": 21545,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Power_cord"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347b8b24597737dd42e192",
+          "name": "Classic matches",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347b8b24597737dd42e192-grid-image.jpg",
+          "avg24hPrice": 12418,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Classic_matches"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590a386e86f77429692b27ab",
+          "name": "Damaged hard drive",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a386e86f77429692b27ab-grid-image.jpg",
+          "avg24hPrice": 14496,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Damaged_hard_drive"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590a391c86f774385a33c404",
+          "name": "Magnet",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a391c86f774385a33c404-grid-image.jpg",
+          "avg24hPrice": 18254,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magnet"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590a3efd86f77437d351a25b",
+          "name": "Gas analyzer",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a3efd86f77437d351a25b-grid-image.jpg",
+          "avg24hPrice": 18160,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gas_analyzer"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c2d8786f774245b1f03f3",
+          "name": "Screwdriver",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c2d8786f774245b1f03f3-grid-image.jpg",
+          "avg24hPrice": 16929,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Screwdriver"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590a3b0486f7743954552bdb",
+          "name": "Printed circuit board",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a3b0486f7743954552bdb-grid-image.jpg",
+          "avg24hPrice": 15359,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Printed_circuit_board"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "574d967124597745970e7c94",
+          "name": "Simonov SKS 7.62x39 carbine",
+          "gridImageLink": "https://assets.tarkov-tools.com/574d967124597745970e7c94-grid-image.jpg",
+          "avg24hPrice": 20863,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Simonov_SKS_7.62x39_semi-automatic_carbine"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1c819a86f774771b0acd6c",
+          "name": "Weapon parts",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1c819a86f774771b0acd6c-grid-image.jpg",
+          "avg24hPrice": 19274,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Weapon_parts"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c31c586f774245e3141b2",
+          "name": "Pack of nails",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c31c586f774245e3141b2-grid-image.jpg",
+          "avg24hPrice": 19601,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_nails"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "59e36c6f86f774176c10a2a7",
+          "name": "Power cord",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e36c6f86f774176c10a2a7-grid-image.jpg",
+          "avg24hPrice": 21545,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Power_cord"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "57347cd0245977445a2d6ff1",
+          "name": "T-Shaped plug",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347cd0245977445a2d6ff1-grid-image.jpg",
+          "avg24hPrice": 10134,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/T-Shaped_plug"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e6687d86f77411d949b251",
+          "name": "Molot VPO-209 .366 TKM carbine",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e6687d86f77411d949b251-grid-image.jpg",
+          "avg24hPrice": 41000,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Molot_VPO-209_.366_TKM_carbine"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1c819a86f774771b0acd6c",
+          "name": "Weapon parts",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1c819a86f774771b0acd6c-grid-image.jpg",
+          "avg24hPrice": 19274,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Weapon_parts"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1c819a86f774771b0acd6c",
+          "name": "Weapon parts",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1c819a86f774771b0acd6c-grid-image.jpg",
+          "avg24hPrice": 19274,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Weapon_parts"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5648b0744bdc2d363b8b4578",
+          "name": "AK-74 wooden handguard (6P20 Sb.6)",
+          "gridImageLink": "https://assets.tarkov-tools.com/5648b0744bdc2d363b8b4578-grid-image.jpg",
+          "avg24hPrice": 13491,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_wooden_handguard_(6P20_Sb.6)"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5649b1c04bdc2d16268b457c",
+          "name": "AK-74 wooden stock (6P20 Sb.5)",
+          "gridImageLink": "https://assets.tarkov-tools.com/5649b1c04bdc2d16268b457c-grid-image.jpg",
+          "avg24hPrice": 14334,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_wooden_stock_(6P20_Sb.5)"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5644bd2b4bdc2d3b4c8b4572",
+          "name": "Kalashnikov AK-74N 5.45x39 assault rifle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5644bd2b4bdc2d3b4c8b4572-grid-image.jpg",
+          "avg24hPrice": 39911,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74N_5.45x39_assault_rifle"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e6152586f77473dc057aa1",
+          "name": "Molot VPO-136 \"Vepr-KM\" 7.62x39 carbine",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e6152586f77473dc057aa1-grid-image.jpg",
+          "avg24hPrice": 62210,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Molot_VPO-136_Vepr_KM_7.62x39_carbine"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "544fb5454bdc2df8738b456a",
+          "name": "Leatherman Multitool",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb5454bdc2df8738b456a-grid-image.jpg",
+          "avg24hPrice": 25565,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Leatherman_Multitool"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "59d64fc686f774171b243fe2",
+          "name": "AKM 7.62x39 muzzle brake-compensator (6P1 0-14)",
+          "gridImageLink": "https://assets.tarkov-tools.com/59d64fc686f774171b243fe2-grid-image.jpg",
+          "avg24hPrice": 15527,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKM_7.62x39_muzzle_brake_%26_compensator_(6P1_0-14)"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59d6088586f774275f37482f",
+          "name": "Kalashnikov AKM 7.62x39 assault rifle",
+          "gridImageLink": "https://assets.tarkov-tools.com/59d6088586f774275f37482f-grid-image.jpg",
+          "avg24hPrice": 48478,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AKM_7.62x39_assault_rifle"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "56dff3afd2720bba668b4567",
+          "name": "5.45x39mm PS gs",
+          "gridImageLink": "https://assets.tarkov-tools.com/56dff3afd2720bba668b4567-grid-image.jpg",
+          "avg24hPrice": 117,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm_PS_gs"
+        },
+        "count": 70
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347b8b24597737dd42e192",
+          "name": "Classic matches",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347b8b24597737dd42e192-grid-image.jpg",
+          "avg24hPrice": 12418,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Classic_matches"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d6e6806a4b936088465b17e",
+          "name": "12/70 8.5mm Magnum buckshot",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6e6806a4b936088465b17e-grid-image.jpg",
+          "avg24hPrice": 321,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/12/70_8.5mm_%22Magnum%22_Buckshot"
+        },
+        "count": 120
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c1265fc86f7743f896a21c2",
+          "name": "Broken GPhone X smartphone",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c1265fc86f7743f896a21c2-grid-image.jpg",
+          "avg24hPrice": 91570,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone_X"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1b309586f77425227d1676",
+          "name": "Broken LCD",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b309586f77425227d1676-grid-image.jpg",
+          "avg24hPrice": 18948,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_LCD"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d4042a986f7743185265463",
+          "name": "Flat screwdriver (Long)",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d4042a986f7743185265463-grid-image.jpg",
+          "avg24hPrice": 8558,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Flat_screwdriver_(Long)"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "56742c324bdc2d150f8b456d",
+          "name": "Broken GPhone smartphone",
+          "gridImageLink": "https://assets.tarkov-tools.com/56742c324bdc2d150f8b456d-grid-image.jpg",
+          "avg24hPrice": 16414,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Broken_GPhone"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5656eb674bdc2d35148b457c",
+          "name": "40mm VOG-25",
+          "gridImageLink": "https://assets.tarkov-tools.com/5656eb674bdc2d35148b457c-grid-image.jpg",
+          "avg24hPrice": 14962,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/40mm_VOG-25"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "5e2af51086f7746d3f3c3402",
+          "name": "UZRGM grenade fuze",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af51086f7746d3f3c3402-grid-image.jpg",
+          "avg24hPrice": 11629,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UZRGM_grenade_fuze"
+        },
+        "count": 5
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e340dcdcb6d5863cc5e5efb",
+          "name": "VOG-25 Khattabka improvised hand grenade",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e340dcdcb6d5863cc5e5efb-grid-image.jpg",
+          "avg24hPrice": 21094,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/VOG-25_Khattabka_grenade"
+        },
+        "count": 8
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "573720e02459776143012541",
+          "name": "9x18mm PM RG028 gzh",
+          "gridImageLink": "https://assets.tarkov-tools.com/573720e02459776143012541-grid-image.jpg",
+          "avg24hPrice": 179,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x18mm_PM_RG028_gzh"
+        },
+        "count": 140
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e36c6f86f774176c10a2a7",
+          "name": "Power cord",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e36c6f86f774176c10a2a7-grid-image.jpg",
+          "avg24hPrice": 21545,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Power_cord"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c06779c86f77426e00dd782",
+          "name": "Bundle of wires",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06779c86f77426e00dd782-grid-image.jpg",
+          "avg24hPrice": 11578,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bundle_of_wires"
+        },
+        "count": 8
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347c2e24597744902c94a1",
+          "name": "Power supply unit",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c2e24597744902c94a1-grid-image.jpg",
+          "avg24hPrice": 37851,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Power_supply_unit"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c2d8786f774245b1f03f3",
+          "name": "Screwdriver",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c2d8786f774245b1f03f3-grid-image.jpg",
+          "avg24hPrice": 16929,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Screwdriver"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c06782b86f77426df5407d2",
+          "name": "Capacitors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06782b86f77426df5407d2-grid-image.jpg",
+          "avg24hPrice": 14731,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Capacitors"
+        },
+        "count": 8
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 1",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5672cb124bdc2d1a0f8b4568",
+          "name": "AA Battery",
+          "gridImageLink": "https://assets.tarkov-tools.com/5672cb124bdc2d1a0f8b4568-grid-image.jpg",
+          "avg24hPrice": 8908,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AA_Battery"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5672cb724bdc2dc2088b456b",
+          "name": "Geiger-Muller counter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5672cb724bdc2dc2088b456b-grid-image.jpg",
+          "avg24hPrice": 23525,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Geiger-Muller_counter"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590a391c86f774385a33c404",
+          "name": "Magnet",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a391c86f774385a33c404-grid-image.jpg",
+          "avg24hPrice": 18254,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Magnet"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5c06779c86f77426e00dd782",
+          "name": "Bundle of wires",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06779c86f77426e00dd782-grid-image.jpg",
+          "avg24hPrice": 11578,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bundle_of_wires"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5af04b6486f774195a3ebb49",
+          "name": "Pliers Elite",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af04b6486f774195a3ebb49-grid-image.jpg",
+          "avg24hPrice": 15205,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pliers_Elite"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590a3efd86f77437d351a25b",
+          "name": "Gas analyzer",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a3efd86f77437d351a25b-grid-image.jpg",
+          "avg24hPrice": 18160,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gas_analyzer"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d63d33b86f7746ea9275524",
+          "name": "Flat screwdriver",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d63d33b86f7746ea9275524-grid-image.jpg",
+          "avg24hPrice": 11618,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Flat_screwdriver"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5af0561e86f7745f5f3ad6ac",
+          "name": "Portable Powerbank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0561e86f7745f5f3ad6ac-grid-image.jpg",
+          "avg24hPrice": 47048,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Powerbank"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590a358486f77429692b2790",
+          "name": "Rechargeable battery",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a358486f77429692b2790-grid-image.jpg",
+          "avg24hPrice": 14975,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rechargeable_battery"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5e2af51086f7746d3f3c3402",
+          "name": "UZRGM grenade fuze",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af51086f7746d3f3c3402-grid-image.jpg",
+          "avg24hPrice": 11629,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UZRGM_grenade_fuze"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5a2a57cfc4a2826c6e06d44a",
+          "name": "RDG-2B smoke grenade",
+          "gridImageLink": "https://assets.tarkov-tools.com/5a2a57cfc4a2826c6e06d44a-grid-image.jpg",
+          "avg24hPrice": 7812,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RDG-2B_smoke_grenade"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a0c27731526d80618476ac4",
+          "name": "\"Zarya\" stun grenade",
+          "gridImageLink": "https://assets.tarkov-tools.com/5a0c27731526d80618476ac4-grid-image.jpg",
+          "avg24hPrice": 7689,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Zarya_stun_grenade"
+        },
+        "count": 5
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e35de086f7741778269d84",
+          "name": "Electric drill",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e35de086f7741778269d84-grid-image.jpg",
+          "avg24hPrice": 31545,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Electric_drill"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d63d33b86f7746ea9275524",
+          "name": "Flat screwdriver",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d63d33b86f7746ea9275524-grid-image.jpg",
+          "avg24hPrice": 11618,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Flat_screwdriver"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c2d8786f774245b1f03f3",
+          "name": "Screwdriver",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c2d8786f774245b1f03f3-grid-image.jpg",
+          "avg24hPrice": 16929,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Screwdriver"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b2fa286f77425227d1674",
+          "name": "Electric motor",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b2fa286f77425227d1674-grid-image.jpg",
+          "avg24hPrice": 56519,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Electric_motor"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1c819a86f774771b0acd6c",
+          "name": "Weapon parts",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1c819a86f774771b0acd6c-grid-image.jpg",
+          "avg24hPrice": 19274,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Weapon_parts"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5648b1504bdc2d9d488b4584",
+          "name": "AK-74 polymer handguard (6P20 Sb.9)",
+          "gridImageLink": "https://assets.tarkov-tools.com/5648b1504bdc2d9d488b4584-grid-image.jpg",
+          "avg24hPrice": 8725,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74_polymer_handguard_(6P20_Sb.9)"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5ac50c185acfc400163398d4",
+          "name": "AK-74M polymer stock (6P34 Sb.15)",
+          "gridImageLink": "https://assets.tarkov-tools.com/5ac50c185acfc400163398d4-grid-image.jpg",
+          "avg24hPrice": 10695,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74M_polymer_stock_(6P34_Sb.15)"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5ac4cd105acfc40016339859",
+          "name": "Kalashnikov AK-74M 5.45x39 assault rifle",
+          "gridImageLink": "https://assets.tarkov-tools.com/5ac4cd105acfc40016339859-grid-image.jpg",
+          "avg24hPrice": 44013,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AK-74M_5.45x39_assault_rifle"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590a3efd86f77437d351a25b",
+          "name": "Gas analyzer",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a3efd86f77437d351a25b-grid-image.jpg",
+          "avg24hPrice": 18160,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gas_analyzer"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5c06779c86f77426e00dd782",
+          "name": "Bundle of wires",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06779c86f77426e00dd782-grid-image.jpg",
+          "avg24hPrice": 11578,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bundle_of_wires"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5c06782b86f77426df5407d2",
+          "name": "Capacitors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06782b86f77426df5407d2-grid-image.jpg",
+          "avg24hPrice": 14731,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Capacitors"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5672cb124bdc2d1a0f8b4568",
+          "name": "AA Battery",
+          "gridImageLink": "https://assets.tarkov-tools.com/5672cb124bdc2d1a0f8b4568-grid-image.jpg",
+          "avg24hPrice": 8908,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/AA_Battery"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5672cb724bdc2dc2088b456b",
+          "name": "Geiger-Muller counter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5672cb724bdc2dc2088b456b-grid-image.jpg",
+          "avg24hPrice": 23525,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Geiger-Muller_counter"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "58d3db5386f77426186285a0",
+          "name": "M67 Hand grenade",
+          "gridImageLink": "https://assets.tarkov-tools.com/58d3db5386f77426186285a0-grid-image.jpg",
+          "avg24hPrice": 18143,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/M67_Hand_grenade"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5a2a57cfc4a2826c6e06d44a",
+          "name": "RDG-2B smoke grenade",
+          "gridImageLink": "https://assets.tarkov-tools.com/5a2a57cfc4a2826c6e06d44a-grid-image.jpg",
+          "avg24hPrice": 7812,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RDG-2B_smoke_grenade"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d0379a886f77420407aa271",
+          "name": "OFZ 30x160mm shell",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d0379a886f77420407aa271-grid-image.jpg",
+          "avg24hPrice": 63722,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/OFZ_30x160mm_shell"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 3
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57347c77245977448d35f6e2",
+          "name": "Screw nuts",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c77245977448d35f6e2-grid-image.jpg",
+          "avg24hPrice": 20511,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Screw_nuts"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "57347c5b245977448d35f6e1",
+          "name": "Bolts",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c5b245977448d35f6e1-grid-image.jpg",
+          "avg24hPrice": 38178,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bolts"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5e2af37686f774755a234b65",
+          "name": "SurvL Survivor Lighter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af37686f774755a234b65-grid-image.jpg",
+          "avg24hPrice": 13647,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SurvL_Survivor_Lighter"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c2b4386f77425357b6123",
+          "name": "Pliers",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c2b4386f77425357b6123-grid-image.jpg",
+          "avg24hPrice": 6420,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pliers"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "590a3c0a86f774385a33c450",
+          "name": "Spark plug",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a3c0a86f774385a33c450-grid-image.jpg",
+          "avg24hPrice": 15053,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Spark_plug"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b36a186f7742523398433",
+          "name": "Metal fuel tank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b36a186f7742523398433-grid-image.jpg",
+          "avg24hPrice": 166540,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Metal_fuel_tank"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d6e6911a4b9361bd5780d52",
+          "name": "12/70 flechette",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6e6911a4b9361bd5780d52-grid-image.jpg",
+          "avg24hPrice": 493,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/12/70_Flechette"
+        },
+        "count": 120
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590a3b0486f7743954552bdb",
+          "name": "Printed circuit board",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a3b0486f7743954552bdb-grid-image.jpg",
+          "avg24hPrice": 15359,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Printed_circuit_board"
+        },
+        "count": 6
+      },
+      {
+        "item": {
+          "id": "573477e124597737dd42e191",
+          "name": "PC CPU",
+          "gridImageLink": "https://assets.tarkov-tools.com/573477e124597737dd42e191-grid-image.jpg",
+          "avg24hPrice": 9921,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/PC_CPU"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5c06782b86f77426df5407d2",
+          "name": "Capacitors",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06782b86f77426df5407d2-grid-image.jpg",
+          "avg24hPrice": 14731,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Capacitors"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "57347baf24597738002c6178",
+          "name": "RAM",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347baf24597738002c6178-grid-image.jpg",
+          "avg24hPrice": 9601,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RAM"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d0376a486f7747d8050965c",
+          "name": "Military circuit board",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d0376a486f7747d8050965c-grid-image.jpg",
+          "avg24hPrice": 166966,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_circuit_board"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5b4391a586f7745321235ab2",
+          "name": "WI-FI Camera",
+          "gridImageLink": "https://assets.tarkov-tools.com/5b4391a586f7745321235ab2-grid-image.jpg",
+          "avg24hPrice": 76903,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/WI-FI_Camera"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "59e366c186f7741778269d85",
+          "name": "Plexiglass piece",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e366c186f7741778269d85-grid-image.jpg",
+          "avg24hPrice": 16548,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Plexiglass_piece"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b2ffd86f77425243e8d17",
+          "name": "NIXXOR lens",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b2ffd86f77425243e8d17-grid-image.jpg",
+          "avg24hPrice": 54051,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/NIXXOR_lens"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d03794386f77420415576f5",
+          "name": "6-STEN-140-M military battery",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d03794386f77420415576f5-grid-image.jpg",
+          "avg24hPrice": 515152,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/6-STEN-140-M_military_battery"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "544fb5454bdc2df8738b456a",
+          "name": "Leatherman Multitool",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb5454bdc2df8738b456a-grid-image.jpg",
+          "avg24hPrice": 25565,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Leatherman_Multitool"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5733279d245977289b77ec24",
+          "name": "Car battery",
+          "gridImageLink": "https://assets.tarkov-tools.com/5733279d245977289b77ec24-grid-image.jpg",
+          "avg24hPrice": 48918,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Car_battery"
+        },
+        "count": 5
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5737201124597760fc4431f1",
+          "name": "9x18mm PM Pst gzh",
+          "gridImageLink": "https://assets.tarkov-tools.com/5737201124597760fc4431f1-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x18mm_PM_Pst_gzh"
+        },
+        "count": 200
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "573719df2459775a626ccbc2",
+          "name": "9x18mm PM PBM gzh",
+          "gridImageLink": "https://assets.tarkov-tools.com/573719df2459775a626ccbc2-grid-image.jpg",
+          "avg24hPrice": 452,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x18mm_PM_PBM_gzh"
+        },
+        "count": 200
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c639286f774151567fa95",
+          "name": "Tech manual",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c639286f774151567fa95-grid-image.jpg",
+          "avg24hPrice": 95539,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Tech_manual"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d1c819a86f774771b0acd6c",
+          "name": "Weapon parts",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1c819a86f774771b0acd6c-grid-image.jpg",
+          "avg24hPrice": 19274,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Weapon_parts"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d6e68d1a4b93622fe60e845",
+          "name": "12/70 SuperFormance HP slug",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6e68d1a4b93622fe60e845-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/12/70_SuperFormance_HP_Slug"
+        },
+        "count": 120
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b31ce86f7742523398394",
+          "name": "Round pliers",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b31ce86f7742523398394-grid-image.jpg",
+          "avg24hPrice": 11583,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Round_pliers"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5909e99886f7740c983b9984",
+          "name": "USB Adapter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5909e99886f7740c983b9984-grid-image.jpg",
+          "avg24hPrice": 9291,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/USB_Adapter"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590a358486f77429692b2790",
+          "name": "Rechargeable battery",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a358486f77429692b2790-grid-image.jpg",
+          "avg24hPrice": 14975,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Rechargeable_battery"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5af0561e86f7745f5f3ad6ac",
+          "name": "Portable Powerbank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0561e86f7745f5f3ad6ac-grid-image.jpg",
+          "avg24hPrice": 47048,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Powerbank"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e2aedd986f7746d404f3aa4",
+          "name": "GreenBat lithium battery",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2aedd986f7746d404f3aa4-grid-image.jpg",
+          "avg24hPrice": 322258,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/GreenBat_lithium_battery"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "56dff3afd2720bba668b4567",
+          "name": "5.45x39mm PS gs",
+          "gridImageLink": "https://assets.tarkov-tools.com/56dff3afd2720bba668b4567-grid-image.jpg",
+          "avg24hPrice": 117,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm_PS_gs"
+        },
+        "count": 200
+      },
+      {
+        "item": {
+          "id": "57347c5b245977448d35f6e1",
+          "name": "Bolts",
+          "gridImageLink": "https://assets.tarkov-tools.com/57347c5b245977448d35f6e1-grid-image.jpg",
+          "avg24hPrice": 38178,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bolts"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "56dff2ced2720bb4668b4567",
+          "name": "5.45x39mm PP gs",
+          "gridImageLink": "https://assets.tarkov-tools.com/56dff2ced2720bb4668b4567-grid-image.jpg",
+          "avg24hPrice": 184,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm_PP_gs"
+        },
+        "count": 320
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5c925fa22e221601da359b7b",
+          "name": "9x19mm AP 6.3",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c925fa22e221601da359b7b-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x19mm_AP_6.3"
+        },
+        "count": 90
+      },
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5efb0cabfb3e451d70735af5",
+          "name": ".45 ACP AP",
+          "gridImageLink": "https://assets.tarkov-tools.com/5efb0cabfb3e451d70735af5-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/.45_ACP_AP"
+        },
+        "count": 60
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d40425986f7743185265461",
+          "name": "Nippers",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d40425986f7743185265461-grid-image.jpg",
+          "avg24hPrice": 5267,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Nippers"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5af04b6486f774195a3ebb49",
+          "name": "Pliers Elite",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af04b6486f774195a3ebb49-grid-image.jpg",
+          "avg24hPrice": 15205,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pliers_Elite"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c2e1186f77425357b6124",
+          "name": "Toolset",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c2e1186f77425357b6124-grid-image.jpg",
+          "avg24hPrice": 27207,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Toolset"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c5bbd86f774785762df04",
+          "name": "WD-40 (100ml)",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5bbd86f774785762df04-grid-image.jpg",
+          "avg24hPrice": 6321,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/WD-40_(100ml)"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "619cbfeb6b8a1b37a54eebfa",
+          "name": "Bulbex cable cutter",
+          "gridImageLink": "https://assets.tarkov-tools.com/619cbfeb6b8a1b37a54eebfa-grid-image.jpg",
+          "avg24hPrice": 66430,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bulbex_cable_cutter"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "57a0e5022459774d1673f889",
+          "name": "9x39mm SP-6 gs",
+          "gridImageLink": "https://assets.tarkov-tools.com/57a0e5022459774d1673f889-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x39mm_SP-6_gs"
+        },
+        "count": 50
+      },
+      {
+        "item": {
+          "id": "5656d7c34bdc2d9d198b4587",
+          "name": "7.62x39mm PS gzh",
+          "gridImageLink": "https://assets.tarkov-tools.com/5656d7c34bdc2d9d198b4587-grid-image.jpg",
+          "avg24hPrice": 183,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm_PS_gzh"
+        },
+        "count": 100
+      },
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5f0596629e22f464da6bbdd9",
+          "name": ".366 TKM AP-M",
+          "gridImageLink": "https://assets.tarkov-tools.com/5f0596629e22f464da6bbdd9-grid-image.jpg",
+          "avg24hPrice": 1023,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/.366_TKM_AP-M"
+        },
+        "count": 100
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d1b2ffd86f77425243e8d17",
+          "name": "NIXXOR lens",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b2ffd86f77425243e8d17-grid-image.jpg",
+          "avg24hPrice": 54051,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/NIXXOR_lens"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "5d0377ce86f774186372f689",
+          "name": "Iridium military thermal vision module",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d0377ce86f774186372f689-grid-image.jpg",
+          "avg24hPrice": 56670,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Iridium_military_thermal_vision_module"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5c05308086f7746b2101e90b",
+          "name": "Virtex programmable processor",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c05308086f7746b2101e90b-grid-image.jpg",
+          "avg24hPrice": 89046,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Virtex_programmable_processor"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c37d286f77443be3d7827",
+          "name": "SAS drive",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c37d286f77443be3d7827-grid-image.jpg",
+          "avg24hPrice": 42184,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SAS_drive"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5af0561e86f7745f5f3ad6ac",
+          "name": "Portable Powerbank",
+          "gridImageLink": "https://assets.tarkov-tools.com/5af0561e86f7745f5f3ad6ac-grid-image.jpg",
+          "avg24hPrice": 47048,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Powerbank"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d1b5e94d7ad1a2b865a96b0",
+          "name": "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1b5e94d7ad1a2b865a96b0-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/FLIR_RS-32_2.25-9x_35mm_60Hz_thermal_riflescope"
+        },
+        "count": 1
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "59e4d3d286f774176a36250a",
+          "name": "7.62x39mm HP",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e4d3d286f774176a36250a-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm_HP"
+        },
+        "count": 120
+      },
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "590c346786f77423e50ed342",
+          "name": "Xenomorph sealing foam",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c346786f77423e50ed342-grid-image.jpg",
+          "avg24hPrice": 24969,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Xenomorph_sealing_foam"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "57a0e5022459774d1673f889",
+          "name": "9x39mm SP-6 gs",
+          "gridImageLink": "https://assets.tarkov-tools.com/57a0e5022459774d1673f889-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x39mm_SP-6_gs"
+        },
+        "count": 300
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "56d59d3ad2720bdb418b4577",
+          "name": "9x19mm Pst gzh",
+          "gridImageLink": "https://assets.tarkov-tools.com/56d59d3ad2720bdb418b4577-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Pst_gzh"
+        },
+        "count": 400
+      },
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c925fa22e221601da359b7b",
+          "name": "9x19mm AP 6.3",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c925fa22e221601da359b7b-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x19mm_AP_6.3"
+        },
+        "count": 150
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "560d61e84bdc2da74d8b4571",
+          "name": "7.62x54mm R SNB gzh",
+          "gridImageLink": "https://assets.tarkov-tools.com/560d61e84bdc2da74d8b4571-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x54R_SNB"
+        },
+        "count": 80
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 2",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "54527a984bdc2d4e668b4567",
+          "name": "5.56x45mm M855",
+          "gridImageLink": "https://assets.tarkov-tools.com/54527a984bdc2d4e668b4567-grid-image.jpg",
+          "avg24hPrice": 319,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_M855"
+        },
+        "count": 200
+      },
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e6906286f7746c9f75e847",
+          "name": "5.56x45mm M856A1",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e6906286f7746c9f75e847-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_M856A1"
+        },
+        "count": 200
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5e2af37686f774755a234b65",
+          "name": "SurvL Survivor Lighter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af37686f774755a234b65-grid-image.jpg",
+          "avg24hPrice": 13647,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/SurvL_Survivor_Lighter"
+        },
+        "count": 5
+      },
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5a0c27731526d80618476ac4",
+          "name": "\"Zarya\" stun grenade",
+          "gridImageLink": "https://assets.tarkov-tools.com/5a0c27731526d80618476ac4-grid-image.jpg",
+          "avg24hPrice": 7689,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Zarya_stun_grenade"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5e85a9f4add9fe03027d9bf1",
+          "name": "23x75mm \"Zvezda\" flashbang round",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e85a9f4add9fe03027d9bf1-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/23x75mm_%22Zvezda%22_flashbang_round"
+        },
+        "count": 7
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590a386e86f77429692b27ab",
+          "name": "Damaged hard drive",
+          "gridImageLink": "https://assets.tarkov-tools.com/590a386e86f77429692b27ab-grid-image.jpg",
+          "avg24hPrice": 14496,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Damaged_hard_drive"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d6e68a8a4b9360b6c0d54e2",
+          "name": "12/70 AP-20 armor-piercing slug",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6e68a8a4b9360b6c0d54e2-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/12/70_AP-20_Slug"
+        },
+        "count": 80
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0d5ae286f7741e46554302",
+          "name": "5.56x45mm Warmageddon",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0d5ae286f7741e46554302-grid-image.jpg",
+          "avg24hPrice": 122,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_Warmageddon"
+        },
+        "count": 300
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "60391b0fb847c71012789415",
+          "name": "TP-200 TNT brick",
+          "gridImageLink": "https://assets.tarkov-tools.com/60391b0fb847c71012789415-grid-image.jpg",
+          "avg24hPrice": 36588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TP-200_TNT_brick"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5e2af51086f7746d3f3c3402",
+          "name": "UZRGM grenade fuze",
+          "gridImageLink": "https://assets.tarkov-tools.com/5e2af51086f7746d3f3c3402-grid-image.jpg",
+          "avg24hPrice": 11629,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/UZRGM_grenade_fuze"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5448be9a4bdc2dfd2f8b456a",
+          "name": "RGD-5 hand grenade",
+          "gridImageLink": "https://assets.tarkov-tools.com/5448be9a4bdc2dfd2f8b456a-grid-image.jpg",
+          "avg24hPrice": 12160,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/RGD-5_hand_grenade"
+        },
+        "count": 6
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5c06779c86f77426e00dd782",
+          "name": "Bundle of wires",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c06779c86f77426e00dd782-grid-image.jpg",
+          "avg24hPrice": 11578,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Bundle_of_wires"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0d56a986f774449d5de529",
+          "name": "9x19mm RIP",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0d56a986f774449d5de529-grid-image.jpg",
+          "avg24hPrice": 767,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x19mm_RIP"
+        },
+        "count": 180
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d0378d486f77420421a5ff4",
+          "name": "Military power filter",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d0378d486f77420421a5ff4-grid-image.jpg",
+          "avg24hPrice": 926585,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Military_power_filter"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0d688c86f77413ae3407b2",
+          "name": "9x39mm BP gs",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0d688c86f77413ae3407b2-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x39mm_BP_gs"
+        },
+        "count": 160
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5a26ac0ec4a28200741e1e18",
+          "name": "9x21mm BT gzh",
+          "gridImageLink": "https://assets.tarkov-tools.com/5a26ac0ec4a28200741e1e18-grid-image.jpg",
+          "avg24hPrice": 1411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x21mm_BT_gzh"
+        },
+        "count": 150
+      },
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "544fb5454bdc2df8738b456a",
+          "name": "Leatherman Multitool",
+          "gridImageLink": "https://assets.tarkov-tools.com/544fb5454bdc2df8738b456a-grid-image.jpg",
+          "avg24hPrice": 25565,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Leatherman_Multitool"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0d668f86f7747ccb7f13b2",
+          "name": "9x39mm SPP gs",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0d668f86f7747ccb7f13b2-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x39mm_SPP_gs"
+        },
+        "count": 200
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "60391b0fb847c71012789415",
+          "name": "TP-200 TNT brick",
+          "gridImageLink": "https://assets.tarkov-tools.com/60391b0fb847c71012789415-grid-image.jpg",
+          "avg24hPrice": 36588,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/TP-200_TNT_brick"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "60391a8b3364dc22b04d0ce5",
+          "name": "Can of thermite",
+          "gridImageLink": "https://assets.tarkov-tools.com/60391a8b3364dc22b04d0ce5-grid-image.jpg",
+          "avg24hPrice": 44288,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_thermite"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5d0379a886f77420407aa271",
+          "name": "OFZ 30x160mm shell",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d0379a886f77420407aa271-grid-image.jpg",
+          "avg24hPrice": 63722,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/OFZ_30x160mm_shell"
+        },
+        "count": 2
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 3
+      },
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 4
+      },
+      {
+        "item": {
+          "id": "60391a8b3364dc22b04d0ce5",
+          "name": "Can of thermite",
+          "gridImageLink": "https://assets.tarkov-tools.com/60391a8b3364dc22b04d0ce5-grid-image.jpg",
+          "avg24hPrice": 44288,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_thermite"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "590c31c586f774245e3141b2",
+          "name": "Pack of nails",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c31c586f774245e3141b2-grid-image.jpg",
+          "avg24hPrice": 19601,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Pack_of_nails"
+        },
+        "count": 4
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5efb0da7a29a85116f6ea05f",
+          "name": "9x19mm PBP gzh",
+          "gridImageLink": "https://assets.tarkov-tools.com/5efb0da7a29a85116f6ea05f-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/9x19mm_PBP_gzh"
+        },
+        "count": 200
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 1
+      },
+      {
+        "item": {
+          "id": "5d0379a886f77420407aa271",
+          "name": "OFZ 30x160mm shell",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d0379a886f77420407aa271-grid-image.jpg",
+          "avg24hPrice": 63722,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/OFZ_30x160mm_shell"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "60391a8b3364dc22b04d0ce5",
+          "name": "Can of thermite",
+          "gridImageLink": "https://assets.tarkov-tools.com/60391a8b3364dc22b04d0ce5-grid-image.jpg",
+          "avg24hPrice": 44288,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Can_of_thermite"
+        },
+        "count": 1
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e690b686f7746c9f75e848",
+          "name": "5.56x45mm M995",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e690b686f7746c9f75e848-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_M995"
+        },
+        "count": 200
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 6
+      },
+      {
+        "item": {
+          "id": "5d1c774f86f7746d6620f8db",
+          "name": "Radiator helix",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d1c774f86f7746d6620f8db-grid-image.jpg",
+          "avg24hPrice": 10574,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Radiator_helix"
+        },
+        "count": 3
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5a6086ea4f39f99cd479502f",
+          "name": "7.62x51mm M61",
+          "gridImageLink": "https://assets.tarkov-tools.com/5a6086ea4f39f99cd479502f-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_M61"
+        },
+        "count": 80
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "59e0d99486f7744a32234762",
+          "name": "7.62x39mm BP gzh",
+          "gridImageLink": "https://assets.tarkov-tools.com/59e0d99486f7744a32234762-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm_BP_gzh"
+        },
+        "count": 120
+      }
+    ]
+  },
+  {
+    "source": "Workbench level 3",
+    "requiredItems": [
+      {
+        "item": {
+          "id": "590c5a7286f7747884343aea",
+          "name": "Gunpowder \"Kite\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/590c5a7286f7747884343aea-grid-image.jpg",
+          "avg24hPrice": 17765,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Kite%22"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d6fc78386f77449d825f9dc",
+          "name": "Gunpowder \"Eagle\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc78386f77449d825f9dc-grid-image.jpg",
+          "avg24hPrice": 39411,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Eagle%22"
+        },
+        "count": 2
+      },
+      {
+        "item": {
+          "id": "5d6fc87386f77449db3db94e",
+          "name": "Gunpowder \"Hawk\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5d6fc87386f77449db3db94e-grid-image.jpg",
+          "avg24hPrice": 36852,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/Gunpowder_%22Hawk%22"
+        },
+        "count": 2
+      }
+    ],
+    "rewardItems": [
+      {
+        "item": {
+          "id": "5c0d5e4486f77478390952fe",
+          "name": "5.45x39mm PPBS gs \"Igolnik\"",
+          "gridImageLink": "https://assets.tarkov-tools.com/5c0d5e4486f77478390952fe-grid-image.jpg",
+          "avg24hPrice": 0,
+          "wikiLink": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm_PPBS_gs_%22Igolnik%22"
+        },
+        "count": 150
+      }
+    ]
+  }
+]
