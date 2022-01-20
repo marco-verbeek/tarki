@@ -26,14 +26,11 @@ jobs:
         with:
           node-version: 12
 
-      - name: Change to backend directory
-        run: cd apps/api
-
       - name: Install Node.js dependencies
-        run: npm ci
+        run: cd apps/api && npm ci
 
       - name: Run linters 
-        run: npm run eslint
+        run: cd apps/api && npm run eslint
 
       - name: Run tests
-        run: npm run test
+        run: cd apps/api && npm run test
