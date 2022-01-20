@@ -1,7 +1,12 @@
 name: Lint and Test Backend
 
 on:
-  [push, pull_request]:
+  push:
+    branches:
+      - main
+    paths:
+      - 'apps/api/**'
+  pull_request:
     branches:
       - main
     paths:
