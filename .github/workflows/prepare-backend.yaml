@@ -26,7 +26,8 @@ jobs:
         with:
           node-version: 12
 
-      - uses: cd apps/api
+      - name: Change to backend directory
+        uses: cd apps/api
 
       - name: Install Node.js dependencies
         run: npm ci
