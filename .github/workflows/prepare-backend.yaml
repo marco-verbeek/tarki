@@ -35,4 +35,4 @@ jobs:
           prettier: true
 
       - name: Run tests
-        run: npm run test:api
+        run: npm run test
