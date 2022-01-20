@@ -26,18 +26,13 @@ jobs:
         with:
           node-version: 12
 
+      - uses: cd apps/api
+
       - name: Install Node.js dependencies
         run: npm ci
 
-      - name: Run linters
-        uses: wearerequired/lint-action@v1
-        with:
-          eslint: true
-          eslint_dir: 'apps/api'
-          eslint_args: '--max-warnings 0'
-
-          prettier: true
-          prettier_dir: 'apps/api'
+      - name: Run linters 
+        run: npm run eslint
 
       - name: Run tests
         run: npm run test
