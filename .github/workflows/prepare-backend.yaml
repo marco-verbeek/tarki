@@ -32,7 +32,12 @@ jobs:
       - name: Run linters
         uses: wearerequired/lint-action@v1
         with:
+          eslint: true
+          eslint_dir: 'apps/api'
+          eslint_args: "--max-warnings 0"
+          
           prettier: true
+          prettier_dir: 'apps/api'
 
       - name: Run tests
         run: npm run test
