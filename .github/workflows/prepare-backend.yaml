@@ -13,14 +13,26 @@ on:
       - 'apps/api/**'
 
 jobs:
-  prepare:
+  run-linters-and-test:
+    name: Run linters and test
     runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: true
 
     steps:
-      - name: Lint code
-        uses: wearerequired/lint-action@v1.11.1
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+
+      - name: Install Node.js dependencies
+        run: npm ci
+
+      - name: Run linters
+        uses: wearerequired/lint-action@v1
+        with:
+          prettier: true
+
       - name: Run tests
         run: npm run test:api
