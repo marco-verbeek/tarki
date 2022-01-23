@@ -11,7 +11,10 @@
         <textarea class="form-control" [(ngModel)]="newItems" name="itemNames" #itemNames="ngModel"></textarea>
       </div>
 
-      <button mat-button (click)="searchItems()">Search</button>
+      <div class="controls">
+        <button mat-button (click)="clearItems()">Clear</button>
+        <button mat-button (click)="searchItems()">Search</button>
+      </div>
     </div>
 
     <table mat-table [dataSource]="tableItems" class="mat-elevation-z8">
@@ -25,41 +28,91 @@
         <td mat-cell *matCellDef="let item"> <a class="table-item-link" [href]="item.wikiLink" rel="noreferrer" target="_blank">{{item.itemName}}</a> </td>
       </ng-container>
 
-      <ng-container matColumnDef="price">
-        <th mat-header-cell *matHeaderCellDef> Price </th>
+      <ng-container matColumnDef="prices">
+        <th mat-header-cell *matHeaderCellDef> Prices </th>
         <td mat-cell *matCellDef="let item"> {{item.prices.trader.price | number}} @ {{item.prices.trader.name}} <br> {{item.prices.market.price | number}} @ FleaMarket</td>
       </ng-container>
 
-      <ng-container matColumnDef="quest">
-        <th mat-header-cell *matHeaderCellDef> Used In Quest </th>
+      <ng-container matColumnDef="quests">
+        <th mat-header-cell *matHeaderCellDef> Quests </th>
         <td mat-cell *matCellDef="let item">
           <div class="quest" *ngFor="let quest of item.quests">
             <p>{{quest.itemQty}}x for</p>
             <a class="table-item-link" [href]="quest.wikiLink" rel="noreferrer" target="_blank">&nbsp;{{quest.title}}</a>
           </div>
-        </td>
-      </ng-container>
 
-      <ng-container matColumnDef="hideout">
-        <th mat-header-cell *matHeaderCellDef> Hideout Crafting </th>
-        <td mat-cell *matCellDef="let item"> 
-          <div class="crafts" *ngFor="let craft of item.hideoutCrafts">
-              <p>Crafted in {{craft.source}} using</p>
-              <a *ngFor="let reqItem of craft.requiredItems">
-                <a [href]="reqItem.item.wikiLink">
-                  <img [src]="reqItem.item.gridImageLink" width="64px"/>
-                </a>
-                <a *ngIf="reqItem !== craft.requiredItems[craft.requiredItemslength-1]">
-                  ➕
-                </a>
-              </a>
+          <div class="quest" *ngIf="item.quests.length === 0">
+            Not used in quest
           </div>
         </td>
       </ng-container>
 
-      <ng-container matColumnDef="barter_crafting">
+      <ng-container matColumnDef="barters">
         <th mat-header-cell *matHeaderCellDef> Barters </th>
-        <td mat-cell *matCellDef="let item"> No </td>
+        <td mat-cell *matCellDef="let item">
+          <div *ngFor="let barter of item.barters">
+            <p>Can barter with <b>{{barter.source}}</b></p>
+            <div class="barters">
+              <a class="barter" *ngFor="let reqItem of barter.requiredItems">
+                <a [href]="reqItem.item.wikiLink" target="_blank">
+                  <img [src]="reqItem.item.gridImageLink" width="64px" />
+                </a>
+                <p class="separator" *ngIf="reqItem !== barter.requiredItems[barter.requiredItems.length-1]">
+                  ➕
+                </p>
+
+              </a>
+              <p class="separator">➡</p>
+              <a class="barter" *ngFor="let reward of barter.rewardItems">
+                <a [href]="reward.item.wikiLink" target="_blank">
+                  <img [src]="reward.item.gridImageLink" width="64px" />
+                </a>
+                <p class="separator" *ngIf="reward !== barter.rewardItems[barter.rewardItems.length-1]">
+                  ➕
+                </p>
+              </a>
+            </div>
+          </div>
+          <div *ngIf="item.barters.length === 0">
+            No barters available
+          </div>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="hideout_crafts">
+        <th mat-header-cell *matHeaderCellDef> Crafts </th>
+        <td mat-cell *matCellDef="let item">
+          <div *ngFor="let craft of item.hideoutCrafts">
+            <p>Crafts <u>{{craft.rewardItems[0].item.name}}</u> in <b>{{craft.source}}</b> using</p>
+            <div class="crafts">
+              <a class="craft" *ngFor="let reqItem of craft.requiredItems">
+                <a [href]="reqItem.item.wikiLink" target="_blank">
+                  <img [src]="reqItem.item.gridImageLink" width="64px" />
+                </a>
+                <p class="separator" *ngIf="reqItem !== craft.requiredItems[craft.requiredItems.length-1]">
+                  ➕
+                </p>
+
+              </a>
+            </div>
+          </div>
+          <div *ngIf="item.hideoutCrafts.length === 0">
+            Not craftable
+          </div>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="hideout_upgrades">
+        <th mat-header-cell *matHeaderCellDef> Upgrades </th>
+        <td mat-cell *matCellDef="let item">
+          <div *ngFor="let upgrade of item.hideoutUpgrades">
+            <p>{{upgrade.requiredItems[0].quantity}}x needed for <b>{{upgrade.name}} {{upgrade.level}}</b></p>
+
+          </div>
+          <div *ngIf="item.hideoutUpgrades.length === 0">
+            Not used in hideout upgrades
+          </div>
+        </td>
       </ng-container>
 
       <tr mat-header-row *matHeaderRowDef="headers"></tr>

@@ -20,10 +20,11 @@ export class HomepageComponent {
   headers: string[] = [
     'icon',
     'name',
-    'price',
-    'quest',
-    'hideout',
-    'barter_crafting'
+    'prices',
+    'quests',
+    'barters',
+    'hideout_crafts',
+    'hideout_upgrades'
   ]
 
   tableItems: ItemSearchResult[] = [];
@@ -66,5 +67,10 @@ export class HomepageComponent {
 
     }
     this.newItems = "";
+  }
+
+  clearItems(): void {
+    this.tableItems = [];
+    this.table.renderRows();
   }
 }

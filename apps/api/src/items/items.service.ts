@@ -1,14 +1,10 @@
-import { GraphQLService } from './../graphql/graphql.service';
 import { forwardRef, Inject, Injectable } from '@nestjs/common';
-
 import {
-  Quest,
-  ItemSearchResult,
-  HideoutUpgrade,
-  HideoutCraft,
-  Barter,
+  Barter, HideoutCraft, HideoutUpgrade, ItemSearchResult, Quest
 } from 'tarki-definitions';
+import { GraphQLService } from './../graphql/graphql.service';
 import { AdapterService } from './adapter.service';
+
 
 @Injectable()
 export class ItemsService {
@@ -16,7 +12,7 @@ export class ItemsService {
     private readonly graphqlService: GraphQLService,
     @Inject(forwardRef(() => AdapterService))
     private readonly adapterService: AdapterService,
-  ) {}
+  ) { }
 
   getQuestsRelatedToItem(id: string): Quest[] {
     const filtered = this.graphqlService.quests
@@ -66,8 +62,8 @@ export class ItemsService {
   getBartersRelatedToItem(id: string): Barter[] {
     const filtered = this.graphqlService.barters.filter(
       barter =>
-        barter.requiredItems.some(reqItem => reqItem.id === id) ||
-        barter.rewardItems.some(rewItem => rewItem.id === id),
+        barter.requiredItems.some(reqItem => reqItem.item.id === id) ||
+        barter.rewardItems.some(rewItem => rewItem.item.id === id),
     );
 
     return this.adapterService.toBarters(filtered);

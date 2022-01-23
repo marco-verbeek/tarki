@@ -52,23 +52,29 @@
         resize: none;
       }
 
-      button {
-        font-family: 'Poppins';
-        align-items: center;
-        justify-content: center;
-        height: 32px;
-        padding: 0 16px;
-        font-size: 12px;
-        font-weight: 500;
-        color: white;
-        line-height: 0;
-        white-space: nowrap;
-        background-color: #5b6267;
-        border: 1px solid #5b6267;
-        border-radius: 5px;
-        cursor: pointer;
-        outline: 0;
-        transition: 0.3s all ease;
+      .controls {
+        display: flex;
+        gap: 12px;
+
+        button {
+          font-family: 'Poppins';
+          align-items: center;
+          justify-content: center;
+          height: 32px;
+          padding: 0 16px;
+          font-size: 12px;
+          font-weight: 500;
+          color: white;
+          line-height: 0;
+          white-space: nowrap;
+          background-color: #5b6267;
+          border: 1px solid #5b6267;
+          border-radius: 5px;
+          cursor: pointer;
+          outline: 0;
+          transition: 0.3s all ease;
+          min-width: 76px;
+        }
       }
     }
 
@@ -83,6 +89,7 @@
       }
 
       .mat-cell {
+        padding: 8px 0px;
         color: white;
 
         .item-icon {
@@ -98,6 +105,26 @@
         .quest {
           display: flex;
         }
+
+        .barters,
+        .crafts {
+          display: flex;
+
+          .separator {
+            display: flex;
+            align-self: center;
+            margin-bottom: 0px;
+          }
+
+          .barter,
+          .craft {
+            display: flex;
+          }
+        }
+      }
+
+      .mat-row:nth-child(odd) {
+        background: rgba(0, 0, 0, 0.25);
       }
     }
   }
