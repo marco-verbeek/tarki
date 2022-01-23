@@ -1,6 +1,6 @@
 <h1 align="center">Tarki Tools</h1>
 <hr>
-Spare-time created tool that allows EFT players to search for game items' info. <br/>
+Tarki is a full-stack app that allows Escape from Tarkov players to quickly and efficiently search for items' prices, use in quests, barters and more!
 <br/>
 <br/>
 
