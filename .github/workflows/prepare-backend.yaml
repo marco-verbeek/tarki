@@ -1,0 +1,34 @@
+name: Lint and Test Backend
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'apps/api/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'apps/api/**'
+
+jobs:
+  run-linters-and-test:
+    name: Run linters and test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+
+      - name: Install deps, run linters and tests
+        working-directory: ./apps/api
+        run: |
+          npm ci
+          npm run lint
+          npm run test
