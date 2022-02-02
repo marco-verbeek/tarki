@@ -18,4 +18,4 @@ jobs:
           heroku_email: ${{secrets.HEROKU_EMAIL}}'
           heroku_app_name: 'tarki-api'
           appdir: 'apps/api'
-          procfile: 'web: node dist/main.js'
+          procfile: 'web: node dist/main'
