@@ -11,3 +11,6 @@ Tarki is a full-stack app that allows Escape from Tarkov players to quickly and 
 | Example Usage |
 |---|
 | <a target="_blank" href="https://gfycat.com/whimsicalsinglegoldeneye"> <img src="https://thumbs.gfycat.com/WhimsicalSingleGoldeneye-size_restricted.gif" width="450" alt="tarki example usage"> </a> |
+
+### Deployed version
+You can access the deployed API [here](https://tarki-api.herokuapp.com), example request [here](https://tarki-api.herokuapp.com/items/salewa).
